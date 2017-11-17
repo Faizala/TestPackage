@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext/postgresql-9.4-1201.jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/selenium-server-standalone-2.53.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/org.apache.commons.httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/json-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/jtidy-r872-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/couchdb4j-0.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/java-client-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/itextpdf-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/ezmorph-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/iSAFE_3.0_Forbes_05102016.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/apache-commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext/org.apache.commons.beanutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

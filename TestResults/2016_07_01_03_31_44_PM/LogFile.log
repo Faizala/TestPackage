@@ -1,0 +1,487 @@
+ INFO | 2016-07-01 15:31:44,433 | Common.java | 85 | Startup activites...
+ INFO | 2016-07-01 15:31:44,444 | Common.java | 85 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Morning_Report\TestResults\2016_07_01_03_31_44_PM
+ INFO | 2016-07-01 15:31:44,444 | Common.java | 85 | Log File creation successful : LogFile.log
+ INFO | 2016-07-01 15:31:44,448 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:31:44,454 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:31:44,872 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:31:45,092 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 15:31:45,093 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 15:31:45,170 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:45,171 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:45,171 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:45,172 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 15:31:45,173 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 15:31:45,220 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:45,220 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:45,221 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 15:31:46,209 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,209 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,210 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,210 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,210 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 15:31:46,211 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 15:31:46,211 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,211 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:31:46,211 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 15:31:46,211 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 15:31:46,213 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 15:31:46,213 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 15:31:46,214 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 15:31:46,214 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 15:31:46,245 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:31:46,245 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:31:46,245 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:31:46,246 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:31:50,096 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 15:31:50,096 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 15:31:50,108 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 15:31:50,109 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 15:31:50,110 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 15:31:50,110 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 15:31:50,119 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 15:31:50,120 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 15:31:50,120 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 15:31:50,120 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:05,140 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:05,140 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:05,143 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,144 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:05,145 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,145 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:05,158 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:05,159 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:05,160 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 15:32:05,160 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:05,160 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 15:32:05,161 | Common.java | 85 | ##### Start of Test Case : Welcome Page Validations #####
+ INFO | 2016-07-01 15:32:05,162 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,163 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 15:32:05,334 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,335 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,348 | Common.java | 85 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-07-01 15:32:05,348 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 15:32:05,349 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='content-inner']
+ INFO | 2016-07-01 15:32:05,349 | Common.java | 85 | Desktop_1_1Locator Description : Quote of the day
+ INFO | 2016-07-01 15:32:05,463 | Common.java | 85 | Sucessfully got the text 'QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers'
+ INFO | 2016-07-01 15:32:05,464 | Common.java | 85 | Forbes Quote of the Day-QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers
+ INFO | 2016-07-01 15:32:05,465 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,466 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,467 | Common.java | 85 | Parsing : Welcome Page Ads#xpath=//div[@id='ads']
+ INFO | 2016-07-01 15:32:05,467 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 15:32:05,467 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='ads']
+ INFO | 2016-07-01 15:32:05,468 | Common.java | 85 | Desktop_1_1Locator Description : Welcome Page Ads
+ INFO | 2016-07-01 15:32:05,504 | Common.java | 85 | Screenshot of Welcome Ads
+ INFO | 2016-07-01 15:32:05,505 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,990 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:05,990 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:05,992 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:05,993 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,994 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:05,994 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,995 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:05,996 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,997 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:05,997 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 15:32:05,998 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 15:32:06,008 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 15:32:06,009 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 15:32:06,011 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,014 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,016 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:32:06,016 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:32:06,017 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,022 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:06,023 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:06,023 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 15:32:06,024 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 15:32:06,024 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 15:32:06,024 | Common.java | 85 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-07-01 15:32:06,025 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,026 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 15:32:06,213 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,213 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:06,314 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,315 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,332 | Common.java | 85 | Redirected to home page Forbes Welcome
+ INFO | 2016-07-01 15:32:06,333 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:06,333 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 15:32:07,334 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 15:32:07,335 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 15:32:07,336 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:07,339 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:07,341 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:32:07,343 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:32:07,345 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:07,348 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 15:32:07,349 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 15:32:07,349 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:07,351 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:07,352 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:32:07,353 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:32:07,353 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:21,742 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:21,743 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 15:32:21,745 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:21,747 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:32:21,762 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:21,762 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:21,762 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:21,763 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:22,460 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:23,460 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:23,460 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:23,460 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:23,460 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:24,048 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:25,049 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:25,049 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:25,049 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:25,049 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:25,591 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:26,592 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:26,593 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:26,593 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:26,593 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:27,191 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:28,192 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:28,192 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:28,193 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:28,193 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:28,703 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:29,703 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:29,703 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:29,703 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:29,703 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:30,240 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:31,241 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:31,241 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:31,241 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:31,241 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:31,780 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:32,780 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:32,780 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:32,780 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:32,780 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:33,281 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:34,282 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:34,283 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:34,283 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:34,283 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:34,749 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:35,749 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:35,749 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:35,749 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:35,749 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:36,231 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:37,232 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:37,232 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:37,232 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:37,232 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:37,706 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:38,707 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:38,709 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:38,710 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:38,710 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:39,184 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:40,184 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:40,184 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:40,184 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:40,184 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:40,653 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:41,653 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:41,653 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:41,653 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:41,653 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:42,119 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:43,120 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:43,120 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:43,120 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:43,120 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:43,609 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:44,609 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:44,609 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:44,609 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:44,610 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:45,095 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:46,095 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:46,095 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:46,095 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:46,095 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:46,560 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:47,561 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:47,561 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:47,561 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:47,561 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:48,050 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:49,051 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:49,051 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:49,051 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:49,051 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:49,543 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:50,543 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:50,543 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:50,543 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:50,543 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:51,018 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:52,018 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:52,018 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:52,018 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:52,018 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:52,466 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:53,466 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:53,466 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:53,466 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:53,466 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:53,959 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:54,961 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:54,961 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:54,961 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:54,961 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:55,500 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:56,501 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:56,501 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:56,501 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:56,501 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:56,987 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:57,988 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:57,988 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:57,989 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:57,989 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:58,478 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:32:59,479 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:32:59,479 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:32:59,479 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:32:59,479 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:32:59,966 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:00,966 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:00,966 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:00,966 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:00,966 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:01,470 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:02,470 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:02,470 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:02,470 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:02,470 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:02,951 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:03,952 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:03,952 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:03,952 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:03,953 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:04,412 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:05,412 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:05,412 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:05,412 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:05,412 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:05,900 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 15:33:06,900 | Common.java | 93 | Hammburger element not found in '30' seconds timeout 
+ INFO | 2016-07-01 15:33:06,901 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,461 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,462 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,463 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:07,463 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,463 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,464 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,464 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,464 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:07,472 | Common.java | 93 | Exception Error 'java.lang.NullPointerException'
+ INFO | 2016-07-01 15:33:07,473 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,934 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,935 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:07,936 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:07,937 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,938 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,939 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,939 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:07,939 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:07,940 | Common.java | 93 | Exception Error 'java.lang.NullPointerException'
+ INFO | 2016-07-01 15:33:07,940 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,402 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,403 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,403 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:08,404 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,404 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,404 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,404 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,404 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:08,405 | Common.java | 93 | Exception Error 'java.lang.NullPointerException'
+ INFO | 2016-07-01 15:33:08,405 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,880 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,880 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:08,881 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:08,881 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,881 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,881 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,882 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:08,882 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:08,882 | Common.java | 93 | Exception Error 'java.lang.NullPointerException'
+ INFO | 2016-07-01 15:33:08,882 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,357 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,358 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,358 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:09,358 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,359 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,359 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,359 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,359 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:09,360 | Common.java | 93 | Exception Error 'java.lang.NullPointerException'
+ INFO | 2016-07-01 15:33:09,360 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,801 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,802 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:09,802 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:09,802 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,802 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,802 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,803 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:09,803 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 15:33:09,803 | Common.java | 93 | Hammburger element found but its not in editable/clickable state within 5 timeouts
+ INFO | 2016-07-01 15:33:09,803 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:10,230 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:10,230 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:10,231 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:10,231 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:10,231 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:10,231 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:10,231 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:10,232 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 15:33:10,232 | Common.java | 85 | Parsing : Business#xpath=//a[text()='Business']
+ INFO | 2016-07-01 15:33:10,232 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:10,232 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Business']
+ INFO | 2016-07-01 15:33:10,232 | Common.java | 85 | Desktop_1_2Locator Description : Business
+ INFO | 2016-07-01 15:33:10,263 | Common.java | 85 | Hamburger menu is displayed
+ INFO | 2016-07-01 15:33:10,263 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:10,270 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:10,270 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:10,270 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:10,270 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:10,719 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:11,721 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:11,721 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:11,721 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:11,721 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:12,204 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:13,204 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:13,204 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:13,204 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:13,204 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:13,664 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:14,664 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:14,664 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:14,664 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:14,664 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:15,184 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:16,185 | Common.java | 85 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-07-01 15:33:16,185 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:16,185 | Common.java | 85 | Desktop_1_2-Locator : //li[@id='showNav']
+ INFO | 2016-07-01 15:33:16,185 | Common.java | 85 | Desktop_1_2Locator Description : Hammburger
+ INFO | 2016-07-01 15:33:16,675 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 15:33:17,675 | Common.java | 93 | Hammburger element not found in '5' seconds timeout 
+ INFO | 2016-07-01 15:33:17,676 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:18,150 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:18,151 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:18,152 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:18,152 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:18,152 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:18,152 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:18,152 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:18,153 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 15:33:18,266 | Common.java | 85 | Click on :Hammburger
+ INFO | 2016-07-01 15:33:18,267 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:18,269 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:18,270 | Common.java | 85 | Parsing : Top Ads#id=mobilerec
+ INFO | 2016-07-01 15:33:18,270 | Common.java | 85 | Desktop_1_2-Identify By : id
+ INFO | 2016-07-01 15:33:18,270 | Common.java | 85 | Desktop_1_2-Locator : mobilerec
+ INFO | 2016-07-01 15:33:18,270 | Common.java | 85 | Desktop_1_2Locator Description : Top Ads
+ INFO | 2016-07-01 15:33:40,929 | Common.java | 85 | Mobile Rec Ads is not present
+ INFO | 2016-07-01 15:33:40,930 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:40,931 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:40,931 | Common.java | 85 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-07-01 15:33:40,931 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:40,931 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='mobile']
+ INFO | 2016-07-01 15:33:40,932 | Common.java | 85 | Desktop_1_2Locator Description : Mobile Ads
+ INFO | 2016-07-01 15:33:46,430 | Common.java | 85 | Mobile Ads is not present
+ INFO | 2016-07-01 15:33:46,431 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:46,432 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:46,440 | Common.java | 85 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-07-01 15:33:46,440 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:46,440 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Home']
+ INFO | 2016-07-01 15:33:46,440 | Common.java | 85 | Desktop_1_2Locator Description : Home Tab
+ INFO | 2016-07-01 15:33:46,934 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:47,934 | Common.java | 85 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-07-01 15:33:47,934 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:47,934 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Home']
+ INFO | 2016-07-01 15:33:47,934 | Common.java | 85 | Desktop_1_2Locator Description : Home Tab
+ INFO | 2016-07-01 15:33:48,417 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:49,418 | Common.java | 85 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-07-01 15:33:49,418 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:49,418 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Home']
+ INFO | 2016-07-01 15:33:49,418 | Common.java | 85 | Desktop_1_2Locator Description : Home Tab
+ INFO | 2016-07-01 15:33:49,889 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:50,889 | Common.java | 85 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-07-01 15:33:50,889 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:50,890 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Home']
+ INFO | 2016-07-01 15:33:50,890 | Common.java | 85 | Desktop_1_2Locator Description : Home Tab
+ INFO | 2016-07-01 15:33:51,339 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 15:33:52,339 | Common.java | 85 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-07-01 15:33:52,339 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 15:33:52,339 | Common.java | 85 | Desktop_1_2-Locator : //a[text()='Home']
+ INFO | 2016-07-01 15:33:52,339 | Common.java | 85 | Desktop_1_2Locator Description : Home Tab
+ INFO | 2016-07-01 15:33:52,795 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 15:33:53,795 | Common.java | 93 | Home Tab element not found in '5' seconds timeout 
+ INFO | 2016-07-01 15:33:53,796 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:54,422 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:54,423 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:33:54,423 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:33:54,424 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:54,424 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:54,424 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:54,424 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:33:54,424 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 15:33:54,864 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 15:33:56,347 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 15:33:57,795 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 15:33:59,235 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 15:34:00,687 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ERROR | 2016-07-01 15:34:01,688 | Common.java | 93 | Home Tab element found but its not in editable/clickable state within 5 timeouts
+ INFO | 2016-07-01 15:34:01,689 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:02,281 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:02,282 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:02,282 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:02,282 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:34:02,282 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:34:02,283 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:34:02,283 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 15:34:02,283 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 15:34:02,286 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 15:34:02,286 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 15:34:02,287 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:02,288 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:02,289 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:34:02,289 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:02,289 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:03,125 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,126 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,126 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:03,127 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:03,128 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,129 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,129 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:03,129 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:03,130 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,130 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,130 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:03,131 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:03,131 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,132 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 15:34:03,132 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 15:34:03,132 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 15:34:03,266 | Common.java | 85 | Cleanup activites...
+ INFO | 2016-07-01 15:34:03,266 | Common.java | 85 | Cleanup activities - Done...
+ INFO | 2016-07-01 15:34:03,266 | Common.java | 85 | ###################################
+ INFO | 2016-07-01 15:34:03,266 | Common.java | 85 | Script Execution Complete
+ INFO | 2016-07-01 15:34:03,266 | Common.java | 85 | ####################################

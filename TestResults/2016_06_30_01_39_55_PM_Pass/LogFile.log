@@ -1,0 +1,1543 @@
+ INFO | 2016-06-30 13:39:55,431 | Common.java | 82 | Startup activites...
+ INFO | 2016-06-30 13:39:55,436 | Common.java | 82 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Morning_Report\TestResults\2016_06_30_01_39_55_PM
+ INFO | 2016-06-30 13:39:55,437 | Common.java | 82 | Log File creation successful : LogFile.log
+ INFO | 2016-06-30 13:39:55,442 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:39:55,450 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:39:55,927 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:39:56,041 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-30 13:39:56,042 | Common.java | 82 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-30 13:39:56,086 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-30 13:39:56,087 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-30 13:39:56,087 | Common.java | 82 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-06-30 13:39:56,535 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:39:56,536 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:39:56,537 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:39:56,537 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:39:56,538 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:39:56,542 | Common.java | 82 | Opening Chrome Browser...
+ INFO | 2016-06-30 13:39:56,543 | Common.java | 82 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-06-30 13:39:56,544 | Common.java | 82 | Getting value of AppType from Test Configuration file : Web
+ INFO | 2016-06-30 13:40:07,458 | Common.java | 82 | Browser: Open Successful : chrome
+ INFO | 2016-06-30 13:40:07,458 | Common.java | 82 | Getting value of AppType from Test Configuration file : Web
+ INFO | 2016-06-30 13:40:07,459 | Common.java | 82 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-06-30 13:40:07,459 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:40:15,908 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:40:15,911 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:40:15,914 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-30 13:40:15,915 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-30 13:40:15,915 | Common.java | 82 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-06-30 13:40:15,917 | Common.java | 82 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-30 13:40:15,933 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:15,934 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:15,934 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:40:15,934 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:15,935 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:40:15,935 | Common.java | 82 | ##### Start of Test Case : Welcome Page Validations #####
+ INFO | 2016-06-30 13:40:15,936 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:15,937 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:40:16,068 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:16,069 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:16,079 | Common.java | 82 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-06-30 13:40:16,080 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:40:16,080 | Common.java | 82 | SamsungS5-Locator : //div[@class='content-inner']
+ INFO | 2016-06-30 13:40:16,080 | Common.java | 82 | SamsungS5Locator Description : Quote of the day
+ INFO | 2016-06-30 13:40:16,388 | Common.java | 82 | Sucessfully got the text 'QUOTE OF THE DAY
+"Throw yourself full throttle in the direction of what consumes your thoughts and ambitions."
+Samantha Wills'
+ INFO | 2016-06-30 13:40:16,388 | Common.java | 82 | Forbes Quote of the Day-QUOTE OF THE DAY
+"Throw yourself full throttle in the direction of what consumes your thoughts and ambitions."
+Samantha Wills
+ INFO | 2016-06-30 13:40:16,389 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:16,394 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:16,394 | Common.java | 82 | Parsing : Welcome Page Ads#xpath=//div[@id='ads']
+ INFO | 2016-06-30 13:40:16,395 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:40:16,395 | Common.java | 82 | SamsungS5-Locator : //div[@id='ads']
+ INFO | 2016-06-30 13:40:16,395 | Common.java | 82 | SamsungS5Locator Description : Welcome Page Ads
+ INFO | 2016-06-30 13:40:16,508 | Common.java | 82 | Screenshot of Welcome Ads
+ INFO | 2016-06-30 13:40:16,509 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:51,432 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:51,433 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:51,562 | Common.java | 82 | Redirected to home page Forbes Asia
+ INFO | 2016-06-30 13:40:51,564 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:51,564 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:40:52,567 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:40:52,569 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:40:52,570 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:52,591 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:52,596 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:40:52,596 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:40:52,597 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:52,599 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:52,600 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:52,600 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:40:52,600 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:40:52,600 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:40:52,601 | Common.java | 82 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-06-30 13:40:52,602 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:52,602 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:40:52,727 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:40:52,727 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:41:24,160 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:41:24,161 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:41:24,163 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:24,164 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:24,184 | Common.java | 82 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-06-30 13:41:24,185 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:24,185 | Common.java | 82 | SamsungS5-Locator : //li[@id='showNav']
+ INFO | 2016-06-30 13:41:24,185 | Common.java | 82 | SamsungS5Locator Description : Hammburger
+ INFO | 2016-06-30 13:41:27,851 | Common.java | 82 | Click on :Hammburger
+ INFO | 2016-06-30 13:41:27,853 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:27,854 | Common.java | 82 | Parsing : Business#xpath=//a[text()='Business']
+ INFO | 2016-06-30 13:41:27,854 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:27,854 | Common.java | 82 | SamsungS5-Locator : //a[text()='Business']
+ INFO | 2016-06-30 13:41:27,854 | Common.java | 82 | SamsungS5Locator Description : Business
+ INFO | 2016-06-30 13:41:27,990 | Common.java | 82 | Hamburger menu is displayed
+ INFO | 2016-06-30 13:41:27,991 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:28,004 | Common.java | 82 | Parsing : Hammburger#xpath=//li[@id='showNav']
+ INFO | 2016-06-30 13:41:28,005 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:28,005 | Common.java | 82 | SamsungS5-Locator : //li[@id='showNav']
+ INFO | 2016-06-30 13:41:28,005 | Common.java | 82 | SamsungS5Locator Description : Hammburger
+ INFO | 2016-06-30 13:41:28,430 | Common.java | 82 | Click on :Hammburger
+ INFO | 2016-06-30 13:41:28,432 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:28,437 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:28,438 | Common.java | 82 | Parsing : Top Ads#id=mobilerec
+ INFO | 2016-06-30 13:41:28,438 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:41:28,438 | Common.java | 82 | SamsungS5-Locator : mobilerec
+ INFO | 2016-06-30 13:41:28,439 | Common.java | 82 | SamsungS5Locator Description : Top Ads
+ INFO | 2016-06-30 13:41:28,610 | Common.java | 82 | Parsing : Top Ads#id=mobilerec
+ INFO | 2016-06-30 13:41:28,610 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:41:28,611 | Common.java | 82 | SamsungS5-Locator : mobilerec
+ INFO | 2016-06-30 13:41:28,611 | Common.java | 82 | SamsungS5Locator Description : Top Ads
+ INFO | 2016-06-30 13:41:28,759 | Common.java | 82 | Scroll to Top Ads
+ INFO | 2016-06-30 13:41:28,819 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:41:28,820 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:41:34,160 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:34,162 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:34,162 | Common.java | 82 | Mobile Rec Ads is present
+ INFO | 2016-06-30 13:41:34,163 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:34,164 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:34,165 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:41:34,165 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:34,165 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:41:34,165 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:41:34,387 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:41:34,388 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:34,388 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:41:34,388 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:41:34,585 | Common.java | 82 | Scroll to Mobile Ads
+ INFO | 2016-06-30 13:41:34,610 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:41:34,611 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:41:39,854 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:39,856 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:39,857 | Common.java | 82 | Mobile Ads is present
+ INFO | 2016-06-30 13:41:39,858 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:39,859 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:39,879 | Common.java | 82 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-06-30 13:41:39,879 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:39,879 | Common.java | 82 | SamsungS5-Locator : //a[text()='Home']
+ INFO | 2016-06-30 13:41:39,880 | Common.java | 82 | SamsungS5Locator Description : Home Tab
+ INFO | 2016-06-30 13:41:40,315 | Common.java | 82 | Click on :Home Tab
+ INFO | 2016-06-30 13:41:40,316 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:40,317 | Common.java | 82 | Parsing : Heading#xpath=//h3[text()='Top Stories']
+ INFO | 2016-06-30 13:41:40,317 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:40,317 | Common.java | 82 | SamsungS5-Locator : //h3[text()='Top Stories']
+ INFO | 2016-06-30 13:41:40,318 | Common.java | 82 | SamsungS5Locator Description : Heading
+ INFO | 2016-06-30 13:41:40,461 | Common.java | 82 | Parsing : Heading#xpath=//h3[text()='Top Stories']
+ INFO | 2016-06-30 13:41:40,461 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:40,461 | Common.java | 82 | SamsungS5-Locator : //h3[text()='Top Stories']
+ INFO | 2016-06-30 13:41:40,461 | Common.java | 82 | SamsungS5Locator Description : Heading
+ INFO | 2016-06-30 13:41:40,709 | Common.java | 82 | Sucessfully got the text 'Top Stories'
+ INFO | 2016-06-30 13:41:40,710 | Common.java | 82 | Home Tab is working Top Stories
+ INFO | 2016-06-30 13:41:40,711 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:40,730 | Common.java | 82 | Parsing : New Post#xpath=//a[text()='New Posts']
+ INFO | 2016-06-30 13:41:40,731 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:40,731 | Common.java | 82 | SamsungS5-Locator : //a[text()='New Posts']
+ INFO | 2016-06-30 13:41:40,731 | Common.java | 82 | SamsungS5Locator Description : New Post
+ INFO | 2016-06-30 13:41:41,195 | Common.java | 82 | Click on :New Post
+ INFO | 2016-06-30 13:41:41,197 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:41:41,197 | Common.java | 82 | Parsing : New Posts#xpath=//h2[text()='Real Time']
+ INFO | 2016-06-30 13:41:41,197 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:41:41,197 | Common.java | 82 | SamsungS5-Locator : //h2[text()='Real Time']
+ INFO | 2016-06-30 13:41:41,198 | Common.java | 82 | SamsungS5Locator Description : New Posts
+ INFO | 2016-06-30 13:46:02,680 | Common.java | 82 | Parsing : New Posts#xpath=//h2[text()='Real Time']
+ INFO | 2016-06-30 13:46:02,680 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:02,680 | Common.java | 82 | SamsungS5-Locator : //h2[text()='Real Time']
+ INFO | 2016-06-30 13:46:02,681 | Common.java | 82 | SamsungS5Locator Description : New Posts
+ INFO | 2016-06-30 13:46:03,097 | Common.java | 82 | Sucessfully got the text 'Real Time'
+ INFO | 2016-06-30 13:46:03,097 | Common.java | 82 | New Posts Tab is working Real Time
+ INFO | 2016-06-30 13:46:03,098 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:03,121 | Common.java | 82 | Parsing : Most Popular#xpath=//a[text()='Popular']
+ INFO | 2016-06-30 13:46:03,121 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:03,121 | Common.java | 82 | SamsungS5-Locator : //a[text()='Popular']
+ INFO | 2016-06-30 13:46:03,122 | Common.java | 82 | SamsungS5Locator Description : Most Popular
+ INFO | 2016-06-30 13:46:03,526 | Common.java | 82 | Click on :Most Popular
+ INFO | 2016-06-30 13:46:03,528 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:03,529 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//h2[text()='Most Popular']
+ INFO | 2016-06-30 13:46:03,529 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:03,529 | Common.java | 82 | SamsungS5-Locator : //h2[text()='Most Popular']
+ INFO | 2016-06-30 13:46:03,530 | Common.java | 82 | SamsungS5Locator Description : Most Popular Heading
+ INFO | 2016-06-30 13:46:13,538 | Common.java | 82 | Parsing : Most Popular Heading#xpath=//h2[text()='Most Popular']
+ INFO | 2016-06-30 13:46:13,539 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:13,539 | Common.java | 82 | SamsungS5-Locator : //h2[text()='Most Popular']
+ INFO | 2016-06-30 13:46:13,539 | Common.java | 82 | SamsungS5Locator Description : Most Popular Heading
+ INFO | 2016-06-30 13:46:13,818 | Common.java | 82 | Sucessfully got the text 'Most Popular'
+ INFO | 2016-06-30 13:46:13,818 | Common.java | 82 | Most Popular Tab is working Most Popular
+ INFO | 2016-06-30 13:46:13,819 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:13,831 | Common.java | 82 | Parsing : Home Tab#xpath=//a[text()='Home']
+ INFO | 2016-06-30 13:46:13,831 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:13,831 | Common.java | 82 | SamsungS5-Locator : //a[text()='Home']
+ INFO | 2016-06-30 13:46:13,831 | Common.java | 82 | SamsungS5Locator Description : Home Tab
+ INFO | 2016-06-30 13:46:14,237 | Common.java | 82 | Click on :Home Tab
+ INFO | 2016-06-30 13:46:14,238 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:23,453 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:23,454 | Common.java | 82 | Parsing : Top Stories#xpath=//li[@class='promostory promostory-3 ']//h4//a
+ INFO | 2016-06-30 13:46:23,454 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:23,455 | Common.java | 82 | SamsungS5-Locator : //li[@class='promostory promostory-3 ']//h4//a
+ INFO | 2016-06-30 13:46:23,455 | Common.java | 82 | SamsungS5Locator Description : Top Stories
+ INFO | 2016-06-30 13:46:23,773 | Common.java | 82 | Parsing : Top Stories#xpath=//li[@class='promostory promostory-3 ']//h4//a
+ INFO | 2016-06-30 13:46:23,774 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:23,774 | Common.java | 82 | SamsungS5-Locator : //li[@class='promostory promostory-3 ']//h4//a
+ INFO | 2016-06-30 13:46:23,775 | Common.java | 82 | SamsungS5Locator Description : Top Stories
+ INFO | 2016-06-30 13:46:28,174 | Common.java | 82 | Sucessfully got the text 'Fed Makes Morgan Stanley Resubmit Capital Plan, Doesn't Stop Dividend Hike'
+ INFO | 2016-06-30 13:46:28,175 | Common.java | 82 | First Link of Top Stories ---Fed Makes Morgan Stanley Resubmit Capital Plan, Doesn't Stop Dividend Hike
+ INFO | 2016-06-30 13:46:28,176 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:28,177 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:28,177 | Common.java | 82 | Before Video plays
+ INFO | 2016-06-30 13:46:28,179 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:28,200 | Common.java | 82 | Parsing : Video #xpath=//video
+ INFO | 2016-06-30 13:46:28,200 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:28,200 | Common.java | 82 | SamsungS5-Locator : //video
+ INFO | 2016-06-30 13:46:28,200 | Common.java | 82 | SamsungS5Locator Description : Video 
+ INFO | 2016-06-30 13:46:28,390 | Common.java | 82 | Scroll to Video 
+ INFO | 2016-06-30 13:46:28,450 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:28,451 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:46:33,075 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:33,076 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:33,076 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:46:36,077 | Common.java | 82 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-06-30 13:46:36,077 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:36,077 | Common.java | 82 | SamsungS5-Locator : //button
+ INFO | 2016-06-30 13:46:36,077 | Common.java | 82 | SamsungS5Locator Description : Video Play button
+ INFO | 2016-06-30 13:46:36,251 | Common.java | 82 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-06-30 13:46:36,252 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:36,252 | Common.java | 82 | SamsungS5-Locator : //button
+ INFO | 2016-06-30 13:46:36,252 | Common.java | 82 | SamsungS5Locator Description : Video Play button
+ INFO | 2016-06-30 13:46:36,728 | Common.java | 82 | Click on :Video Play button
+ INFO | 2016-06-30 13:46:36,730 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:36,730 | Common.java | 82 | Waiting for 6 seconds...
+ INFO | 2016-06-30 13:46:42,730 | Common.java | 82 | Video Played for 6 seconds
+ INFO | 2016-06-30 13:46:42,731 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:42,791 | Common.java | 82 | Parsing : Video #xpath=//video
+ INFO | 2016-06-30 13:46:42,792 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:42,792 | Common.java | 82 | SamsungS5-Locator : //video
+ INFO | 2016-06-30 13:46:42,792 | Common.java | 82 | SamsungS5Locator Description : Video 
+ INFO | 2016-06-30 13:46:43,007 | Common.java | 82 | Scroll to Video 
+ INFO | 2016-06-30 13:46:43,049 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:43,049 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:46:47,210 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,212 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,214 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,513 | Common.java | 82 | Most Popular (Top Stories - 01)Fear: Good For Fighting Wooly Mammoths, Bad For Investment Strategy
+ INFO | 2016-06-30 13:46:47,514 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,655 | Common.java | 82 | Most Popular (Top Stories - 11)10 Things To Never Apologize For Again
+ INFO | 2016-06-30 13:46:47,656 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,768 | Common.java | 82 | Most Popular (Top Stories - 21)Five Signs You're Ready For A Management Role -- And Five Signs You Aren't
+ INFO | 2016-06-30 13:46:47,769 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:47,891 | Common.java | 82 | Most Popular (Top Stories - 31)The Alternative Lending Bubble Is Here, And It's Time To Do Something About It
+ INFO | 2016-06-30 13:46:47,892 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:48,015 | Common.java | 82 | Most Popular (Top Stories - 41)iPhone 7 Double Leak Reveals Significant Design Change
+ INFO | 2016-06-30 13:46:48,019 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:48,020 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:48,059 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:48,060 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:46:51,060 | Common.java | 82 | Parsing : See More#xpath=//a[text()='See More Popular Stories »']
+ INFO | 2016-06-30 13:46:51,060 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:51,060 | Common.java | 82 | SamsungS5-Locator : //a[text()='See More Popular Stories »']
+ INFO | 2016-06-30 13:46:51,060 | Common.java | 82 | SamsungS5Locator Description : See More
+ INFO | 2016-06-30 13:46:51,224 | Common.java | 82 | Most Popular See More Option is displayed
+ INFO | 2016-06-30 13:46:51,226 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:51,228 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:51,260 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:51,261 | Common.java | 82 | Waiting for 4 seconds...
+ INFO | 2016-06-30 13:46:55,262 | Common.java | 82 | Parsing : Forbes BrandVoice#xpath=//div[@class='str-mobile-fixed-unit']//a
+ INFO | 2016-06-30 13:46:55,262 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:55,262 | Common.java | 82 | SamsungS5-Locator : //div[@class='str-mobile-fixed-unit']//a
+ INFO | 2016-06-30 13:46:55,263 | Common.java | 82 | SamsungS5Locator Description : Forbes BrandVoice
+ INFO | 2016-06-30 13:46:55,453 | Common.java | 82 | Parsing : Forbes BrandVoice#xpath=//div[@class='str-mobile-fixed-unit']//a
+ INFO | 2016-06-30 13:46:55,724 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:55,724 | Common.java | 82 | SamsungS5-Locator : //div[@class='str-mobile-fixed-unit']//a
+ INFO | 2016-06-30 13:46:55,724 | Common.java | 82 | SamsungS5Locator Description : Forbes BrandVoice
+ INFO | 2016-06-30 13:46:56,048 | Common.java | 82 | Sucessfully got the text 'Wimbledon Aces The Digital Experience Served To Tennis Fans Around The World
+IBM Contributor, IBM'
+ INFO | 2016-06-30 13:46:56,048 | Common.java | 82 | Forbes Brandvoice is displayedWimbledon Aces The Digital Experience Served To Tennis Fans Around The World
+IBM Contributor, IBM
+ INFO | 2016-06-30 13:46:56,049 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,050 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,091 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:56,100 | Common.java | 82 | Parsing : Feature#xpath=//h3[text()='Featured']
+ INFO | 2016-06-30 13:46:56,100 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:56,100 | Common.java | 82 | SamsungS5-Locator : //h3[text()='Featured']
+ INFO | 2016-06-30 13:46:56,100 | Common.java | 82 | SamsungS5Locator Description : Feature
+ INFO | 2016-06-30 13:46:56,237 | Common.java | 82 | Parsing : Feature#xpath=//h3[text()='Featured']
+ INFO | 2016-06-30 13:46:56,237 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:56,237 | Common.java | 82 | SamsungS5-Locator : //h3[text()='Featured']
+ INFO | 2016-06-30 13:46:56,237 | Common.java | 82 | SamsungS5Locator Description : Feature
+ INFO | 2016-06-30 13:46:56,481 | Common.java | 82 | Sucessfully got the text 'Featured'
+ INFO | 2016-06-30 13:46:56,481 | Common.java | 82 | -Featured-
+ INFO | 2016-06-30 13:46:56,482 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,482 | Common.java | 82 | Parsing : Features#xpath=//section[@class='stack fullwidth special_feature']//article//h3//a
+ INFO | 2016-06-30 13:46:56,483 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:56,483 | Common.java | 82 | SamsungS5-Locator : //section[@class='stack fullwidth special_feature']//article//h3//a
+ INFO | 2016-06-30 13:46:56,483 | Common.java | 82 | SamsungS5Locator Description : Features
+ INFO | 2016-06-30 13:46:56,621 | Common.java | 82 | Parsing : Features#xpath=//section[@class='stack fullwidth special_feature']//article//h3//a
+ INFO | 2016-06-30 13:46:56,622 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:56,622 | Common.java | 82 | SamsungS5-Locator : //section[@class='stack fullwidth special_feature']//article//h3//a
+ INFO | 2016-06-30 13:46:56,622 | Common.java | 82 | SamsungS5Locator Description : Features
+ INFO | 2016-06-30 13:46:56,923 | Common.java | 82 | Sucessfully got the text 'DellVoice: Cities Transformed'
+ INFO | 2016-06-30 13:46:56,923 | Common.java | 82 | Feature First Link is ---DellVoice: Cities Transformed
+ INFO | 2016-06-30 13:46:56,924 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,924 | Common.java | 82 | Feature Link is displayed
+ INFO | 2016-06-30 13:46:56,925 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,926 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:56,951 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:56,951 | Common.java | 82 | Parsing : Forbes Lists#xpath=//div[@class='featArticle cf']//a
+ INFO | 2016-06-30 13:46:56,951 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:56,951 | Common.java | 82 | SamsungS5-Locator : //div[@class='featArticle cf']//a
+ INFO | 2016-06-30 13:46:56,952 | Common.java | 82 | SamsungS5Locator Description : Forbes Lists
+ INFO | 2016-06-30 13:46:57,099 | Common.java | 82 | Parsing : Forbes Lists#xpath=//div[@class='featArticle cf']//a
+ INFO | 2016-06-30 13:46:57,100 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:46:57,100 | Common.java | 82 | SamsungS5-Locator : //div[@class='featArticle cf']//a
+ INFO | 2016-06-30 13:46:57,100 | Common.java | 82 | SamsungS5Locator Description : Forbes Lists
+ INFO | 2016-06-30 13:46:57,356 | Common.java | 82 | Sucessfully got the text ''
+ INFO | 2016-06-30 13:46:57,356 | Common.java | 82 | Forbes Lists First Link is ---
+ INFO | 2016-06-30 13:46:57,357 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:57,357 | Common.java | 82 | Forbes Lists is displayed
+ INFO | 2016-06-30 13:46:57,358 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:57,358 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:46:57,393 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:46:57,393 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:47:00,393 | Common.java | 82 | Parsing : Related Topics#xpath=//div[@id='mobiletext']
+ INFO | 2016-06-30 13:47:00,393 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:47:00,394 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobiletext']
+ INFO | 2016-06-30 13:47:00,394 | Common.java | 82 | SamsungS5Locator Description : Related Topics
+ INFO | 2016-06-30 13:47:00,564 | Common.java | 82 | Related Topics are displayed
+ INFO | 2016-06-30 13:47:00,565 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:00,565 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:47:01,566 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:47:01,566 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:47:01,567 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:01,568 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:01,570 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:47:01,570 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:47:01,571 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:01,573 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:47:01,574 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:47:01,574 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:47:01,574 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:47:01,575 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:47:01,575 | Common.java | 82 | ##### Start of Test Case : Article Page Validations #####
+ INFO | 2016-06-30 13:47:01,576 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:01,576 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:47:01,692 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:01,693 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:47:10,727 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:47:10,727 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:47:10,729 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:11,271 | Common.java | 82 | Text: 'Top Stories' is present
+ INFO | 2016-06-30 13:47:11,315 | Common.java | 82 | Parsing : Main Article #xpath=//article[@class='feature promostory promostory-1']
+ INFO | 2016-06-30 13:47:11,316 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:47:11,316 | Common.java | 82 | SamsungS5-Locator : //article[@class='feature promostory promostory-1']
+ INFO | 2016-06-30 13:47:11,316 | Common.java | 82 | SamsungS5Locator Description : Main Article 
+ INFO | 2016-06-30 13:47:15,622 | Common.java | 82 | Click on :Main Article 
+ INFO | 2016-06-30 13:47:15,624 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:15,625 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:47:15,625 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:47:18,654 | Common.java | 82 | Parsing : Social Share Icon#xpath=//li[@class='share-expanded icon icon-share']
+ INFO | 2016-06-30 13:47:18,654 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:47:18,655 | Common.java | 82 | SamsungS5-Locator : //li[@class='share-expanded icon icon-share']
+ INFO | 2016-06-30 13:47:18,655 | Common.java | 82 | SamsungS5Locator Description : Social Share Icon
+ INFO | 2016-06-30 13:48:21,029 | Common.java | 82 | Click on :Social Share Icon
+ INFO | 2016-06-30 13:48:21,030 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:21,031 | Common.java | 82 | Parsing : Facebook Icon#xpath=//li[@class='facebook expandable']
+ INFO | 2016-06-30 13:48:21,031 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:21,031 | Common.java | 82 | SamsungS5-Locator : //li[@class='facebook expandable']
+ INFO | 2016-06-30 13:48:21,031 | Common.java | 82 | SamsungS5Locator Description : Facebook Icon
+ INFO | 2016-06-30 13:48:21,234 | Common.java | 82 | Social Share Facebook is available
+ INFO | 2016-06-30 13:48:21,235 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:21,255 | Common.java | 82 | Parsing : Social Share Icon#xpath=//li[@class='share-expanded icon icon-share']
+ INFO | 2016-06-30 13:48:21,255 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:21,255 | Common.java | 82 | SamsungS5-Locator : //li[@class='share-expanded icon icon-share']
+ INFO | 2016-06-30 13:48:21,255 | Common.java | 82 | SamsungS5Locator Description : Social Share Icon
+ INFO | 2016-06-30 13:48:21,809 | Common.java | 82 | Click on :Social Share Icon
+ INFO | 2016-06-30 13:48:21,809 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:21,810 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:21,810 | Common.java | 82 | Parsing : Author Name#xpath=//div[@class='contrib-byline ng-scope']
+ INFO | 2016-06-30 13:48:21,810 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:21,810 | Common.java | 82 | SamsungS5-Locator : //div[@class='contrib-byline ng-scope']
+ INFO | 2016-06-30 13:48:21,811 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:48:21,932 | Common.java | 82 | Parsing : Author Name#xpath=//div[@class='contrib-byline ng-scope']
+ INFO | 2016-06-30 13:48:21,932 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:21,932 | Common.java | 82 | SamsungS5-Locator : //div[@class='contrib-byline ng-scope']
+ INFO | 2016-06-30 13:48:21,932 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:48:22,231 | Common.java | 82 | Sucessfully got the text 'Kathryn Dill ,  FORBES STAFF'
+ INFO | 2016-06-30 13:48:22,232 | Common.java | 82 | Author Name is -Kathryn Dill ,  FORBES STAFF
+ INFO | 2016-06-30 13:48:22,233 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:22,234 | Common.java | 82 | Parsing : Contributor Image#xpath=//div[@class='contrib-image']//a//img
+ INFO | 2016-06-30 13:48:22,234 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:22,234 | Common.java | 82 | SamsungS5-Locator : //div[@class='contrib-image']//a//img
+ INFO | 2016-06-30 13:48:22,235 | Common.java | 82 | SamsungS5Locator Description : Contributor Image
+ INFO | 2016-06-30 13:48:22,358 | Common.java | 82 | Parsing : Contributor Image#xpath=//div[@class='contrib-image']//a//img
+ INFO | 2016-06-30 13:48:22,358 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:22,358 | Common.java | 82 | SamsungS5-Locator : //div[@class='contrib-image']//a//img
+ INFO | 2016-06-30 13:48:22,358 | Common.java | 82 | SamsungS5Locator Description : Contributor Image
+ INFO | 2016-06-30 13:48:22,517 | Common.java | 82 | Scroll to Contributor Image
+ INFO | 2016-06-30 13:48:22,611 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:48:22,612 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:48:27,583 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:27,585 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:27,586 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:27,654 | Common.java | 82 | Parsing : Full Bio#xpath=//span[@class='entity-bio-trigger']
+ INFO | 2016-06-30 13:48:27,655 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:27,655 | Common.java | 82 | SamsungS5-Locator : //span[@class='entity-bio-trigger']
+ INFO | 2016-06-30 13:48:27,655 | Common.java | 82 | SamsungS5Locator Description : Full Bio
+ INFO | 2016-06-30 13:48:28,098 | Common.java | 82 | Click on :Full Bio
+ INFO | 2016-06-30 13:48:28,099 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:28,115 | Common.java | 82 | Parsing : Full Bio Details#xpath=//div[@class='full-bio']
+ INFO | 2016-06-30 13:48:28,115 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:28,116 | Common.java | 82 | SamsungS5-Locator : //div[@class='full-bio']
+ INFO | 2016-06-30 13:48:28,116 | Common.java | 82 | SamsungS5Locator Description : Full Bio Details
+ INFO | 2016-06-30 13:48:28,751 | Common.java | 82 | Sucessfully got the text 'I joined the staff of Forbes in 2013, covering leadership topics and researching the world’s wealthiest individuals for the Forbes 400 and World’s Billionaires lists before taking over the Careers beat. Previously, I worked as a stringer for the Chicago Daily Herald and Chicago Tribune, covering the small towns of northern Illinois as they weathered the municipal impact of the recession. I studied English and American Studies at Boston College and completed a master’s in Business and Economic Reporting at NYU, during which time I wrote for Inc.com. Got a tip? Email me at kdill@forbes.com.'
+ INFO | 2016-06-30 13:48:28,752 | Common.java | 82 | I joined the staff of Forbes in 2013, covering leadership topics and researching the world’s wealthiest individuals for the Forbes 400 and World’s Billionaires lists before taking over the Careers beat. Previously, I worked as a stringer for the Chicago Daily Herald and Chicago Tribune, covering the small towns of northern Illinois as they weathered the municipal impact of the recession. I studied English and American Studies at Boston College and completed a master’s in Business and Economic Reporting at NYU, during which time I wrote for Inc.com. Got a tip? Email me at kdill@forbes.com.
+ INFO | 2016-06-30 13:48:28,753 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:28,837 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:48:28,845 | Common.java | 82 | Parsing : Full Bio#xpath=//span[@class='entity-bio-trigger']
+ INFO | 2016-06-30 13:48:28,846 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:28,846 | Common.java | 82 | SamsungS5-Locator : //span[@class='entity-bio-trigger']
+ INFO | 2016-06-30 13:48:28,846 | Common.java | 82 | SamsungS5Locator Description : Full Bio
+ INFO | 2016-06-30 13:48:29,244 | Common.java | 82 | Click on :Full Bio
+ INFO | 2016-06-30 13:48:29,245 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:29,255 | Common.java | 82 | Parsing : Ad Placeholder#xpath=//div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:29,255 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:29,256 | Common.java | 82 | SamsungS5-Locator : //div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:29,256 | Common.java | 82 | SamsungS5Locator Description : Ad Placeholder
+ INFO | 2016-06-30 13:48:29,774 | Common.java | 82 | Total Elements found for Ad Placeholder: 2
+ INFO | 2016-06-30 13:48:29,774 | Common.java | 82 | Verifing (2) Ads in the Aritcle Page
+ INFO | 2016-06-30 13:48:29,775 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:29,782 | Common.java | 82 | Parsing : Ad Placeholder#xpath=//div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:29,783 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:29,783 | Common.java | 82 | SamsungS5-Locator : //div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:29,783 | Common.java | 82 | SamsungS5Locator Description : Ad Placeholder
+ INFO | 2016-06-30 13:48:30,077 | Common.java | 82 | Total Elements found for Ad Placeholder: 2
+ INFO | 2016-06-30 13:48:30,085 | Common.java | 82 | Parsing : Ad place holder#id=article-0-ad-1
+ INFO | 2016-06-30 13:48:30,085 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:48:30,086 | Common.java | 82 | SamsungS5-Locator : article-0-ad-1
+ INFO | 2016-06-30 13:48:30,086 | Common.java | 82 | SamsungS5Locator Description : Ad place holder
+ INFO | 2016-06-30 13:48:30,201 | Common.java | 82 | Scroll to Ad place holder
+ INFO | 2016-06-30 13:48:30,209 | Common.java | 82 | Parsing : Ad 1#id=inline-article-0-ad-1
+ INFO | 2016-06-30 13:48:30,209 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:48:30,209 | Common.java | 82 | SamsungS5-Locator : inline-article-0-ad-1
+ INFO | 2016-06-30 13:48:30,210 | Common.java | 82 | SamsungS5Locator Description : Ad 1
+ INFO | 2016-06-30 13:48:30,453 | Common.java | 82 | Scroll to Ad 1
+ INFO | 2016-06-30 13:48:30,475 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:48:30,475 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:48:35,954 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:35,954 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:35,965 | Common.java | 82 | Parsing : Ad Placeholder#xpath=//div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:35,965 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:35,965 | Common.java | 82 | SamsungS5-Locator : //div[@class='article-mobile-ad ng-scope ng-isolate-scope']
+ INFO | 2016-06-30 13:48:35,966 | Common.java | 82 | SamsungS5Locator Description : Ad Placeholder
+ INFO | 2016-06-30 13:48:36,126 | Common.java | 82 | Total Elements found for Ad Placeholder: 2
+ INFO | 2016-06-30 13:48:36,138 | Common.java | 82 | Parsing : Ad place holder#id=article-0-ad-2
+ INFO | 2016-06-30 13:48:36,138 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:48:36,138 | Common.java | 82 | SamsungS5-Locator : article-0-ad-2
+ INFO | 2016-06-30 13:48:36,138 | Common.java | 82 | SamsungS5Locator Description : Ad place holder
+ INFO | 2016-06-30 13:48:36,299 | Common.java | 82 | Scroll to Ad place holder
+ INFO | 2016-06-30 13:48:36,309 | Common.java | 82 | Parsing : Ad 2#id=inline-article-0-ad-2
+ INFO | 2016-06-30 13:48:36,309 | Common.java | 82 | SamsungS5-Identify By : id
+ INFO | 2016-06-30 13:48:36,309 | Common.java | 82 | SamsungS5-Locator : inline-article-0-ad-2
+ INFO | 2016-06-30 13:48:36,309 | Common.java | 82 | SamsungS5Locator Description : Ad 2
+ INFO | 2016-06-30 13:48:36,656 | Common.java | 82 | Scroll to Ad 2
+ INFO | 2016-06-30 13:48:36,760 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:48:36,760 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:48:41,048 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:41,049 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:41,059 | Common.java | 82 | Parsing : Next Article#xpath=//article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:41,059 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:41,059 | Common.java | 82 | SamsungS5-Locator : //article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:41,059 | Common.java | 82 | SamsungS5Locator Description : Next Article
+ INFO | 2016-06-30 13:48:41,293 | Common.java | 82 | Scroll to Next Article
+ INFO | 2016-06-30 13:48:41,848 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:48:41,866 | Common.java | 82 | Parsing : Next Article#xpath=//article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:41,866 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:41,866 | Common.java | 82 | SamsungS5-Locator : //article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:41,866 | Common.java | 82 | SamsungS5Locator Description : Next Article
+ INFO | 2016-06-30 13:48:42,388 | Common.java | 82 | Sucessfully got the text 'The Surprising Benefit Of Work Sabbaticals'
+ INFO | 2016-06-30 13:48:42,399 | Common.java | 82 | Parsing : Next Article#xpath=//article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:42,399 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:42,399 | Common.java | 82 | SamsungS5-Locator : //article[@id='article-container-1']//div[@class='article-text ng-scope']//h3
+ INFO | 2016-06-30 13:48:42,399 | Common.java | 82 | SamsungS5Locator Description : Next Article
+ INFO | 2016-06-30 13:48:43,211 | Common.java | 82 | Click on :Next Article
+ INFO | 2016-06-30 13:48:43,212 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:48:43,227 | Common.java | 82 | Parsing : Article Header#xpath=//article[@id='article-container-0']//header
+ INFO | 2016-06-30 13:48:43,228 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:48:43,228 | Common.java | 82 | SamsungS5-Locator : //article[@id='article-container-0']//header
+ INFO | 2016-06-30 13:48:43,228 | Common.java | 82 | SamsungS5Locator Description : Article Header
+ INFO | 2016-06-30 13:53:43,608 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:53:44,608 | Common.java | 82 | Parsing : Article Header#xpath=//article[@id='article-container-0']//header
+ INFO | 2016-06-30 13:53:44,608 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:53:44,608 | Common.java | 82 | SamsungS5-Locator : //article[@id='article-container-0']//header
+ INFO | 2016-06-30 13:53:44,609 | Common.java | 82 | SamsungS5Locator Description : Article Header
+ INFO | 2016-06-30 13:53:44,953 | Common.java | 82 | Sucessfully got the text 'Leadership #IfIOnlyKnew
+JUN 29, 2016 @ 09:30 AM
+3,208 VIEWS
+The Surprising Benefit Of Work Sabbaticals'
+ INFO | 2016-06-30 13:53:44,953 | Common.java | 82 | Article Text: Leadership #IfIOnlyKnew
+JUN 29, 2016 @ 09:30 AM
+3,208 VIEWS
+The Surprising Benefit Of Work Sabbaticals
+ INFO | 2016-06-30 13:53:44,954 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:45,575 | Common.java | 82 | Verified the'The Surprising Benefit Of Work Sabbaticals' text is present
+ INFO | 2016-06-30 13:53:45,758 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:45,759 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:53:46,759 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:53:46,761 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:53:46,761 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:46,763 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:46,772 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:53:46,772 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:53:46,773 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:46,776 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:53:46,777 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:53:46,777 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:53:46,778 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:53:46,778 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:53:46,778 | Common.java | 82 | ##### Start of Test Case : Most Popular validation #####
+ INFO | 2016-06-30 13:53:46,779 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:46,779 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:53:46,889 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:46,889 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:53:56,960 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:53:56,960 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:53:56,961 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:56,962 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:53:56,962 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:53:59,987 | Common.java | 82 | Parsing : Most Popular#xpath=//a[text()='Popular']
+ INFO | 2016-06-30 13:53:59,989 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:53:59,989 | Common.java | 82 | SamsungS5-Locator : //a[text()='Popular']
+ INFO | 2016-06-30 13:53:59,989 | Common.java | 82 | SamsungS5Locator Description : Most Popular
+ INFO | 2016-06-30 13:54:00,793 | Common.java | 82 | Click on :Most Popular
+ INFO | 2016-06-30 13:54:00,795 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:00,796 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:00,796 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:54:00,796 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:00,797 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:54:00,797 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:54:24,343 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:54:24,343 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:24,343 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:54:24,343 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:54:24,588 | Common.java | 82 | Scroll to Mobile Ads
+ INFO | 2016-06-30 13:54:24,625 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:24,625 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:54:29,027 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,028 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,029 | Common.java | 82 | Mobile Ads is present
+ INFO | 2016-06-30 13:54:29,029 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,031 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,075 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:29,083 | Common.java | 82 | Parsing : Top Forbes writer#xpath=//div[@id='forbesWritersSlider']//ul//li
+ INFO | 2016-06-30 13:54:29,084 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:29,084 | Common.java | 82 | SamsungS5-Locator : //div[@id='forbesWritersSlider']//ul//li
+ INFO | 2016-06-30 13:54:29,084 | Common.java | 82 | SamsungS5Locator Description : Top Forbes writer
+ INFO | 2016-06-30 13:54:29,275 | Common.java | 82 | Scroll to Top Forbes writer
+ INFO | 2016-06-30 13:54:29,275 | Common.java | 82 | Parsing : Top Forbes writer#xpath=//div[@id='forbesWritersSlider']//ul//li
+ INFO | 2016-06-30 13:54:29,275 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:29,276 | Common.java | 82 | SamsungS5-Locator : //div[@id='forbesWritersSlider']//ul//li
+ INFO | 2016-06-30 13:54:29,276 | Common.java | 82 | SamsungS5Locator Description : Top Forbes writer
+ INFO | 2016-06-30 13:54:29,388 | Common.java | 82 | Parsing : Top Forbes Writer Details#xpath=//div[@class='topWriterInfo']
+ INFO | 2016-06-30 13:54:29,389 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:29,389 | Common.java | 82 | SamsungS5-Locator : //div[@class='topWriterInfo']
+ INFO | 2016-06-30 13:54:29,389 | Common.java | 82 | SamsungS5Locator Description : Top Forbes Writer Details
+ INFO | 2016-06-30 13:54:29,690 | Common.java | 82 | Sucessfully got the text 'Liz Ryan , Contributor
++1,566,552 views
+Trending:
+If You Hear This In A Job Interview, Run Away'
+ INFO | 2016-06-30 13:54:29,690 | Common.java | 82 | Liz Ryan , Contributor
++1,566,552 views
+Trending:
+If You Hear This In A Job Interview, Run Away
+ INFO | 2016-06-30 13:54:29,816 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,817 | Common.java | 82 | Top Forbes Writers label is displayed
+ INFO | 2016-06-30 13:54:29,818 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,818 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:29,849 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:29,861 | Common.java | 82 | Parsing : Twitter Social Sliders#xpath=//div[@id='socialSlider']//ul//li[@class='socialWebTwitter active']
+ INFO | 2016-06-30 13:54:29,861 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:29,861 | Common.java | 82 | SamsungS5-Locator : //div[@id='socialSlider']//ul//li[@class='socialWebTwitter active']
+ INFO | 2016-06-30 13:54:29,862 | Common.java | 82 | SamsungS5Locator Description : Twitter Social Sliders
+ INFO | 2016-06-30 13:54:30,002 | Common.java | 82 | Parsing : Twitter Social Sliders#xpath=//div[@id='socialSlider']//ul//li[@class='socialWebTwitter active']
+ INFO | 2016-06-30 13:54:30,003 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:30,003 | Common.java | 82 | SamsungS5-Locator : //div[@id='socialSlider']//ul//li[@class='socialWebTwitter active']
+ INFO | 2016-06-30 13:54:30,003 | Common.java | 82 | SamsungS5Locator Description : Twitter Social Sliders
+ INFO | 2016-06-30 13:54:30,110 | Common.java | 82 | Twitter is displayed
+ INFO | 2016-06-30 13:54:30,111 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:30,112 | Common.java | 82 | Parsing : Facebook Social Sliders#xpath=//div[@id='socialSlider']//ul//li[@class='socialWebFacebook']
+ INFO | 2016-06-30 13:54:30,112 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:30,112 | Common.java | 82 | SamsungS5-Locator : //div[@id='socialSlider']//ul//li[@class='socialWebFacebook']
+ INFO | 2016-06-30 13:54:30,112 | Common.java | 82 | SamsungS5Locator Description : Facebook Social Sliders
+ INFO | 2016-06-30 13:54:30,221 | Common.java | 82 | Facebook is displayed
+ INFO | 2016-06-30 13:54:30,222 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:30,223 | Common.java | 82 | Parsing : LinkedIn Social Sliders#xpath=//div[@id='socialSlider']//ul//li[@class='socialWebLinkedIn']
+ INFO | 2016-06-30 13:54:30,223 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:30,223 | Common.java | 82 | SamsungS5-Locator : //div[@id='socialSlider']//ul//li[@class='socialWebLinkedIn']
+ INFO | 2016-06-30 13:54:30,223 | Common.java | 82 | SamsungS5Locator Description : LinkedIn Social Sliders
+ INFO | 2016-06-30 13:54:30,329 | Common.java | 82 | LinkedIn is displayed
+ INFO | 2016-06-30 13:54:30,330 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:30,331 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:30,355 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:30,355 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:54:33,355 | Common.java | 82 | Parsing : Related Topics#xpath=//div[@id='mobiletext']
+ INFO | 2016-06-30 13:54:33,355 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:33,356 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobiletext']
+ INFO | 2016-06-30 13:54:33,356 | Common.java | 82 | SamsungS5Locator Description : Related Topics
+ INFO | 2016-06-30 13:54:33,530 | Common.java | 82 | Related Topics are displayed
+ INFO | 2016-06-30 13:54:33,720 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:33,722 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:33,772 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:33,790 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:33,791 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:33,791 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:33,791 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:33,951 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 13:54:33,960 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:33,960 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:33,960 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:33,960 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:34,100 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 13:54:34,124 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:34,124 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:54:38,649 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:38,650 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:38,650 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:54:41,651 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:41,651 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:41,651 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:41,651 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:41,775 | Common.java | 82 | Most Read on Forbes News  is displayed
+ INFO | 2016-06-30 13:54:41,775 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:41,795 | Common.java | 82 | Parsing : Most Read People#xpath=//a[text()='People']
+ INFO | 2016-06-30 13:54:41,795 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:41,795 | Common.java | 82 | SamsungS5-Locator : //a[text()='People']
+ INFO | 2016-06-30 13:54:41,795 | Common.java | 82 | SamsungS5Locator Description : Most Read People
+ INFO | 2016-06-30 13:54:42,230 | Common.java | 82 | Click on :Most Read People
+ INFO | 2016-06-30 13:54:42,230 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:42,231 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:42,231 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:42,231 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:42,231 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:42,363 | Common.java | 82 | Most Read on Forbes  People is displayed
+ INFO | 2016-06-30 13:54:42,364 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:42,377 | Common.java | 82 | Parsing : Most Read Places#xpath=//a[text()='Places']
+ INFO | 2016-06-30 13:54:42,377 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:42,377 | Common.java | 82 | SamsungS5-Locator : //a[text()='Places']
+ INFO | 2016-06-30 13:54:42,377 | Common.java | 82 | SamsungS5Locator Description : Most Read Places
+ INFO | 2016-06-30 13:54:42,853 | Common.java | 82 | Click on :Most Read Places
+ INFO | 2016-06-30 13:54:42,854 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:42,854 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:42,855 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:42,855 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:42,855 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:42,970 | Common.java | 82 | Most Read on Forbes  Place is displayed
+ INFO | 2016-06-30 13:54:42,971 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:42,983 | Common.java | 82 | Parsing : Most Read Companies#xpath=//a[text()='Companies']
+ INFO | 2016-06-30 13:54:42,983 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:42,984 | Common.java | 82 | SamsungS5-Locator : //a[text()='Companies']
+ INFO | 2016-06-30 13:54:42,984 | Common.java | 82 | SamsungS5Locator Description : Most Read Companies
+ INFO | 2016-06-30 13:54:43,377 | Common.java | 82 | Click on :Most Read Companies
+ INFO | 2016-06-30 13:54:43,379 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:43,380 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:43,380 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:43,380 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:54:43,380 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:54:43,475 | Common.java | 82 | Most Read on Forbes Companies is displayed
+ INFO | 2016-06-30 13:54:43,476 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:43,476 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:43,580 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:54:43,581 | Common.java | 82 | Parsing : Switch To Full Website#xpath=//a[contains(text(),'Switch to Full Website')]
+ INFO | 2016-06-30 13:54:43,581 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:43,581 | Common.java | 82 | SamsungS5-Locator : //a[contains(text(),'Switch to Full Website')]
+ INFO | 2016-06-30 13:54:43,581 | Common.java | 82 | SamsungS5Locator Description : Switch To Full Website
+ INFO | 2016-06-30 13:54:43,696 | Common.java | 82 | Switch to full website is displayed
+ INFO | 2016-06-30 13:54:43,697 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:43,697 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:54:44,698 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:54:44,699 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:54:44,700 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:44,701 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:44,702 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:54:44,702 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:54:44,702 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:44,706 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:54:44,707 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:54:44,707 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:54:44,707 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:54:44,707 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:54:44,708 | Common.java | 82 | ##### Start of Test Case : New Posts Page Validations #####
+ INFO | 2016-06-30 13:54:44,709 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:44,709 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:54:44,814 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:44,814 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:54:56,398 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:54:56,399 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:54:56,400 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:54:56,416 | Common.java | 82 | Parsing : New Posts#xpath=//a[text()='New Posts']
+ INFO | 2016-06-30 13:54:56,416 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:54:56,416 | Common.java | 82 | SamsungS5-Locator : //a[text()='New Posts']
+ INFO | 2016-06-30 13:54:56,416 | Common.java | 82 | SamsungS5Locator Description : New Posts
+ INFO | 2016-06-30 13:55:10,087 | Common.java | 82 | Click on :New Posts
+ INFO | 2016-06-30 13:55:10,088 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:10,113 | Common.java | 82 | Parsing : New Posts#xpath=//hgroup
+ INFO | 2016-06-30 13:55:10,113 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:10,113 | Common.java | 82 | SamsungS5-Locator : //hgroup
+ INFO | 2016-06-30 13:55:10,113 | Common.java | 82 | SamsungS5Locator Description : New Posts
+ INFO | 2016-06-30 13:55:10,399 | Common.java | 82 | Sucessfully got the text 'Real Time
+Scan the latest activity on Forbes from the past 24 hours'
+ INFO | 2016-06-30 13:55:10,399 | Common.java | 82 | Redirected to - Real Time
+Scan the latest activity on Forbes from the past 24 hours -Page
+ INFO | 2016-06-30 13:55:10,400 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:10,401 | Common.java | 82 | Parsing : Recent Posts#xpath=//li[@class='stream_item edittools-contentitem'][1]//article[@class='clearfix']//h2//a
+ INFO | 2016-06-30 13:55:10,401 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:10,401 | Common.java | 82 | SamsungS5-Locator : //li[@class='stream_item edittools-contentitem'][1]//article[@class='clearfix']//h2//a
+ INFO | 2016-06-30 13:55:10,401 | Common.java | 82 | SamsungS5Locator Description : Recent Posts
+ INFO | 2016-06-30 13:55:10,525 | Common.java | 82 | Parsing : Recent Posts#xpath=//li[@class='stream_item edittools-contentitem'][1]//article[@class='clearfix']//h2//a
+ INFO | 2016-06-30 13:55:10,525 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:10,525 | Common.java | 82 | SamsungS5-Locator : //li[@class='stream_item edittools-contentitem'][1]//article[@class='clearfix']//h2//a
+ INFO | 2016-06-30 13:55:10,526 | Common.java | 82 | SamsungS5Locator Description : Recent Posts
+ INFO | 2016-06-30 13:55:10,826 | Common.java | 82 | Sucessfully got the text 'Brexit Causes Little Concern In Vietnam, For Those That Have The Nerve.'
+ INFO | 2016-06-30 13:55:10,827 | Common.java | 82 | New Post is -Brexit Causes Little Concern In Vietnam, For Those That Have The Nerve.
+ INFO | 2016-06-30 13:55:10,827 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:10,828 | Common.java | 82 | Recent Posts is displayed
+ INFO | 2016-06-30 13:55:10,828 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:10,860 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:55:10,861 | Common.java | 82 | Parsing : Load More#xpath=//div[@id='loadMore']//span[contains(text(),'+ Load More')]
+ INFO | 2016-06-30 13:55:10,861 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:10,861 | Common.java | 82 | SamsungS5-Locator : //div[@id='loadMore']//span[contains(text(),'+ Load More')]
+ INFO | 2016-06-30 13:55:10,861 | Common.java | 82 | SamsungS5Locator Description : Load More
+ INFO | 2016-06-30 13:55:10,985 | Common.java | 82 | +Load More Button is present
+ INFO | 2016-06-30 13:55:10,986 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:10,986 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:55:11,986 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:55:11,987 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:55:11,988 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:11,989 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:11,991 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:55:11,991 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:55:11,991 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:11,994 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:55:11,995 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:55:11,995 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:55:11,997 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:55:11,997 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:55:11,997 | Common.java | 82 | ##### Start of Test Case : Contributor Page Validations #####
+ INFO | 2016-06-30 13:55:12,009 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:12,010 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:55:12,100 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:12,100 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:55:20,911 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:55:20,911 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:55:20,914 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:20,915 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:20,930 | Common.java | 82 | Parsing : Article #xpath=//div[@class='feature-headline']//h3//a
+ INFO | 2016-06-30 13:55:20,931 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:20,931 | Common.java | 82 | SamsungS5-Locator : //div[@class='feature-headline']//h3//a
+ INFO | 2016-06-30 13:55:20,931 | Common.java | 82 | SamsungS5Locator Description : Article 
+ INFO | 2016-06-30 13:55:41,044 | Common.java | 82 | Click on :Article 
+ INFO | 2016-06-30 13:55:41,045 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:41,046 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:41,046 | Common.java | 82 | Parsing : Author Name#xpath=//p[@class='contrib-byline-author']
+ INFO | 2016-06-30 13:55:41,046 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:41,046 | Common.java | 82 | SamsungS5-Locator : //p[@class='contrib-byline-author']
+ INFO | 2016-06-30 13:55:41,047 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:55:41,574 | Common.java | 82 | Author name is displayed
+ INFO | 2016-06-30 13:55:41,757 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:41,777 | Common.java | 82 | Parsing : Author Name#xpath=//p[@class='contrib-byline-author']
+ INFO | 2016-06-30 13:55:41,777 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:41,778 | Common.java | 82 | SamsungS5-Locator : //p[@class='contrib-byline-author']
+ INFO | 2016-06-30 13:55:41,778 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:55:42,716 | Common.java | 82 | Click on :Author Name
+ INFO | 2016-06-30 13:55:42,717 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:42,718 | Common.java | 82 | Parsing : Author Image#xpath=//div[@class='avatar-holder']
+ INFO | 2016-06-30 13:55:42,718 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:42,718 | Common.java | 82 | SamsungS5-Locator : //div[@class='avatar-holder']
+ INFO | 2016-06-30 13:55:42,718 | Common.java | 82 | SamsungS5Locator Description : Author Image
+ INFO | 2016-06-30 13:55:58,688 | Common.java | 82 | Author image is displayed
+ INFO | 2016-06-30 13:55:58,689 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:58,689 | Common.java | 82 | Parsing : Author Name#xpath=//div[@class='content-block wide']//span[@class='ng-binding ng-scope']
+ INFO | 2016-06-30 13:55:58,690 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:58,690 | Common.java | 82 | SamsungS5-Locator : //div[@class='content-block wide']//span[@class='ng-binding ng-scope']
+ INFO | 2016-06-30 13:55:58,690 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:55:59,054 | Common.java | 82 | Parsing : Author Name#xpath=//div[@class='content-block wide']//span[@class='ng-binding ng-scope']
+ INFO | 2016-06-30 13:55:59,054 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:55:59,054 | Common.java | 82 | SamsungS5-Locator : //div[@class='content-block wide']//span[@class='ng-binding ng-scope']
+ INFO | 2016-06-30 13:55:59,054 | Common.java | 82 | SamsungS5Locator Description : Author Name
+ INFO | 2016-06-30 13:55:59,461 | Common.java | 82 | Sucessfully got the text 'Forbes Staff'
+ INFO | 2016-06-30 13:55:59,461 | Common.java | 82 | Author Name is ---Forbes Staff
+ INFO | 2016-06-30 13:55:59,462 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:59,462 | Common.java | 82 | Author Name is displayed
+ INFO | 2016-06-30 13:55:59,462 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:59,464 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:55:59,465 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:56:02,485 | Common.java | 82 | Parsing : Full Bio#xpath=//p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:02,485 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:02,485 | Common.java | 82 | SamsungS5-Locator : //p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:02,485 | Common.java | 82 | SamsungS5Locator Description : Full Bio
+ INFO | 2016-06-30 13:56:02,602 | Common.java | 82 | Full Bio is displayed
+ INFO | 2016-06-30 13:56:02,603 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:02,612 | Common.java | 82 | Parsing : Full Bio#xpath=//p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:02,613 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:02,613 | Common.java | 82 | SamsungS5-Locator : //p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:02,613 | Common.java | 82 | SamsungS5Locator Description : Full Bio
+ INFO | 2016-06-30 13:56:02,900 | Common.java | 82 | Click on :Full Bio
+ INFO | 2016-06-30 13:56:02,900 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:02,913 | Common.java | 82 | Parsing : Full Bio Details#xpath=//p[@class='long-bio ng-binding ng-scope']
+ INFO | 2016-06-30 13:56:02,914 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:02,914 | Common.java | 82 | SamsungS5-Locator : //p[@class='long-bio ng-binding ng-scope']
+ INFO | 2016-06-30 13:56:02,914 | Common.java | 82 | SamsungS5Locator Description : Full Bio Details
+ INFO | 2016-06-30 13:56:03,164 | Common.java | 82 | Sucessfully got the text 'I joined the staff of Forbes in 2013, covering leadership topics and researching the world’s wealthiest individuals for the Forbes 400 and World’s Billionaires lists before taking over the Careers beat. Previously, I worked as a stringer for the Chicago Daily Herald and Chicago Tribune, covering the small towns of northern Illinois as they weathered the municipal impact of the recession. I studied English and American Studies at Boston College and completed a master’s in Business and Economic Reporting at NYU, during which time I wrote for Inc.com. Got a tip? Email me at kdill@forbes.com.'
+ INFO | 2016-06-30 13:56:03,164 | Common.java | 82 | I joined the staff of Forbes in 2013, covering leadership topics and researching the world’s wealthiest individuals for the Forbes 400 and World’s Billionaires lists before taking over the Careers beat. Previously, I worked as a stringer for the Chicago Daily Herald and Chicago Tribune, covering the small towns of northern Illinois as they weathered the municipal impact of the recession. I studied English and American Studies at Boston College and completed a master’s in Business and Economic Reporting at NYU, during which time I wrote for Inc.com. Got a tip? Email me at kdill@forbes.com.
+ INFO | 2016-06-30 13:56:03,165 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:03,174 | Common.java | 82 | Parsing : Full Bio#xpath=//p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:03,174 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:03,175 | Common.java | 82 | SamsungS5-Locator : //p[@class='short-bio ng-binding ng-scope']//button
+ INFO | 2016-06-30 13:56:03,175 | Common.java | 82 | SamsungS5Locator Description : Full Bio
+ INFO | 2016-06-30 13:56:03,351 | Common.java | 82 | Click on :Full Bio
+ INFO | 2016-06-30 13:56:03,352 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:03,353 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:03,353 | Common.java | 82 | Parsing : Follow#xpath=//div[@class='follow']
+ INFO | 2016-06-30 13:56:03,353 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:03,353 | Common.java | 82 | SamsungS5-Locator : //div[@class='follow']
+ INFO | 2016-06-30 13:56:03,353 | Common.java | 82 | SamsungS5Locator Description : Follow
+ INFO | 2016-06-30 13:56:03,457 | Common.java | 82 | Follow button is displayed
+ INFO | 2016-06-30 13:56:03,776 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:03,794 | Common.java | 82 | Parsing : Follow#xpath=//div[@class='follow']
+ INFO | 2016-06-30 13:56:03,794 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:03,794 | Common.java | 82 | SamsungS5-Locator : //div[@class='follow']
+ INFO | 2016-06-30 13:56:03,794 | Common.java | 82 | SamsungS5Locator Description : Follow
+ INFO | 2016-06-30 13:56:04,059 | Common.java | 82 | Click on :Follow
+ INFO | 2016-06-30 13:56:04,060 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:04,060 | Common.java | 82 | Parsing : Social Share#xpath=//div[@class='networks ng-isolate-scope expanded']
+ INFO | 2016-06-30 13:56:04,060 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:04,061 | Common.java | 82 | SamsungS5-Locator : //div[@class='networks ng-isolate-scope expanded']
+ INFO | 2016-06-30 13:56:04,061 | Common.java | 82 | SamsungS5Locator Description : Social Share
+ INFO | 2016-06-30 13:56:04,166 | Common.java | 82 | Social Shares are displayed
+ INFO | 2016-06-30 13:56:04,167 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:04,177 | Common.java | 82 | Parsing : Follow Close#xpath=//span[@class='follow-close']
+ INFO | 2016-06-30 13:56:04,177 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:04,177 | Common.java | 82 | SamsungS5-Locator : //span[@class='follow-close']
+ INFO | 2016-06-30 13:56:04,178 | Common.java | 82 | SamsungS5Locator Description : Follow Close
+ INFO | 2016-06-30 13:56:04,457 | Common.java | 82 | Click on :Follow Close
+ INFO | 2016-06-30 13:56:04,458 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:04,466 | Common.java | 82 | Parsing : Posts Latest#xpath=//button[text()='Latest']
+ INFO | 2016-06-30 13:56:04,467 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:04,467 | Common.java | 82 | SamsungS5-Locator : //button[text()='Latest']
+ INFO | 2016-06-30 13:56:04,467 | Common.java | 82 | SamsungS5Locator Description : Posts Latest
+ INFO | 2016-06-30 13:56:04,614 | Common.java | 82 | Scroll to Posts Latest
+ INFO | 2016-06-30 13:56:04,665 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:56:04,665 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:56:07,665 | Common.java | 82 | Parsing : Posts Latest#xpath=//button[text()='Latest']
+ INFO | 2016-06-30 13:56:07,665 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:07,665 | Common.java | 82 | SamsungS5-Locator : //button[text()='Latest']
+ INFO | 2016-06-30 13:56:07,665 | Common.java | 82 | SamsungS5Locator Description : Posts Latest
+ INFO | 2016-06-30 13:56:07,779 | Common.java | 82 | Latest tab is displayed
+ INFO | 2016-06-30 13:56:07,780 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:07,780 | Common.java | 82 | Parsing : Posts Archive#xpath=//button[text()='Archive']
+ INFO | 2016-06-30 13:56:07,780 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:07,780 | Common.java | 82 | SamsungS5-Locator : //button[text()='Archive']
+ INFO | 2016-06-30 13:56:07,781 | Common.java | 82 | SamsungS5Locator Description : Posts Archive
+ INFO | 2016-06-30 13:56:07,901 | Common.java | 82 | Parsing : Posts Archive#xpath=//button[text()='Archive']
+ INFO | 2016-06-30 13:56:07,901 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:07,901 | Common.java | 82 | SamsungS5-Locator : //button[text()='Archive']
+ INFO | 2016-06-30 13:56:07,902 | Common.java | 82 | SamsungS5Locator Description : Posts Archive
+ INFO | 2016-06-30 13:56:08,304 | Common.java | 82 | Click on :Posts Archive
+ INFO | 2016-06-30 13:56:08,305 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:08,305 | Common.java | 82 | Archive tab is displayed
+ INFO | 2016-06-30 13:56:08,306 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:08,307 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:08,620 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:56:08,621 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:56:11,621 | Common.java | 82 | Parsing : Show More#xpath=//div[@class='arrow']
+ INFO | 2016-06-30 13:56:11,621 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:11,621 | Common.java | 82 | SamsungS5-Locator : //div[@class='arrow']
+ INFO | 2016-06-30 13:56:11,621 | Common.java | 82 | SamsungS5Locator Description : Show More
+ INFO | 2016-06-30 13:56:11,747 | Common.java | 82 | Parsing : Show More#xpath=//div[@class='arrow']
+ INFO | 2016-06-30 13:56:11,747 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:11,747 | Common.java | 82 | SamsungS5-Locator : //div[@class='arrow']
+ INFO | 2016-06-30 13:56:11,747 | Common.java | 82 | SamsungS5Locator Description : Show More
+ INFO | 2016-06-30 13:56:12,069 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:13,281 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:14,444 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:15,740 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:17,067 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:18,258 | Common.java | 82 | WebDriverException occured. Retrying..............
+ INFO | 2016-06-30 13:56:19,472 | Common.java | 82 | Click on :Show More
+ INFO | 2016-06-30 13:56:19,718 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:19,719 | Common.java | 82 | Show More button is displayed
+ INFO | 2016-06-30 13:56:19,719 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:19,719 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:56:20,719 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:56:20,720 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:56:20,721 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:20,722 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:20,723 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:56:20,723 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:56:20,723 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:20,726 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:56:20,726 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:56:20,726 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:56:20,727 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:56:20,727 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:56:20,727 | Common.java | 82 | ##### Start of Test Case : Video Page Validations #####
+ INFO | 2016-06-30 13:56:20,756 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:20,757 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:56:20,913 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:20,913 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:56:36,159 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:56:36,159 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:56:36,161 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:36,161 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:51,945 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:51,946 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:56:51,946 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:51,946 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:56:51,946 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:56:52,251 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 13:56:52,251 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:52,251 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 13:56:52,251 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 13:56:52,481 | Common.java | 82 | Scroll to Mobile Ads
+ INFO | 2016-06-30 13:56:52,577 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:56:52,577 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:56:58,307 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:58,307 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:58,308 | Common.java | 82 | Mobile Ads is present
+ INFO | 2016-06-30 13:56:58,308 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:58,309 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:58,309 | Common.java | 82 | Before Video plays
+ INFO | 2016-06-30 13:56:58,309 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:56:58,320 | Common.java | 82 | Parsing : Video #xpath=//video
+ INFO | 2016-06-30 13:56:58,320 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:56:58,320 | Common.java | 82 | SamsungS5-Locator : //video
+ INFO | 2016-06-30 13:56:58,320 | Common.java | 82 | SamsungS5Locator Description : Video 
+ INFO | 2016-06-30 13:56:58,540 | Common.java | 82 | Scroll to Video 
+ INFO | 2016-06-30 13:56:58,600 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:56:58,600 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:04,112 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:04,113 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:04,113 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:07,113 | Common.java | 82 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-06-30 13:57:07,113 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:07,114 | Common.java | 82 | SamsungS5-Locator : //button
+ INFO | 2016-06-30 13:57:07,114 | Common.java | 82 | SamsungS5Locator Description : Video Play button
+ INFO | 2016-06-30 13:57:07,295 | Common.java | 82 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-06-30 13:57:07,295 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:07,296 | Common.java | 82 | SamsungS5-Locator : //button
+ INFO | 2016-06-30 13:57:07,296 | Common.java | 82 | SamsungS5Locator Description : Video Play button
+ INFO | 2016-06-30 13:57:07,710 | Common.java | 82 | Click on :Video Play button
+ INFO | 2016-06-30 13:57:07,711 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:07,712 | Common.java | 82 | Waiting for 6 seconds...
+ INFO | 2016-06-30 13:57:13,712 | Common.java | 82 | Video Played for 6 seconds
+ INFO | 2016-06-30 13:57:13,713 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:13,727 | Common.java | 82 | Parsing : Video #xpath=//video
+ INFO | 2016-06-30 13:57:13,728 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:13,728 | Common.java | 82 | SamsungS5-Locator : //video
+ INFO | 2016-06-30 13:57:13,728 | Common.java | 82 | SamsungS5Locator Description : Video 
+ INFO | 2016-06-30 13:57:13,938 | Common.java | 82 | Scroll to Video 
+ INFO | 2016-06-30 13:57:13,980 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:13,981 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:19,541 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:19,541 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:19,542 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:19,563 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:19,574 | Common.java | 82 | Parsing : Recommmended #xpath=//h6[text()='Recommended']
+ INFO | 2016-06-30 13:57:19,574 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:19,574 | Common.java | 82 | SamsungS5-Locator : //h6[text()='Recommended']
+ INFO | 2016-06-30 13:57:19,574 | Common.java | 82 | SamsungS5Locator Description : Recommmended 
+ INFO | 2016-06-30 13:57:19,936 | Common.java | 82 | Sucessfully got the text 'Recommended'
+ INFO | 2016-06-30 13:57:19,936 | Common.java | 82 | Recommended
+ INFO | 2016-06-30 13:57:19,937 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:19,937 | Common.java | 82 | Parsing : Next Button#xpath=//a[@class='flex-next']
+ INFO | 2016-06-30 13:57:19,937 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:19,937 | Common.java | 82 | SamsungS5-Locator : //a[@class='flex-next']
+ INFO | 2016-06-30 13:57:19,938 | Common.java | 82 | SamsungS5Locator Description : Next Button
+ INFO | 2016-06-30 13:57:20,100 | Common.java | 82 | Parsing : Next Button#xpath=//a[@class='flex-next']
+ INFO | 2016-06-30 13:57:20,101 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:20,101 | Common.java | 82 | SamsungS5-Locator : //a[@class='flex-next']
+ INFO | 2016-06-30 13:57:20,102 | Common.java | 82 | SamsungS5Locator Description : Next Button
+ INFO | 2016-06-30 13:57:20,471 | Common.java | 82 | Click on :Next Button
+ INFO | 2016-06-30 13:57:20,472 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:20,488 | Common.java | 82 | Parsing : Next Button#xpath=//a[@class='flex-next']
+ INFO | 2016-06-30 13:57:20,488 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:20,488 | Common.java | 82 | SamsungS5-Locator : //a[@class='flex-next']
+ INFO | 2016-06-30 13:57:20,488 | Common.java | 82 | SamsungS5Locator Description : Next Button
+ INFO | 2016-06-30 13:57:20,767 | Common.java | 82 | Scroll to Next Button
+ INFO | 2016-06-30 13:57:20,795 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:20,795 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:26,673 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:26,674 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:26,675 | Common.java | 82 | Recommended Swipe is working
+ INFO | 2016-06-30 13:57:26,675 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:26,676 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:26,708 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:26,708 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:29,709 | Common.java | 82 | Parsing : Related Topics#xpath=//div[@id='mobiletext']
+ INFO | 2016-06-30 13:57:29,709 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:29,709 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobiletext']
+ INFO | 2016-06-30 13:57:29,709 | Common.java | 82 | SamsungS5Locator Description : Related Topics
+ INFO | 2016-06-30 13:57:29,908 | Common.java | 82 | Related Topics are displayed
+ INFO | 2016-06-30 13:57:29,909 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:29,909 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:29,956 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:29,972 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:29,972 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:29,972 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:29,972 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:30,161 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 13:57:30,172 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:30,172 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:30,172 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:30,172 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:30,287 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 13:57:30,306 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 13:57:30,306 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:34,742 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:34,743 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:34,743 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 13:57:37,744 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:37,744 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:37,744 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:37,744 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:37,826 | Common.java | 82 | Most Read on Forbes News  is displayed
+ INFO | 2016-06-30 13:57:37,827 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:37,835 | Common.java | 82 | Parsing : Most Read People#xpath=//a[text()='People']
+ INFO | 2016-06-30 13:57:37,835 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:37,835 | Common.java | 82 | SamsungS5-Locator : //a[text()='People']
+ INFO | 2016-06-30 13:57:37,836 | Common.java | 82 | SamsungS5Locator Description : Most Read People
+ INFO | 2016-06-30 13:57:38,268 | Common.java | 82 | Click on :Most Read People
+ INFO | 2016-06-30 13:57:38,269 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:38,269 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:38,269 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:38,269 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:38,269 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:38,473 | Common.java | 82 | Most Read on Forbes  People is displayed
+ INFO | 2016-06-30 13:57:38,474 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:38,492 | Common.java | 82 | Parsing : Most Read Places#xpath=//a[text()='Places']
+ INFO | 2016-06-30 13:57:38,492 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:38,493 | Common.java | 82 | SamsungS5-Locator : //a[text()='Places']
+ INFO | 2016-06-30 13:57:38,493 | Common.java | 82 | SamsungS5Locator Description : Most Read Places
+ INFO | 2016-06-30 13:57:39,143 | Common.java | 82 | Click on :Most Read Places
+ INFO | 2016-06-30 13:57:39,145 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:39,145 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:39,145 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:39,146 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:39,146 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:39,288 | Common.java | 82 | Most Read on Forbes  Place is displayed
+ INFO | 2016-06-30 13:57:39,289 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:39,297 | Common.java | 82 | Parsing : Most Read Companies#xpath=//a[text()='Companies']
+ INFO | 2016-06-30 13:57:39,298 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:39,298 | Common.java | 82 | SamsungS5-Locator : //a[text()='Companies']
+ INFO | 2016-06-30 13:57:39,298 | Common.java | 82 | SamsungS5Locator Description : Most Read Companies
+ INFO | 2016-06-30 13:57:39,956 | Common.java | 82 | Click on :Most Read Companies
+ INFO | 2016-06-30 13:57:39,957 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:39,957 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:39,958 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 13:57:39,958 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 13:57:39,958 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 13:57:40,115 | Common.java | 82 | Most Read on Forbes Companies is displayed
+ INFO | 2016-06-30 13:57:40,115 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:40,115 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 13:57:41,117 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 13:57:41,117 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 13:57:41,118 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:41,119 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:41,120 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 13:57:41,120 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 13:57:41,120 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:41,122 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:57:41,123 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:57:41,123 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 13:57:41,123 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 13:57:41,123 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 13:57:41,124 | Common.java | 82 | ##### Start of Test Case : Lists Page Validations #####
+ INFO | 2016-06-30 13:57:41,124 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:41,125 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 13:57:41,233 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:41,234 | Common.java | 82 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-06-30 13:57:50,709 | Common.java | 82 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-06-30 13:57:50,711 | Common.java | 82 | Navigate to : http://www.forbes.com/
+ INFO | 2016-06-30 13:57:50,711 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 13:57:50,712 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:02:41,014 | Common.java | 82 | Parsing : Worlds Billionaires#xpath=//div[@class='col--3-1 lists--block lists--rich']//dl//dd[1]
+ INFO | 2016-06-30 14:02:41,014 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:02:41,015 | Common.java | 82 | SamsungS5-Locator : //div[@class='col--3-1 lists--block lists--rich']//dl//dd[1]
+ INFO | 2016-06-30 14:02:41,015 | Common.java | 82 | SamsungS5Locator Description : Worlds Billionaires
+ INFO | 2016-06-30 14:02:42,051 | Common.java | 82 | Click on :Worlds Billionaires
+ INFO | 2016-06-30 14:02:42,052 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:02:42,053 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:02:42,053 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 14:02:42,054 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:02:42,054 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 14:02:42,054 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 14:02:55,648 | Common.java | 82 | Parsing : Mobile Ads#xpath=//div[@id='mobile']
+ INFO | 2016-06-30 14:02:55,648 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:02:55,648 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']
+ INFO | 2016-06-30 14:02:55,648 | Common.java | 82 | SamsungS5Locator Description : Mobile Ads
+ INFO | 2016-06-30 14:02:55,909 | Common.java | 82 | Scroll to Mobile Ads
+ INFO | 2016-06-30 14:02:55,945 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:02:55,945 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:03:01,312 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:01,313 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:01,313 | Common.java | 82 | Mobile Ads is present
+ INFO | 2016-06-30 14:03:01,314 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:01,314 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:01,315 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:03:04,315 | Common.java | 82 | Parsing : Next #xpath=//a[text()='Next']
+ INFO | 2016-06-30 14:03:04,315 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:04,315 | Common.java | 82 | SamsungS5-Locator : //a[text()='Next']
+ INFO | 2016-06-30 14:03:04,315 | Common.java | 82 | SamsungS5Locator Description : Next 
+ INFO | 2016-06-30 14:03:04,488 | Common.java | 82 | Parsing : Next #xpath=//a[text()='Next']
+ INFO | 2016-06-30 14:03:04,488 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:04,488 | Common.java | 82 | SamsungS5-Locator : //a[text()='Next']
+ INFO | 2016-06-30 14:03:04,488 | Common.java | 82 | SamsungS5Locator Description : Next 
+ INFO | 2016-06-30 14:03:04,885 | Common.java | 82 | Click on :Next 
+ INFO | 2016-06-30 14:03:04,886 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:04,886 | Common.java | 82 | Next Navigation is working
+ INFO | 2016-06-30 14:03:04,886 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:04,886 | Common.java | 82 | Parsing : Previous #xpath=//a[text()='Previous']
+ INFO | 2016-06-30 14:03:04,887 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:04,887 | Common.java | 82 | SamsungS5-Locator : //a[text()='Previous']
+ INFO | 2016-06-30 14:03:04,887 | Common.java | 82 | SamsungS5Locator Description : Previous 
+ INFO | 2016-06-30 14:03:05,044 | Common.java | 82 | Parsing : Previous #xpath=//a[text()='Previous']
+ INFO | 2016-06-30 14:03:05,045 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:05,045 | Common.java | 82 | SamsungS5-Locator : //a[text()='Previous']
+ INFO | 2016-06-30 14:03:05,045 | Common.java | 82 | SamsungS5Locator Description : Previous 
+ INFO | 2016-06-30 14:03:05,762 | Common.java | 82 | Click on :Previous 
+ INFO | 2016-06-30 14:03:05,763 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:05,764 | Common.java | 82 | Previous Navigation is working
+ INFO | 2016-06-30 14:03:05,764 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:05,764 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:05,765 | Common.java | 82 | Parsing : Share#xpath=//div[@class='share']
+ INFO | 2016-06-30 14:03:05,765 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:05,765 | Common.java | 82 | SamsungS5-Locator : //div[@class='share']
+ INFO | 2016-06-30 14:03:05,765 | Common.java | 82 | SamsungS5Locator Description : Share
+ INFO | 2016-06-30 14:03:05,993 | Common.java | 82 | Social Share are displayed
+ INFO | 2016-06-30 14:03:05,994 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:05,995 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:05,995 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-30 14:03:07,995 | Common.java | 82 | Parsing : Worlds Billionaires Profile#xpath=//li[@data-position='0']//a//figure//img
+ INFO | 2016-06-30 14:03:07,995 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:07,995 | Common.java | 82 | SamsungS5-Locator : //li[@data-position='0']//a//figure//img
+ INFO | 2016-06-30 14:03:07,995 | Common.java | 82 | SamsungS5Locator Description : Worlds Billionaires Profile
+ INFO | 2016-06-30 14:03:08,172 | Common.java | 82 | Parsing : Worlds Billionaires Profile#xpath=//li[@data-position='0']//a//figure//img
+ INFO | 2016-06-30 14:03:08,172 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:08,172 | Common.java | 82 | SamsungS5-Locator : //li[@data-position='0']//a//figure//img
+ INFO | 2016-06-30 14:03:08,172 | Common.java | 82 | SamsungS5Locator Description : Worlds Billionaires Profile
+ INFO | 2016-06-30 14:03:08,628 | Common.java | 82 | Click on :Worlds Billionaires Profile
+ INFO | 2016-06-30 14:03:08,628 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:08,638 | Common.java | 82 | Parsing : Profile Body#xpath=//div[@class='profilebody']//h1
+ INFO | 2016-06-30 14:03:08,638 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:08,638 | Common.java | 82 | SamsungS5-Locator : //div[@class='profilebody']//h1
+ INFO | 2016-06-30 14:03:08,638 | Common.java | 82 | SamsungS5Locator Description : Profile Body
+ INFO | 2016-06-30 14:03:22,233 | Common.java | 82 | Sucessfully got the text '#1 Bill Gates'
+ INFO | 2016-06-30 14:03:22,233 | Common.java | 82 | Worlds Billionaire is --#1 Bill Gates
+ INFO | 2016-06-30 14:03:22,234 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:22,235 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:22,341 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:03:22,342 | Common.java | 82 | Parsing : Profile Details#xpath=//div[@class='profile']
+ INFO | 2016-06-30 14:03:22,342 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:22,342 | Common.java | 82 | SamsungS5-Locator : //div[@class='profile']
+ INFO | 2016-06-30 14:03:22,342 | Common.java | 82 | SamsungS5Locator Description : Profile Details
+ INFO | 2016-06-30 14:03:22,611 | Common.java | 82 | Parsing : Profile Details#xpath=//div[@class='profile']
+ INFO | 2016-06-30 14:03:22,612 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:22,612 | Common.java | 82 | SamsungS5-Locator : //div[@class='profile']
+ INFO | 2016-06-30 14:03:22,612 | Common.java | 82 | SamsungS5Locator Description : Profile Details
+ INFO | 2016-06-30 14:03:22,957 | Common.java | 82 | Sucessfully got the text 'Profile
+Bill Gates has built a reputation as a serious thinker about the world's problems and has steered the Bill & Melinda Gates Foundation to tackle knotty issues like improving health care and the use of vaccines in developing countries. In December 2015, at the United Nations climate talks in Paris, Gates raised his profile on the global stage when he announced the formation of the Breakthrough Energy Coalition, a group of more than 20 billionaires who have agreed to invest in innovative clean energy. [...]'
+ INFO | 2016-06-30 14:03:22,957 | Common.java | 82 | Profile
+Bill Gates has built a reputation as a serious thinker about the world's problems and has steered the Bill & Melinda Gates Foundation to tackle knotty issues like improving health care and the use of vaccines in developing countries. In December 2015, at the United Nations climate talks in Paris, Gates raised his profile on the global stage when he announced the formation of the Breakthrough Energy Coalition, a group of more than 20 billionaires who have agreed to invest in innovative clean energy. [...]
+ INFO | 2016-06-30 14:03:22,958 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:32,825 | Common.java | 82 | Sucessfully moved to 'Back' page
+ INFO | 2016-06-30 14:03:32,826 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:33,059 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:03:33,070 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:33,070 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:33,070 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:33,070 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:33,340 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 14:03:33,347 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:33,348 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:33,348 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:33,348 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:33,624 | Common.java | 82 | Scroll to Most Read
+ INFO | 2016-06-30 14:03:33,663 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:03:33,663 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:03:38,359 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:38,360 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:38,360 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:03:41,360 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:41,360 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:41,360 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:41,360 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:41,444 | Common.java | 82 | Most Read on Forbes News  is displayed
+ INFO | 2016-06-30 14:03:41,445 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:41,456 | Common.java | 82 | Parsing : Most Read People#xpath=//a[text()='People']
+ INFO | 2016-06-30 14:03:41,456 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:41,456 | Common.java | 82 | SamsungS5-Locator : //a[text()='People']
+ INFO | 2016-06-30 14:03:41,456 | Common.java | 82 | SamsungS5Locator Description : Most Read People
+ INFO | 2016-06-30 14:03:41,873 | Common.java | 82 | Click on :Most Read People
+ INFO | 2016-06-30 14:03:41,874 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:41,874 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:41,874 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:41,874 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:41,874 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:42,035 | Common.java | 82 | Most Read on Forbes  People is displayed
+ INFO | 2016-06-30 14:03:42,036 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:42,047 | Common.java | 82 | Parsing : Most Read Places#xpath=//a[text()='Places']
+ INFO | 2016-06-30 14:03:42,047 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:42,047 | Common.java | 82 | SamsungS5-Locator : //a[text()='Places']
+ INFO | 2016-06-30 14:03:42,047 | Common.java | 82 | SamsungS5Locator Description : Most Read Places
+ INFO | 2016-06-30 14:03:42,678 | Common.java | 82 | Click on :Most Read Places
+ INFO | 2016-06-30 14:03:42,679 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:42,679 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:42,679 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:42,679 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:42,679 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:42,786 | Common.java | 82 | Most Read on Forbes  Place is displayed
+ INFO | 2016-06-30 14:03:42,786 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:42,812 | Common.java | 82 | Parsing : Most Read Companies#xpath=//a[text()='Companies']
+ INFO | 2016-06-30 14:03:42,812 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:42,812 | Common.java | 82 | SamsungS5-Locator : //a[text()='Companies']
+ INFO | 2016-06-30 14:03:42,812 | Common.java | 82 | SamsungS5Locator Description : Most Read Companies
+ INFO | 2016-06-30 14:03:43,280 | Common.java | 82 | Click on :Most Read Companies
+ INFO | 2016-06-30 14:03:43,281 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:43,282 | Common.java | 82 | Parsing : Most Read#xpath=//div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:43,282 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:03:43,282 | Common.java | 82 | SamsungS5-Locator : //div[@class='popular_wrapper']//ul//li
+ INFO | 2016-06-30 14:03:43,282 | Common.java | 82 | SamsungS5Locator Description : Most Read
+ INFO | 2016-06-30 14:03:43,472 | Common.java | 82 | Most Read on Forbes Companies is displayed
+ INFO | 2016-06-30 14:03:43,472 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:43,473 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 14:03:44,473 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 14:03:44,474 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 14:03:44,475 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:44,476 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:44,477 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:03:44,477 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:03:44,478 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:44,479 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:03:44,480 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:03:44,480 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 14:03:44,480 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:03:44,481 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 14:03:44,481 | Common.java | 82 | ##### Start of Test Case : Mobile BrandVoice Page validation #####
+ INFO | 2016-06-30 14:03:44,482 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:44,482 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 14:03:44,590 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:03:44,591 | Common.java | 82 | Navigating to URL : http://www.forbes.com/sites/northwesternmutual/
+ INFO | 2016-06-30 14:04:44,309 | Common.java | 82 | Navigation Successful : http://www.forbes.com/sites/northwesternmutual/
+ INFO | 2016-06-30 14:04:44,310 | Common.java | 82 | Navigate to : http://www.forbes.com/sites/northwesternmutual/
+ INFO | 2016-06-30 14:04:44,310 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:04:44,311 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:04:44,312 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-30 14:04:49,312 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:04:49,327 | Common.java | 82 | Parsing : BV ForbesLabel#xpath=//div[@class='brand-voice-blurb ng-scope']
+ INFO | 2016-06-30 14:04:49,327 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:04:49,327 | Common.java | 82 | SamsungS5-Locator : //div[@class='brand-voice-blurb ng-scope']
+ INFO | 2016-06-30 14:04:49,328 | Common.java | 82 | SamsungS5Locator Description : BV ForbesLabel
+ INFO | 2016-06-30 14:04:49,521 | Common.java | 82 | Parsing : BV ForbesLabel#xpath=//div[@class='brand-voice-blurb ng-scope']
+ INFO | 2016-06-30 14:04:49,521 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:04:49,521 | Common.java | 82 | SamsungS5-Locator : //div[@class='brand-voice-blurb ng-scope']
+ INFO | 2016-06-30 14:04:49,521 | Common.java | 82 | SamsungS5Locator Description : BV ForbesLabel
+ INFO | 2016-06-30 14:04:49,630 | Common.java | 82 | Parsing : BV Image#xpath=//div[@class='avatar-holder']/img
+ INFO | 2016-06-30 14:04:49,630 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:04:49,630 | Common.java | 82 | SamsungS5-Locator : //div[@class='avatar-holder']/img
+ INFO | 2016-06-30 14:04:49,631 | Common.java | 82 | SamsungS5Locator Description : BV Image
+ INFO | 2016-06-30 14:04:49,737 | Common.java | 82 | Parsing : BV AboutHeader#xpath=//h2[@class='heading' and text()='About']
+ INFO | 2016-06-30 14:04:49,737 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:04:49,737 | Common.java | 82 | SamsungS5-Locator : //h2[@class='heading' and text()='About']
+ INFO | 2016-06-30 14:04:49,737 | Common.java | 82 | SamsungS5Locator Description : BV AboutHeader
+ INFO | 2016-06-30 14:04:49,844 | Common.java | 82 | Parsing : BV ourContributorsLabel#xpath=//h3[text()='Our Contributors']
+ INFO | 2016-06-30 14:04:49,844 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:04:49,844 | Common.java | 82 | SamsungS5-Locator : //h3[text()='Our Contributors']
+ INFO | 2016-06-30 14:04:49,844 | Common.java | 82 | SamsungS5Locator Description : BV ourContributorsLabel
+ INFO | 2016-06-30 14:04:49,959 | Common.java | 82 | BV Page validation: Forbes BrandVoioce label/Image/About Header is displayed on the pagetrue
+ INFO | 2016-06-30 14:04:49,959 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:04:49,960 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:19,992 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:20,232 | Common.java | 82 | BV Page validation (BV ShowMore Buttons - 1)true
+ INFO | 2016-06-30 14:05:20,233 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:20,323 | Common.java | 82 | BV Page validation (BV ShowMore Buttons - 2)true
+ INFO | 2016-06-30 14:05:20,324 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:20,324 | Common.java | 82 | Parsing : BV postsLabel#xpath=//h2[text()='Posts']
+ INFO | 2016-06-30 14:05:20,324 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:20,324 | Common.java | 82 | SamsungS5-Locator : //h2[text()='Posts']
+ INFO | 2016-06-30 14:05:20,325 | Common.java | 82 | SamsungS5Locator Description : BV postsLabel
+ INFO | 2016-06-30 14:05:20,449 | Common.java | 82 | Parsing : BV latestLink#xpath=//button[contains(@class,'active') and text()='Latest']
+ INFO | 2016-06-30 14:05:20,449 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:20,449 | Common.java | 82 | SamsungS5-Locator : //button[contains(@class,'active') and text()='Latest']
+ INFO | 2016-06-30 14:05:20,450 | Common.java | 82 | SamsungS5Locator Description : BV latestLink
+ INFO | 2016-06-30 14:05:20,550 | Common.java | 82 | Parsing : BV ArchiveLink#xpath=//button[ text()='Archive']
+ INFO | 2016-06-30 14:05:20,550 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:20,550 | Common.java | 82 | SamsungS5-Locator : //button[ text()='Archive']
+ INFO | 2016-06-30 14:05:20,551 | Common.java | 82 | SamsungS5Locator Description : BV ArchiveLink
+ INFO | 2016-06-30 14:05:20,651 | Common.java | 82 | BV Mobile Page validation: Latest and Archive are displayed on the page
+ INFO | 2016-06-30 14:05:20,652 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:20,680 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:05:20,688 | Common.java | 82 | Parsing : BV ArchiveLink#xpath=//button[ text()='Archive']
+ INFO | 2016-06-30 14:05:20,688 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:20,688 | Common.java | 82 | SamsungS5-Locator : //button[ text()='Archive']
+ INFO | 2016-06-30 14:05:20,689 | Common.java | 82 | SamsungS5Locator Description : BV ArchiveLink
+ INFO | 2016-06-30 14:05:21,102 | Common.java | 82 | Click on :BV ArchiveLink
+ INFO | 2016-06-30 14:05:21,103 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:21,103 | Common.java | 82 | Parsing : BV ArchiveFirstLabel#xpath=//li[@class='month ng-scope'][1]/div[@class='month-text']/h3
+ INFO | 2016-06-30 14:05:21,103 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:21,103 | Common.java | 82 | SamsungS5-Locator : //li[@class='month ng-scope'][1]/div[@class='month-text']/h3
+ INFO | 2016-06-30 14:05:21,103 | Common.java | 82 | SamsungS5Locator Description : BV ArchiveFirstLabel
+ INFO | 2016-06-30 14:05:22,777 | Common.java | 82 | Parsing : BV ArchiveFirstLabelPostCount#xpath=//li[@class='month ng-scope'][1]/div[@class='month-text']/h3/span
+ INFO | 2016-06-30 14:05:22,778 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:22,778 | Common.java | 82 | SamsungS5-Locator : //li[@class='month ng-scope'][1]/div[@class='month-text']/h3/span
+ INFO | 2016-06-30 14:05:22,778 | Common.java | 82 | SamsungS5Locator Description : BV ArchiveFirstLabelPostCount
+ INFO | 2016-06-30 14:05:22,987 | Common.java | 82 | BV Mobile Page validation: Archive List is displayed
+ INFO | 2016-06-30 14:05:22,988 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:23,001 | Common.java | 82 | Parsing : BV inactiveLatestLink#xpath=//button[text()='Latest']
+ INFO | 2016-06-30 14:05:23,001 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:23,001 | Common.java | 82 | SamsungS5-Locator : //button[text()='Latest']
+ INFO | 2016-06-30 14:05:23,001 | Common.java | 82 | SamsungS5Locator Description : BV inactiveLatestLink
+ INFO | 2016-06-30 14:05:23,357 | Common.java | 82 | Click on :BV inactiveLatestLink
+ INFO | 2016-06-30 14:05:23,358 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:23,358 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-30 14:05:25,392 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:05:25,393 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:05:28,393 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:28,408 | Common.java | 82 | Parsing : BV postCountBeforeShowMoreButton#xpath=//div[@ng-controller='ContribStreamController']/div
+ INFO | 2016-06-30 14:05:28,408 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:28,408 | Common.java | 82 | SamsungS5-Locator : //div[@ng-controller='ContribStreamController']/div
+ INFO | 2016-06-30 14:05:28,408 | Common.java | 82 | SamsungS5Locator Description : BV postCountBeforeShowMoreButton
+ INFO | 2016-06-30 14:05:28,862 | Common.java | 82 | Click on :BV postCountBeforeShowMoreButton
+ INFO | 2016-06-30 14:05:28,864 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:28,864 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:05:31,866 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:31,919 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:05:31,932 | Common.java | 82 | Parsing : BV firstpost#xpath=//ul[@class='common-stream articles edittools-stream']/li[1]
+ INFO | 2016-06-30 14:05:31,933 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:31,933 | Common.java | 82 | SamsungS5-Locator : //ul[@class='common-stream articles edittools-stream']/li[1]
+ INFO | 2016-06-30 14:05:31,933 | Common.java | 82 | SamsungS5Locator Description : BV firstpost
+ INFO | 2016-06-30 14:05:32,377 | Common.java | 82 | Click on :BV firstpost
+ INFO | 2016-06-30 14:05:32,378 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:32,379 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:05:48,633 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:48,883 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:05:48,884 | Common.java | 82 | Waiting for 2 seconds...
+ INFO | 2016-06-30 14:05:50,884 | Common.java | 82 | Parsing : BV recommendedBy#xpath=//div[@id='vest-pocket-container-0']/span[contains(text(),'Recommended')]
+ INFO | 2016-06-30 14:05:50,884 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:50,884 | Common.java | 82 | SamsungS5-Locator : //div[@id='vest-pocket-container-0']/span[contains(text(),'Recommended')]
+ INFO | 2016-06-30 14:05:50,884 | Common.java | 82 | SamsungS5Locator Description : BV recommendedBy
+ INFO | 2016-06-30 14:05:54,797 | Common.java | 82 | BV Page validation (BV Recommended by BV label is  displayed
+ INFO | 2016-06-30 14:05:54,798 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:05:54,816 | Common.java | 82 | Parsing : BV recommendedBy#xpath=//div[@id='vest-pocket-container-0']/span[contains(text(),'Recommended')]
+ INFO | 2016-06-30 14:05:54,816 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:05:54,816 | Common.java | 82 | SamsungS5-Locator : //div[@id='vest-pocket-container-0']/span[contains(text(),'Recommended')]
+ INFO | 2016-06-30 14:05:54,816 | Common.java | 82 | SamsungS5Locator Description : BV recommendedBy
+ INFO | 2016-06-30 14:05:55,313 | Common.java | 82 | Scroll to BV recommendedBy
+ INFO | 2016-06-30 14:05:55,406 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:05:55,406 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:06:01,038 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:01,039 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:01,112 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:01,112 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 14:06:02,113 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 14:06:02,113 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 14:06:02,114 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:02,115 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:02,117 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:06:02,117 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:06:02,117 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:02,119 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:02,120 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:02,120 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 14:06:02,120 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:02,121 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 14:06:02,121 | Common.java | 82 | ##### Start of Test Case : Mobile Gallery Check #####
+ INFO | 2016-06-30 14:06:02,153 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:02,153 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 14:06:02,310 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:02,310 | Common.java | 82 | Navigating to URL : http://www.forbes.com/pictures/hhif45h/11-life-hacks-for-yo/
+ INFO | 2016-06-30 14:06:06,411 | Common.java | 82 | Navigation Successful : http://www.forbes.com/pictures/hhif45h/11-life-hacks-for-yo/
+ INFO | 2016-06-30 14:06:06,411 | Common.java | 82 | Navigate to : http://www.forbes.com/pictures/hhif45h/11-life-hacks-for-yo/
+ INFO | 2016-06-30 14:06:06,412 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:06,413 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:06,414 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-30 14:06:11,414 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:11,415 | Common.java | 82 | Parsing : Gallery mobileAd#xpath=//div[@id='mobile']/div[@id='google_ads_iframe_/7175/fdcmobile/pictures_0__container__']
+ INFO | 2016-06-30 14:06:11,415 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:06:11,415 | Common.java | 82 | SamsungS5-Locator : //div[@id='mobile']/div[@id='google_ads_iframe_/7175/fdcmobile/pictures_0__container__']
+ INFO | 2016-06-30 14:06:11,415 | Common.java | 82 | SamsungS5Locator Description : Gallery mobileAd
+ INFO | 2016-06-30 14:06:11,600 | Common.java | 82 | Mobile Gallery Check (Mobile Gallery sticky ad is displayed on the page
+ INFO | 2016-06-30 14:06:11,600 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:11,601 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:11,640 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:11,665 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:11,688 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:11,712 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:11,740 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:11,741 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 14:06:12,741 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 14:06:12,742 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 14:06:12,743 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:12,744 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:12,745 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:06:12,746 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:06:12,746 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:12,748 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:12,749 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:12,749 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 14:06:12,749 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:12,750 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 14:06:12,750 | Common.java | 82 | ##### Start of Test Case : Mobile CSF Check #####
+ INFO | 2016-06-30 14:06:12,751 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:12,752 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 14:06:12,868 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:12,868 | Common.java | 82 | Navigating to URL : http://www.forbes.com/actors
+ INFO | 2016-06-30 14:06:23,126 | Common.java | 82 | Navigation Successful : http://www.forbes.com/actors
+ INFO | 2016-06-30 14:06:23,127 | Common.java | 82 | Navigate to : http://www.forbes.com/actors
+ INFO | 2016-06-30 14:06:23,128 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:23,128 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:23,129 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-30 14:06:28,130 | Common.java | 82 | Waiting for 3 seconds...
+ INFO | 2016-06-30 14:06:31,144 | Common.java | 82 | Parsing : Ads on CSF#xpath=//iframe[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:06:31,145 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:06:31,145 | Common.java | 82 | SamsungS5-Locator : //iframe[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:06:31,145 | Common.java | 82 | SamsungS5Locator Description : Ads on CSF
+ INFO | 2016-06-30 14:06:31,412 | Common.java | 82 | Total Elements found for Ads on CSF: 4
+ INFO | 2016-06-30 14:06:31,413 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,414 | Common.java | 82 | CSF Page Check (CSF Ads check - 4 ads are displayed on the page
+ INFO | 2016-06-30 14:06:31,415 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,416 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,416 | Common.java | 82 | Parsing : CSF StickyAd#xpath=//div[@class='sticky-ad-container csf-sticky-ad-container ng-scope']/ad/div[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:06:31,416 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:06:31,416 | Common.java | 82 | SamsungS5-Locator : //div[@class='sticky-ad-container csf-sticky-ad-container ng-scope']/ad/div[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:06:31,416 | Common.java | 82 | SamsungS5Locator Description : CSF StickyAd
+ INFO | 2016-06-30 14:06:31,532 | Common.java | 82 | Mobile Gallery Check (Mobile Gallery sticky ad is displayed on the page
+ INFO | 2016-06-30 14:06:31,532 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,565 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:31,599 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:06:31,812 | Common.java | 82 | Elements Check (Displayed - [[[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']]]:: 0
+ INFO | 2016-06-30 14:06:31,813 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,908 | Common.java | 82 | Elements Check (Displayed - [[[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']]]:: 1
+ INFO | 2016-06-30 14:06:31,909 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:31,994 | Common.java | 82 | Elements Check (Displayed - [[[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']]]:: 2
+ INFO | 2016-06-30 14:06:31,995 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,100 | Common.java | 82 | Elements Check (Displayed - [[[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']]]:: 3
+ INFO | 2016-06-30 14:06:32,102 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,189 | Common.java | 82 | Elements Check (Displayed - [[[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']], [[AndroidDriver: chrome on ANDROID (0feeb18daec693a91795020156d0ffbd)] -> xpath: //span[@class='more']]]:: 4
+ INFO | 2016-06-30 14:06:32,190 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,191 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,414 | Common.java | 82 | CSF Page Check (CSF images check- 0 image is displayed
+ INFO | 2016-06-30 14:06:32,415 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,509 | Common.java | 82 | CSF Page Check (CSF images check- 1 image is displayed
+ INFO | 2016-06-30 14:06:32,510 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,596 | Common.java | 82 | CSF Page Check (CSF images check- 2 image is displayed
+ INFO | 2016-06-30 14:06:32,597 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,692 | Common.java | 82 | CSF Page Check (CSF images check- 3 image is displayed
+ INFO | 2016-06-30 14:06:32,693 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,791 | Common.java | 82 | CSF Page Check (CSF images check- 4 image is displayed
+ INFO | 2016-06-30 14:06:32,792 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,898 | Common.java | 82 | CSF Page Check (CSF images check- 5 image is displayed
+ INFO | 2016-06-30 14:06:32,899 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:32,981 | Common.java | 82 | CSF Page Check (CSF images check- 6 image is displayed
+ INFO | 2016-06-30 14:06:32,982 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,081 | Common.java | 82 | CSF Page Check (CSF images check- 7 image is displayed
+ INFO | 2016-06-30 14:06:33,082 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,083 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,297 | Common.java | 82 | CSF Page Check (CSF videos check- 0 video is displayed
+ INFO | 2016-06-30 14:06:33,298 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,402 | Common.java | 82 | CSF Page Check (CSF videos check- 1 video is displayed
+ INFO | 2016-06-30 14:06:33,403 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,502 | Common.java | 82 | CSF Page Check (CSF videos check- 2 video is displayed
+ INFO | 2016-06-30 14:06:33,503 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:33,504 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 14:06:34,505 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 14:06:34,505 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 14:06:34,506 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:34,506 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:34,507 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:06:34,507 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:06:34,508 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:34,509 | Common.java | 82 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:34,510 | Common.java | 82 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:34,510 | Common.java | 82 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-06-30 14:06:34,510 | Common.java | 82 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-06-30 14:06:34,510 | Common.java | 82 | Element time out set
+ INFO | 2016-06-30 14:06:34,510 | Common.java | 82 | ##### Start of Test Case : Mobile CSR Check #####
+ INFO | 2016-06-30 14:06:34,511 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:34,511 | Common.java | 82 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-30 14:06:34,640 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:06:34,641 | Common.java | 82 | Navigating to URL : http://www.forbes.com/business
+ INFO | 2016-06-30 14:07:37,550 | Common.java | 82 | Navigation Successful : http://www.forbes.com/business
+ INFO | 2016-06-30 14:07:37,550 | Common.java | 82 | Navigate to : http://www.forbes.com/business
+ INFO | 2016-06-30 14:07:37,551 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:37,553 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:37,553 | Common.java | 82 | Waiting for 5 seconds...
+ INFO | 2016-06-30 14:07:42,554 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:42,554 | Common.java | 82 | Parsing : CSR hamburgerIcon#xpath=//i[@class='icon icon-hamburger']
+ INFO | 2016-06-30 14:07:42,554 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:42,554 | Common.java | 82 | SamsungS5-Locator : //i[@class='icon icon-hamburger']
+ INFO | 2016-06-30 14:07:42,555 | Common.java | 82 | SamsungS5Locator Description : CSR hamburgerIcon
+ INFO | 2016-06-30 14:07:42,729 | Common.java | 82 | Parsing : CSF/CSR ShareIcon#xpath=//i[@class='icon icon-share']
+ INFO | 2016-06-30 14:07:42,729 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:42,729 | Common.java | 82 | SamsungS5-Locator : //i[@class='icon icon-share']
+ INFO | 2016-06-30 14:07:42,729 | Common.java | 82 | SamsungS5Locator Description : CSF/CSR ShareIcon
+ INFO | 2016-06-30 14:07:42,840 | Common.java | 82 | Parsing : CSF/CSR SearchIcon#xpath=//i[@class='icon icon-search']
+ INFO | 2016-06-30 14:07:42,841 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:42,841 | Common.java | 82 | SamsungS5-Locator : //i[@class='icon icon-search']
+ INFO | 2016-06-30 14:07:42,841 | Common.java | 82 | SamsungS5Locator Description : CSF/CSR SearchIcon
+ INFO | 2016-06-30 14:07:42,949 | Common.java | 82 | Mobile Page Check (mobile icons Check- Search and share icons are displayed
+ INFO | 2016-06-30 14:07:42,950 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:42,951 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:42,951 | Common.java | 82 | Parsing : CSF StickyAd#xpath=//div[@class='sticky-ad-container csf-sticky-ad-container ng-scope']/ad/div[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:07:42,951 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:42,952 | Common.java | 82 | SamsungS5-Locator : //div[@class='sticky-ad-container csf-sticky-ad-container ng-scope']/ad/div[contains(@id,'google_ads_iframe')]
+ INFO | 2016-06-30 14:07:42,952 | Common.java | 82 | SamsungS5Locator Description : CSF StickyAd
+ INFO | 2016-06-30 14:07:43,052 | Common.java | 82 | Mobile Gallery Check (Mobile Gallery sticky ad is displayed on the page
+ INFO | 2016-06-30 14:07:43,053 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:43,053 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:43,054 | Common.java | 82 | Waiting for 7 seconds...
+ INFO | 2016-06-30 14:07:50,206 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:50,207 | Common.java | 82 | CSR Page Check (CSR ads check- 1 ads are displayed
+ INFO | 2016-06-30 14:07:50,207 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:50,207 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:07:50,238 | Common.java | 82 | Scroll to location: 
+ INFO | 2016-06-30 14:07:50,357 | Common.java | 82 | Parsing : CSR hamburgerIcon#xpath=//i[@class='icon icon-hamburger']
+ INFO | 2016-06-30 14:07:50,358 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:50,358 | Common.java | 82 | SamsungS5-Locator : //i[@class='icon icon-hamburger']
+ INFO | 2016-06-30 14:07:50,358 | Common.java | 82 | SamsungS5Locator Description : CSR hamburgerIcon
+ INFO | 2016-06-30 14:07:50,415 | Common.java | 82 | Parsing : CSR trendingNowscroll#xpath=//button[@class='slick-next slick-arrow']
+ INFO | 2016-06-30 14:07:50,415 | Common.java | 82 | SamsungS5-Identify By : xpath
+ INFO | 2016-06-30 14:07:50,415 | Common.java | 82 | SamsungS5-Locator : //button[@class='slick-next slick-arrow']
+ INFO | 2016-06-30 14:07:50,416 | Common.java | 82 | SamsungS5Locator Description : CSR trendingNowscroll
+ INFO | 2016-06-30 14:08:20,465 | Common.java | 82 | Waiting for 1 seconds...
+ INFO | 2016-06-30 14:08:21,466 | Common.java | 82 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-06-30 14:08:21,467 | Common.java | 82 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-06-30 14:08:21,468 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:08:21,469 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:08:21,471 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:08:21,471 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:08:21,471 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:08:24,222 | Common.java | 82 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-06-30 14:08:24,223 | Common.java | 82 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-06-30 14:08:24,223 | Common.java | 82 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-06-30 14:08:24,224 | Common.java | 82 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-06-30 14:08:24,406 | Common.java | 82 | Cleanup activites...
+ INFO | 2016-06-30 14:08:24,406 | Common.java | 82 | Cleanup activities - Done...
+ INFO | 2016-06-30 14:08:24,406 | Common.java | 82 | ###################################
+ INFO | 2016-06-30 14:08:24,406 | Common.java | 82 | Script Execution Complete
+ INFO | 2016-06-30 14:08:24,406 | Common.java | 82 | ####################################

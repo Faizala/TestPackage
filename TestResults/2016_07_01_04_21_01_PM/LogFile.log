@@ -1,0 +1,1632 @@
+ INFO | 2016-07-01 16:21:01,358 | Common.java | 85 | Startup activites...
+ INFO | 2016-07-01 16:21:01,361 | Common.java | 85 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Morning_Report\TestResults\2016_07_01_04_21_01_PM
+ INFO | 2016-07-01 16:21:01,362 | Common.java | 85 | Log File creation successful : LogFile.log
+ INFO | 2016-07-01 16:21:01,365 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:01,371 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:01,819 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:01,951 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:01,952 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 16:21:02,055 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,056 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,056 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,057 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:02,058 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 16:21:02,095 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,096 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,096 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 16:21:02,652 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,652 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,653 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,653 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,653 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:21:02,654 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,654 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:21:02,655 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:21:02,656 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 16:21:02,657 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:02,658 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:21:02,658 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 16:21:02,658 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 16:21:02,659 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 16:21:02,686 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:02,686 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:02,687 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:02,687 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:07,402 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 16:21:07,408 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 16:21:07,413 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 16:21:07,413 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 16:21:07,414 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:07,414 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:07,423 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 16:21:07,423 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 16:21:07,423 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:07,424 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:20,966 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:20,966 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 16:21:20,968 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:21:20,969 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:21:20,969 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:21:20,970 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:21:20,999 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:21,000 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:21,000 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:21:21,000 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:21,001 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:21:21,001 | Common.java | 85 | ##### Start of Test Case : Welcome Page Validations #####
+ INFO | 2016-07-01 16:21:21,002 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,002 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 16:21:21,167 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,171 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,183 | Common.java | 85 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-07-01 16:21:21,183 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:21:21,184 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='content-inner']
+ INFO | 2016-07-01 16:21:21,184 | Common.java | 85 | Desktop_1_1Locator Description : Quote of the day
+ INFO | 2016-07-01 16:21:21,300 | Common.java | 85 | Sucessfully got the text 'QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers'
+ INFO | 2016-07-01 16:21:21,300 | Common.java | 85 | Forbes Quote of the Day-QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers
+ INFO | 2016-07-01 16:21:21,301 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,303 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,303 | Common.java | 85 | Parsing : Welcome Page Ads#xpath=//div[@id='ads']
+ INFO | 2016-07-01 16:21:21,304 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:21:21,304 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='ads']
+ INFO | 2016-07-01 16:21:21,304 | Common.java | 85 | Desktop_1_1Locator Description : Welcome Page Ads
+ INFO | 2016-07-01 16:21:21,352 | Common.java | 85 | Screenshot of Welcome Ads
+ INFO | 2016-07-01 16:21:21,354 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,969 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,970 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:21,979 | Common.java | 85 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-07-01 16:21:21,979 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:21:21,979 | Common.java | 85 | Desktop_1_1-Locator : //a[@class='continue-button']
+ INFO | 2016-07-01 16:21:21,979 | Common.java | 85 | Desktop_1_1Locator Description : Continue to site
+ INFO | 2016-07-01 16:21:22,057 | Common.java | 85 | Sucessfully got the text 'CONTINUE TO SITE'
+ INFO | 2016-07-01 16:21:22,057 | Common.java | 85 | CONTINUE TO SITE-CONTINUE TO SITE
+ INFO | 2016-07-01 16:21:22,058 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:22,066 | Common.java | 85 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-07-01 16:21:22,066 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:21:22,066 | Common.java | 85 | Desktop_1_1-Locator : //a[@class='continue-button']
+ INFO | 2016-07-01 16:21:22,066 | Common.java | 85 | Desktop_1_1Locator Description : Continue to site
+ INFO | 2016-07-01 16:21:50,240 | Common.java | 85 | Click on :Continue to site
+ INFO | 2016-07-01 16:21:50,243 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:50,281 | Common.java | 85 | Redirected to home page Forbes Asia
+ INFO | 2016-07-01 16:21:50,282 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:50,283 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 16:21:51,291 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:21:51,292 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:21:51,293 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:51,294 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:51,296 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:21:51,296 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:21:51,298 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:51,300 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:51,301 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:51,301 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:21:51,301 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:21:51,301 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:21:51,301 | Common.java | 85 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-07-01 16:21:51,302 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:51,303 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 16:21:51,450 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:21:51,450 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:02,495 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:02,495 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:02,497 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,499 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:22:02,500 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:22:02,500 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:22:02,501 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:22:02,505 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:22:02,506 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:22:02,507 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 16:22:02,508 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 16:22:02,517 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:22:02,518 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:22:02,519 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,521 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,523 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:22:02,524 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:22:02,525 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,528 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:22:02,529 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:22:02,531 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,532 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,534 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:22:02,534 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:22:02,535 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,538 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:22:02,538 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:22:02,539 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:22:02,539 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:22:02,539 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:22:02,539 | Common.java | 85 | ##### Start of Test Case : Article Page Validations #####
+ INFO | 2016-07-01 16:22:02,540 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,541 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 16:22:02,715 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:02,718 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:06,778 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:06,779 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:06,780 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:06,781 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:06,782 | Common.java | 85 | Parsing : User zone #xpath=//li//a[text()='U.S.']
+ INFO | 2016-07-01 16:22:06,782 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:22:06,785 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='U.S.']
+ INFO | 2016-07-01 16:22:06,785 | Common.java | 85 | Desktop_1_1Locator Description : User zone 
+ INFO | 2016-07-01 16:22:07,108 | Common.java | 85 | Parsing : User zone #xpath=//li//a[text()='U.S.']
+ INFO | 2016-07-01 16:22:07,109 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:22:07,109 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='U.S.']
+ INFO | 2016-07-01 16:22:07,109 | Common.java | 85 | Desktop_1_1Locator Description : User zone 
+ INFO | 2016-07-01 16:22:27,689 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:27,690 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 16:22:27,690 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:27,908 | Common.java | 85 | Text: 'Today's Top Stories' is present
+ INFO | 2016-07-01 16:22:27,908 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:22:29,917 | Common.java | 85 | Parsing : Main Article #xpath=//article[@class='feature promostory promostory-1']
+ INFO | 2016-07-01 16:22:29,917 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:22:29,918 | Common.java | 85 | Desktop_1_2-Locator : //article[@class='feature promostory promostory-1']
+ INFO | 2016-07-01 16:22:29,918 | Common.java | 85 | Desktop_1_2Locator Description : Main Article 
+ INFO | 2016-07-01 16:22:44,781 | Common.java | 85 | Click on :User zone 
+ INFO | 2016-07-01 16:22:44,782 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:44,783 | Common.java | 85 | US tab is displayed
+ INFO | 2016-07-01 16:22:44,784 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:22:44,784 | Common.java | 85 | Parsing : Europe#xpath=//li//a[text()='Europe']
+ INFO | 2016-07-01 16:22:44,785 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:22:44,785 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='Europe']
+ INFO | 2016-07-01 16:22:44,785 | Common.java | 85 | Desktop_1_1Locator Description : Europe
+ INFO | 2016-07-01 16:22:44,961 | Common.java | 85 | Parsing : Europe#xpath=//li//a[text()='Europe']
+ INFO | 2016-07-01 16:22:44,961 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:22:44,961 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='Europe']
+ INFO | 2016-07-01 16:22:44,961 | Common.java | 85 | Desktop_1_1Locator Description : Europe
+ INFO | 2016-07-01 16:23:19,869 | Common.java | 85 | Click on :Europe
+ INFO | 2016-07-01 16:23:19,872 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:19,874 | Common.java | 85 | Europe tab is displayed
+ INFO | 2016-07-01 16:23:19,875 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:19,876 | Common.java | 85 | Parsing : Asia#xpath=//li//a[text()='Asia']
+ INFO | 2016-07-01 16:23:19,877 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:19,877 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='Asia']
+ INFO | 2016-07-01 16:23:19,877 | Common.java | 85 | Desktop_1_1Locator Description : Asia
+ INFO | 2016-07-01 16:23:20,391 | Common.java | 85 | Parsing : Asia#xpath=//li//a[text()='Asia']
+ INFO | 2016-07-01 16:23:20,391 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:20,392 | Common.java | 85 | Desktop_1_1-Locator : //li//a[text()='Asia']
+ INFO | 2016-07-01 16:23:20,392 | Common.java | 85 | Desktop_1_1Locator Description : Asia
+ INFO | 2016-07-01 16:23:20,832 | Common.java | 85 | Click on :Asia
+ INFO | 2016-07-01 16:23:20,835 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:20,836 | Common.java | 85 | Asia tab is displayed
+ INFO | 2016-07-01 16:23:20,837 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:20,838 | Common.java | 85 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-07-01 16:23:20,839 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:20,839 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='top']//div
+ INFO | 2016-07-01 16:23:20,839 | Common.java | 85 | Desktop_1_1Locator Description : Home Page Top Ads
+ INFO | 2016-07-01 16:23:25,668 | Common.java | 85 | Click on :Main Article 
+ INFO | 2016-07-01 16:23:25,669 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:25,671 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:25,686 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:25,687 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:25,687 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:25,687 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:27,046 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:28,047 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:28,048 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:28,048 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:28,048 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:28,870 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:29,870 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:29,871 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:29,871 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:29,871 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:30,739 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:31,741 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:31,742 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:31,742 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:31,743 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:32,631 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:33,633 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:33,634 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:33,634 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:33,634 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:34,613 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:35,614 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:35,615 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:35,615 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:35,615 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:36,460 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:37,461 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:37,461 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:37,461 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:37,461 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:38,197 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:39,198 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:39,198 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:39,198 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:39,199 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:39,885 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:40,885 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:40,885 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:40,885 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:40,885 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:41,564 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:42,564 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:42,564 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:42,564 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:42,564 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:42,899 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:42,910 | Common.java | 85 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-07-01 16:23:42,910 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:42,913 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='top']//div
+ INFO | 2016-07-01 16:23:42,913 | Common.java | 85 | Desktop_1_1Locator Description : Home Page Top Ads
+ INFO | 2016-07-01 16:23:43,088 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:23:43,284 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:44,285 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:44,285 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:44,286 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:44,286 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:44,907 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:45,907 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:45,907 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:45,907 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:45,907 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:46,630 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:47,093 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:47,097 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:47,099 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 16:23:47,099 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:47,099 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='rec']
+ INFO | 2016-07-01 16:23:47,099 | Common.java | 85 | Desktop_1_1Locator Description : Rec Ads
+ INFO | 2016-07-01 16:23:47,223 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:47,250 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 16:23:47,251 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:47,251 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='rec']
+ INFO | 2016-07-01 16:23:47,251 | Common.java | 85 | Desktop_1_1Locator Description : Rec Ads
+ INFO | 2016-07-01 16:23:47,574 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:23:47,632 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:47,633 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:47,633 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:47,633 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:48,564 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:49,565 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:49,566 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:49,566 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:49,566 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:50,471 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:51,472 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:51,472 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:51,472 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:51,473 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:52,306 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:53,069 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:53,073 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:53,074 | Common.java | 85 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-07-01 16:23:53,074 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:53,075 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='topx']//div
+ INFO | 2016-07-01 16:23:53,075 | Common.java | 85 | Desktop_1_1Locator Description : Topx Ads
+ INFO | 2016-07-01 16:23:53,259 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:53,304 | Common.java | 85 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-07-01 16:23:53,305 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:53,305 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='topx']//div
+ INFO | 2016-07-01 16:23:53,305 | Common.java | 85 | Desktop_1_1Locator Description : Topx Ads
+ INFO | 2016-07-01 16:23:53,307 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:53,308 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:53,308 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:53,308 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:53,490 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:23:54,271 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:55,272 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:55,274 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:55,274 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:55,274 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:56,117 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:57,117 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:57,117 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:57,117 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:57,117 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:58,009 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:58,817 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:58,819 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:58,821 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:58,850 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 16:23:58,850 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:58,850 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 16:23:58,851 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:23:59,010 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:59,011 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:23:59,011 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:23:59,011 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:23:59,284 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 16:23:59,284 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 16:23:59,284 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:59,284 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 16:23:59,284 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:23:59,397 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 16:23:59,398 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:59,428 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 16:23:59,428 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:59,428 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 16:23:59,428 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:23:59,675 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 16:23:59,675 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 16:23:59,676 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:59,676 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 16:23:59,676 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:23:59,895 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:23:59,919 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 16:23:59,921 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:23:59,946 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 16:23:59,946 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:23:59,947 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 16:23:59,947 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:00,228 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 16:24:00,231 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 16:24:00,231 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:00,231 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 16:24:00,231 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:00,321 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 16:24:00,323 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:00,339 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 16:24:00,341 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:00,342 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 16:24:00,342 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:00,596 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 16:24:00,596 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 16:24:00,596 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:00,597 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 16:24:00,597 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:00,739 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 16:24:00,740 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:00,748 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 16:24:00,748 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:00,749 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 16:24:00,749 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:00,896 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:00,896 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:00,896 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:00,896 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:01,009 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 16:24:01,009 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 16:24:01,009 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:01,009 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 16:24:01,010 | Common.java | 85 | Desktop_1_1Locator Description : Follow Forbes
+ INFO | 2016-07-01 16:24:01,228 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 16:24:01,229 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:01,230 | Common.java | 85 | Parsing : Todays top stories1#xpath=//div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 16:24:01,230 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:01,230 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 16:24:01,230 | Common.java | 85 | Desktop_1_1Locator Description : Todays top stories1
+ INFO | 2016-07-01 16:24:01,427 | Common.java | 85 | Parsing : Todays top stories1#xpath=//div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 16:24:01,428 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:01,428 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 16:24:01,428 | Common.java | 85 | Desktop_1_1Locator Description : Todays top stories1
+ INFO | 2016-07-01 16:24:01,579 | Common.java | 85 | Sucessfully got the text 'Does China Face A Looming 'Japan Syndrome'?'
+ INFO | 2016-07-01 16:24:01,579 | Common.java | 85 | First Link of Top Stories ---Does China Face A Looming 'Japan Syndrome'?
+ INFO | 2016-07-01 16:24:01,580 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:01,581 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:01,582 | Common.java | 85 | Before Video plays
+ INFO | 2016-07-01 16:24:01,584 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:01,595 | Common.java | 85 | Parsing : Video #xpath=//video
+ INFO | 2016-07-01 16:24:01,596 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:01,596 | Common.java | 85 | Desktop_1_1-Locator : //video
+ INFO | 2016-07-01 16:24:01,596 | Common.java | 85 | Desktop_1_1Locator Description : Video 
+ INFO | 2016-07-01 16:24:01,686 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:01,869 | Common.java | 85 | Scroll to Video 
+ INFO | 2016-07-01 16:24:02,013 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:02,013 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:02,686 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:02,687 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:02,687 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:02,687 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:03,480 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:04,482 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:04,482 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:04,483 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:04,483 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:05,248 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:06,191 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:06,193 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:06,193 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:06,249 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:06,250 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:06,250 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:06,251 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:06,990 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:07,996 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:07,997 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:07,997 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:07,997 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:08,890 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:09,199 | Common.java | 85 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-07-01 16:24:09,199 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:09,199 | Common.java | 85 | Desktop_1_1-Locator : //button
+ INFO | 2016-07-01 16:24:09,200 | Common.java | 85 | Desktop_1_1Locator Description : Video Play button
+ INFO | 2016-07-01 16:24:09,358 | Common.java | 85 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-07-01 16:24:09,358 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:09,358 | Common.java | 85 | Desktop_1_1-Locator : //button
+ INFO | 2016-07-01 16:24:09,358 | Common.java | 85 | Desktop_1_1Locator Description : Video Play button
+ INFO | 2016-07-01 16:24:09,838 | Common.java | 85 | Click on :Video Play button
+ INFO | 2016-07-01 16:24:09,839 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:09,840 | Common.java | 85 | Waiting for 6 seconds...
+ INFO | 2016-07-01 16:24:09,890 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:09,892 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:09,892 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:09,893 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:10,887 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:11,889 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:11,890 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:11,890 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:11,890 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:12,844 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:13,845 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:13,845 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:13,845 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:13,845 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:14,699 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:15,700 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:15,700 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:15,701 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:15,701 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:15,842 | Common.java | 85 | Video Played for 6 seconds
+ INFO | 2016-07-01 16:24:15,845 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:15,884 | Common.java | 85 | Parsing : Video #xpath=//video
+ INFO | 2016-07-01 16:24:15,885 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:15,885 | Common.java | 85 | Desktop_1_1-Locator : //video
+ INFO | 2016-07-01 16:24:15,885 | Common.java | 85 | Desktop_1_1Locator Description : Video 
+ INFO | 2016-07-01 16:24:16,357 | Common.java | 85 | Scroll to Video 
+ INFO | 2016-07-01 16:24:16,560 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:16,623 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:16,623 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:17,561 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:17,561 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:17,561 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:17,561 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:18,427 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:19,428 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:19,429 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:19,429 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:19,429 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:20,265 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:20,691 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:20,693 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:20,695 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:21,040 | Common.java | 85 | Most Popular (Top Stories - 01)Fear: Good For Fighting Wooly Mammoths, Bad For Investment Strategy
+ INFO | 2016-07-01 16:24:21,042 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:21,231 | Common.java | 85 | Most Popular (Top Stories - 11)10 Things To Never Apologize For Again
+ INFO | 2016-07-01 16:24:21,232 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ERROR | 2016-07-01 16:24:21,276 | Common.java | 93 | Forbes Staff/Contributor Name element not found in '30' seconds timeout 
+ INFO | 2016-07-01 16:24:21,277 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:21,587 | Common.java | 85 | Most Popular (Top Stories - 21)Take It From 'Hamilton': Why Unyielding Ambition Is A Blessing And A Curse For Entrepreneurs
+ INFO | 2016-07-01 16:24:21,589 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:21,784 | Common.java | 85 | Most Popular (Top Stories - 31)The Hero's Journey: How To Tell Your Company's Story And Make It Interesting
+ INFO | 2016-07-01 16:24:21,785 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:22,039 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:22,041 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:22,042 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:24:22,043 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:22,043 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:22,044 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:22,044 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:22,044 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:24:22,069 | Common.java | 85 | Most Popular (Top Stories - 41)The iPhone 7 Launch Is Apple's Dangerous Gamble
+ INFO | 2016-07-01 16:24:22,071 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:22,073 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:22,285 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:22,286 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:24:23,061 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:24:24,074 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:24,075 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:24,075 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:24,075 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:24,304 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:24,304 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:24,304 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:24,305 | Common.java | 85 | Desktop_1_1Locator Description : Twitter
+ INFO | 2016-07-01 16:24:25,095 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:26,095 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:26,095 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:26,096 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:26,096 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:26,097 | Common.java | 85 | Scroll to Twitter
+ INFO | 2016-07-01 16:24:26,338 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:26,338 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:27,067 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:28,067 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:28,067 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:28,067 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:28,067 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:28,858 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:29,846 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:29,847 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:29,848 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:29,848 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:29,848 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:29,848 | Common.java | 85 | Desktop_1_1Locator Description : Twitter
+ INFO | 2016-07-01 16:24:29,858 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:29,858 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:29,859 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:29,859 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:30,013 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:30,014 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:30,014 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 16:24:30,014 | Common.java | 85 | Desktop_1_1Locator Description : Twitter
+ INFO | 2016-07-01 16:24:30,450 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:30,649 | Common.java | 85 | Click on :Twitter
+ INFO | 2016-07-01 16:24:30,650 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:30,755 | Common.java | 85 | Parsing : Twitter#xpath=//ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:24:30,755 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:30,755 | Common.java | 85 | Desktop_1_1-Locator : //ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:24:30,756 | Common.java | 85 | Desktop_1_1Locator Description : Twitter
+ INFO | 2016-07-01 16:24:31,101 | Common.java | 85 | Sucessfully got the text 'The Black Knight Of Africa: How Robert Gumede is Expanding His Legacy Across the Continent'
+ INFO | 2016-07-01 16:24:31,102 | Common.java | 85 | First Link of Twitter is --The Black Knight Of Africa: How Robert Gumede is Expanding His Legacy Across the Continent
+ INFO | 2016-07-01 16:24:31,103 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:31,231 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:31,231 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:24:31,451 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:31,451 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:31,451 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:31,451 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:31,998 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:24:32,999 | Common.java | 93 | Forbes Staff/Contributor Name element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:24:33,000 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:33,239 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:33,240 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:33,240 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:33,240 | Common.java | 85 | Desktop_1_1Locator Description : Facebook
+ INFO | 2016-07-01 16:24:33,492 | Common.java | 85 | Scroll to Facebook
+ INFO | 2016-07-01 16:24:33,552 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:33,555 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:33,557 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:24:33,557 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:33,557 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:33,558 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:33,558 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:33,558 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:24:33,671 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:33,671 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:34,339 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:24:35,351 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:35,351 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:35,352 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:35,352 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:36,101 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:37,101 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:37,101 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:37,101 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:37,101 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:37,107 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:37,109 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:37,109 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:37,109 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:37,110 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:37,110 | Common.java | 85 | Desktop_1_1Locator Description : Facebook
+ INFO | 2016-07-01 16:24:37,291 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:37,291 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:37,292 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 16:24:37,292 | Common.java | 85 | Desktop_1_1Locator Description : Facebook
+ INFO | 2016-07-01 16:24:37,721 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:37,745 | Common.java | 85 | Click on :Facebook
+ INFO | 2016-07-01 16:24:37,746 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:37,765 | Common.java | 85 | Parsing : Facebook#xpath=//ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:24:37,765 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:37,766 | Common.java | 85 | Desktop_1_1-Locator : //ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:24:37,766 | Common.java | 85 | Desktop_1_1Locator Description : Facebook
+ INFO | 2016-07-01 16:24:38,082 | Common.java | 85 | Sucessfully got the text 'AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price'
+ INFO | 2016-07-01 16:24:38,083 | Common.java | 85 | First Link of Facebook is --AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price
+ INFO | 2016-07-01 16:24:38,084 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:38,165 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:38,166 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:24:38,721 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:38,721 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:38,721 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:38,721 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:39,353 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:40,172 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:40,172 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:40,172 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:40,172 | Common.java | 85 | Desktop_1_1Locator Description : LinkedIn
+ INFO | 2016-07-01 16:24:40,310 | Common.java | 85 | Scroll to LinkedIn
+ INFO | 2016-07-01 16:24:40,353 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:40,353 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:40,353 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:40,353 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:40,419 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:24:40,419 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:24:40,902 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:41,902 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:41,903 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:41,903 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:41,903 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:42,458 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:24:43,458 | Common.java | 93 | Forbes Staff/Contributor Name element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:24:43,462 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:43,744 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:43,745 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:43,745 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:43,745 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:43,745 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:43,746 | Common.java | 85 | Desktop_1_1Locator Description : LinkedIn
+ INFO | 2016-07-01 16:24:43,798 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:43,798 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:43,799 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 16:24:43,799 | Common.java | 85 | Desktop_1_1Locator Description : LinkedIn
+ INFO | 2016-07-01 16:24:43,965 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:43,966 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:43,966 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:24:43,966 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:43,967 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:43,967 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:43,967 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:43,967 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:24:44,054 | Common.java | 85 | Click on :LinkedIn
+ INFO | 2016-07-01 16:24:44,055 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:44,064 | Common.java | 85 | Parsing : LinkedIn#xpath=//ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:24:44,064 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:44,065 | Common.java | 85 | Desktop_1_1-Locator : //ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:24:44,065 | Common.java | 85 | Desktop_1_1Locator Description : LinkedIn
+ INFO | 2016-07-01 16:24:44,354 | Common.java | 85 | Sucessfully got the text 'Never Work In An Office Again: 20 Insider Tips From A 33-Year-Old Who Is Traveling The World'
+ INFO | 2016-07-01 16:24:44,354 | Common.java | 85 | First Link of LinkedIn is --Never Work In An Office Again: 20 Insider Tips From A 33-Year-Old Who Is Traveling The World
+ INFO | 2016-07-01 16:24:44,355 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:44,357 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:44,357 | Common.java | 85 | Parsing : Previous#xpath=//div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 16:24:44,358 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:44,358 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 16:24:44,358 | Common.java | 85 | Desktop_1_1Locator Description : Previous
+ INFO | 2016-07-01 16:24:44,474 | Common.java | 85 | Parsing : Forbes Lsit#xpath=//h2[text()='Forbes Lists']
+ INFO | 2016-07-01 16:24:44,474 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:44,474 | Common.java | 85 | Desktop_1_1-Locator : //h2[text()='Forbes Lists']
+ INFO | 2016-07-01 16:24:44,475 | Common.java | 85 | Desktop_1_1Locator Description : Forbes Lsit
+ INFO | 2016-07-01 16:24:44,671 | Common.java | 85 | Verified the Forbes list is displayedtrue
+ INFO | 2016-07-01 16:24:44,672 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:44,678 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:24:44,685 | Common.java | 85 | Parsing : Previous#xpath=//div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 16:24:44,685 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:44,685 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 16:24:44,685 | Common.java | 85 | Desktop_1_1Locator Description : Previous
+ INFO | 2016-07-01 16:24:45,124 | Common.java | 85 | Click on :Previous
+ INFO | 2016-07-01 16:24:45,125 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:45,371 | Common.java | 85 | Total List of Forbes lists is--64
+ INFO | 2016-07-01 16:24:45,373 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:45,394 | Common.java | 85 | Parsing : Next#xpath=//div[@class='next']//a[@class='bx-next']
+ INFO | 2016-07-01 16:24:45,395 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:45,395 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='next']//a[@class='bx-next']
+ INFO | 2016-07-01 16:24:45,395 | Common.java | 85 | Desktop_1_1Locator Description : Next
+ INFO | 2016-07-01 16:24:45,686 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:45,686 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:45,686 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:45,686 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:45,743 | Common.java | 85 | Click on :Next
+ INFO | 2016-07-01 16:24:45,744 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:45,745 | Common.java | 85 | Parsing : Forbes Lists Name#xpath=//span[@class='name']
+ INFO | 2016-07-01 16:24:45,745 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:45,745 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='name']
+ INFO | 2016-07-01 16:24:45,745 | Common.java | 85 | Desktop_1_1Locator Description : Forbes Lists Name
+ INFO | 2016-07-01 16:24:45,904 | Common.java | 85 | Forbes Lists ticker is working
+ INFO | 2016-07-01 16:24:45,905 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:45,905 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:45,914 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[1]
+ INFO | 2016-07-01 16:24:45,915 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:45,915 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[1]
+ INFO | 2016-07-01 16:24:45,915 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:46,304 | Common.java | 85 | Sucessfully got the text 'FORBES'
+ INFO | 2016-07-01 16:24:46,305 | Common.java | 85 | Footer Channels are FORBES
+ INFO | 2016-07-01 16:24:46,305 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:46,346 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[2]
+ INFO | 2016-07-01 16:24:46,346 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:46,346 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[2]
+ INFO | 2016-07-01 16:24:46,346 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:46,569 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:46,751 | Common.java | 85 | Sucessfully got the text 'BUSINESS'
+ INFO | 2016-07-01 16:24:46,752 | Common.java | 85 | Footer Channels are BUSINESS
+ INFO | 2016-07-01 16:24:46,753 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:46,763 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[3]
+ INFO | 2016-07-01 16:24:46,764 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:46,764 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[3]
+ INFO | 2016-07-01 16:24:46,764 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:47,054 | Common.java | 85 | Sucessfully got the text 'INVESTING'
+ INFO | 2016-07-01 16:24:47,054 | Common.java | 85 | Footer Channels are INVESTING
+ INFO | 2016-07-01 16:24:47,055 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:47,072 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[4]
+ INFO | 2016-07-01 16:24:47,072 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:47,072 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[4]
+ INFO | 2016-07-01 16:24:47,072 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:47,414 | Common.java | 85 | Sucessfully got the text 'TECHNOLOGY'
+ INFO | 2016-07-01 16:24:47,414 | Common.java | 85 | Footer Channels are TECHNOLOGY
+ INFO | 2016-07-01 16:24:47,415 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:47,431 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[5]
+ INFO | 2016-07-01 16:24:47,432 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:47,432 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[5]
+ INFO | 2016-07-01 16:24:47,432 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:47,570 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:47,570 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:47,570 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:47,570 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:47,690 | Common.java | 85 | Sucessfully got the text 'ENTREPRENEURS'
+ INFO | 2016-07-01 16:24:47,691 | Common.java | 85 | Footer Channels are ENTREPRENEURS
+ INFO | 2016-07-01 16:24:47,692 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:47,708 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[6]
+ INFO | 2016-07-01 16:24:47,709 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:47,709 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[6]
+ INFO | 2016-07-01 16:24:47,709 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:48,383 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:48,390 | Common.java | 85 | Sucessfully got the text 'OP/ED'
+ INFO | 2016-07-01 16:24:48,390 | Common.java | 85 | Footer Channels are OP/ED
+ INFO | 2016-07-01 16:24:48,392 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:48,406 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[7]
+ INFO | 2016-07-01 16:24:48,406 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:48,407 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[7]
+ INFO | 2016-07-01 16:24:48,407 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:48,730 | Common.java | 85 | Sucessfully got the text 'LEADERSHIP'
+ INFO | 2016-07-01 16:24:48,731 | Common.java | 85 | Footer Channels are LEADERSHIP
+ INFO | 2016-07-01 16:24:48,731 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:48,740 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[8]
+ INFO | 2016-07-01 16:24:48,740 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:48,740 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[8]
+ INFO | 2016-07-01 16:24:48,740 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:48,929 | Common.java | 85 | Sucessfully got the text 'LIFESTYLE'
+ INFO | 2016-07-01 16:24:48,930 | Common.java | 85 | Footer Channels are LIFESTYLE
+ INFO | 2016-07-01 16:24:48,931 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:48,939 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[9]
+ INFO | 2016-07-01 16:24:48,939 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:48,940 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[9]
+ INFO | 2016-07-01 16:24:48,940 | Common.java | 85 | Desktop_1_1Locator Description : Channels
+ INFO | 2016-07-01 16:24:49,072 | Common.java | 85 | Sucessfully got the text 'LISTS'
+ INFO | 2016-07-01 16:24:49,073 | Common.java | 85 | Footer Channels are LISTS
+ INFO | 2016-07-01 16:24:49,073 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:49,081 | Common.java | 85 | Parsing : Media Forbes#xpath=//section[@class='legalese clearfix']//small
+ INFO | 2016-07-01 16:24:49,081 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:49,081 | Common.java | 85 | Desktop_1_1-Locator : //section[@class='legalese clearfix']//small
+ INFO | 2016-07-01 16:24:49,081 | Common.java | 85 | Desktop_1_1Locator Description : Media Forbes
+ INFO | 2016-07-01 16:24:49,311 | Common.java | 85 | Sucessfully got the text '©  2016 Forbes Media LLC. All Rights Reserved.'
+ INFO | 2016-07-01 16:24:49,312 | Common.java | 85 | ©  2016 Forbes Media LLC. All Rights Reserved.
+ INFO | 2016-07-01 16:24:49,313 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:49,314 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:49,329 | Common.java | 85 | Parsing : Login button #xpath=//a[@class='button account ga_tracked']
+ INFO | 2016-07-01 16:24:49,329 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:49,330 | Common.java | 85 | Desktop_1_1-Locator : //a[@class='button account ga_tracked']
+ INFO | 2016-07-01 16:24:49,330 | Common.java | 85 | Desktop_1_1Locator Description : Login button 
+ INFO | 2016-07-01 16:24:49,384 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:49,384 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:49,384 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:49,384 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:49,649 | Common.java | 85 | Click on :Login button 
+ INFO | 2016-07-01 16:24:49,652 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:49,653 | Common.java | 85 | Parsing : Login Button#xpath=//span[@class='outer']
+ INFO | 2016-07-01 16:24:49,653 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 16:24:49,654 | Common.java | 85 | Desktop_1_1-Locator : //span[@class='outer']
+ INFO | 2016-07-01 16:24:49,654 | Common.java | 85 | Desktop_1_1Locator Description : Login Button
+ INFO | 2016-07-01 16:24:50,041 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:51,047 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:51,048 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:51,048 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:51,048 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:51,877 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:52,878 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:52,878 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:52,878 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:52,878 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:53,490 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:24:54,491 | Common.java | 93 | Forbes Staff/Contributor Name element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:24:54,492 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:54,866 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:54,867 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:24:54,867 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:24:54,867 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:54,867 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:54,867 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:54,868 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:24:54,868 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:24:55,486 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:24:56,492 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:56,493 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:56,493 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:56,493 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:57,046 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:58,046 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:58,046 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:58,046 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:58,046 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:24:58,587 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:24:59,587 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:59,587 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:24:59,587 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:24:59,587 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:25:00,133 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:25:01,134 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:25:01,134 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:01,134 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:25:01,134 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:25:01,720 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:25:02,721 | Common.java | 85 | Parsing : Forbes Staff/Contributor Name#xpath=//section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:25:02,723 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:02,723 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='contrib-author-container1']//div[2]//..//p[1]
+ INFO | 2016-07-01 16:25:02,723 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Staff/Contributor Name
+ INFO | 2016-07-01 16:25:03,023 | Common.java | 85 | Login form is available
+ INFO | 2016-07-01 16:25:03,024 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:03,025 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 16:25:03,345 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:25:04,027 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:25:04,028 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:25:04,029 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,030 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,031 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:25:04,031 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:04,032 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,034 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:25:04,034 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:25:04,034 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,035 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,036 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:25:04,036 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:04,037 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,039 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:25:04,040 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:25:04,045 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,048 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,049 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:25:04,050 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:04,050 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ERROR | 2016-07-01 16:25:04,346 | Common.java | 93 | Forbes Staff/Contributor Name element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:25:04,348 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,779 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,780 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:04,781 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:04,781 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:04,781 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:04,782 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:04,782 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:04,782 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:25:05,418 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ERROR | 2016-07-01 16:25:06,418 | Common.java | 93 | Forbes Staff/Contributor Name element found but its not in editable/clickable state within 5 timeouts
+ INFO | 2016-07-01 16:25:06,419 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,778 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,779 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,779 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:06,779 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:06,780 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:06,780 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:06,780 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:25:06,780 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:25:06,780 | Common.java | 85 | Author Name is ---null
+ INFO | 2016-07-01 16:25:06,781 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,782 | Common.java | 85 | Parsing : Contributor Image#xpath=//div[@class='contrib-image']//a//img
+ INFO | 2016-07-01 16:25:06,782 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:06,782 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='contrib-image']//a//img
+ INFO | 2016-07-01 16:25:06,782 | Common.java | 85 | Desktop_1_2Locator Description : Contributor Image
+ INFO | 2016-07-01 16:25:06,835 | Common.java | 85 | Image is displayed with Author Details
+ INFO | 2016-07-01 16:25:06,836 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,837 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:06,842 | Common.java | 85 | Parsing : Share#xpath=//div[@class='bottom-sticky anim ng-scope']//div[@class='ng-scope ng-isolate-scope']
+ INFO | 2016-07-01 16:25:06,843 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:06,843 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='bottom-sticky anim ng-scope']//div[@class='ng-scope ng-isolate-scope']
+ INFO | 2016-07-01 16:25:06,843 | Common.java | 85 | Desktop_1_2Locator Description : Share
+ INFO | 2016-07-01 16:25:07,095 | Common.java | 85 | Click on :Share
+ INFO | 2016-07-01 16:25:07,096 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:07,096 | Common.java | 85 | Parsing : Social Share#xpath=//div[@class='ng-scope ng-isolate-scope']//ul[2]//li[@class='facebook expandable']//button//i
+ INFO | 2016-07-01 16:25:07,097 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:07,097 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='ng-scope ng-isolate-scope']//ul[2]//li[@class='facebook expandable']//button//i
+ INFO | 2016-07-01 16:25:07,097 | Common.java | 85 | Desktop_1_2Locator Description : Social Share
+ INFO | 2016-07-01 16:25:07,263 | Common.java | 85 | Parsing : Social Share#xpath=//div[@class='ng-scope ng-isolate-scope']//ul[2]//li[@class='facebook expandable']//button//i
+ INFO | 2016-07-01 16:25:07,264 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:07,264 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='ng-scope ng-isolate-scope']//ul[2]//li[@class='facebook expandable']//button//i
+ INFO | 2016-07-01 16:25:07,264 | Common.java | 85 | Desktop_1_2Locator Description : Social Share
+ INFO | 2016-07-01 16:25:07,609 | Common.java | 85 | Click on :Social Share
+ INFO | 2016-07-01 16:25:07,611 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:07,611 | Common.java | 85 | Social Shares are displayed
+ INFO | 2016-07-01 16:25:07,612 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:07,650 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:25:09,659 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:25:11,660 | Common.java | 85 | Parsing : Email#xpath=//input[@name='email']
+ INFO | 2016-07-01 16:25:11,660 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:11,660 | Common.java | 85 | Desktop_1_2-Locator : //input[@name='email']
+ INFO | 2016-07-01 16:25:11,660 | Common.java | 85 | Desktop_1_2Locator Description : Email
+ INFO | 2016-07-01 16:25:11,753 | Common.java | 85 | Navigating to Facebook Page
+ INFO | 2016-07-01 16:25:11,754 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:11,907 | Common.java | 85 | Parsing : Share#xpath=//div[@class='bottom-sticky anim ng-scope']//div[@class='ng-scope ng-isolate-scope']
+ INFO | 2016-07-01 16:25:11,908 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:11,908 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='bottom-sticky anim ng-scope']//div[@class='ng-scope ng-isolate-scope']
+ INFO | 2016-07-01 16:25:11,908 | Common.java | 85 | Desktop_1_2Locator Description : Share
+ INFO | 2016-07-01 16:25:12,268 | Common.java | 85 | Click on :Share
+ INFO | 2016-07-01 16:25:12,269 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:12,270 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:12,519 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:15,919 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:15,920 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:15,920 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:18,928 | Common.java | 85 | Parsing : Article#xpath=//article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][1]
+ INFO | 2016-07-01 16:25:18,928 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:18,928 | Common.java | 85 | Desktop_1_2-Locator : //article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][1]
+ INFO | 2016-07-01 16:25:18,928 | Common.java | 85 | Desktop_1_2Locator Description : Article
+ INFO | 2016-07-01 16:25:19,066 | Common.java | 85 | Scroll to Article
+ INFO | 2016-07-01 16:25:19,162 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:25:19,162 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:22,520 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:22,521 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:22,521 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:25,527 | Common.java | 85 | Parsing : Article#xpath=//article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][2]
+ INFO | 2016-07-01 16:25:25,528 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:25,528 | Common.java | 85 | Desktop_1_2-Locator : //article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][2]
+ INFO | 2016-07-01 16:25:25,528 | Common.java | 85 | Desktop_1_2Locator Description : Article
+ INFO | 2016-07-01 16:25:25,611 | Common.java | 85 | Scroll to Article
+ INFO | 2016-07-01 16:25:25,834 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:25:25,835 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:29,308 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:29,309 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:29,310 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:32,317 | Common.java | 85 | Parsing : Article#xpath=//article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][3]
+ INFO | 2016-07-01 16:25:32,317 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:32,318 | Common.java | 85 | Desktop_1_2-Locator : //article[@id='article-container-0']//div[@ng-repeat-start='ad_unit in ad_units'][3]
+ INFO | 2016-07-01 16:25:32,318 | Common.java | 85 | Desktop_1_2Locator Description : Article
+ INFO | 2016-07-01 16:25:32,406 | Common.java | 85 | Scroll to Article
+ INFO | 2016-07-01 16:25:32,569 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:25:32,570 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:25:35,904 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:35,904 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:35,905 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 16:25:36,923 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:25:36,923 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:25:36,924 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:36,925 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:36,926 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:25:36,926 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:25:36,926 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:36,927 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:25:36,928 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:25:36,928 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 16:25:36,928 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 16:25:36,928 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 16:25:36,928 | Common.java | 85 | ##### Start of Test Case : Most Popular validation #####
+ INFO | 2016-07-01 16:25:36,929 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:36,929 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 16:25:37,131 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:37,132 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 16:25:48,285 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 16:25:48,285 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 16:25:48,286 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:48,286 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:25:48,300 | Common.java | 85 | Parsing : Most Popular#xpath=//span[contains(text(),'Popular')]
+ INFO | 2016-07-01 16:25:48,300 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:25:48,300 | Common.java | 85 | Desktop_1_2-Locator : //span[contains(text(),'Popular')]
+ INFO | 2016-07-01 16:25:48,301 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular
+ INFO | 2016-07-01 16:26:01,769 | Common.java | 85 | Click on :Most Popular
+ INFO | 2016-07-01 16:26:01,770 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:01,771 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:01,779 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 16:26:01,779 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:01,779 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 16:26:01,779 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 16:26:02,367 | Common.java | 85 | Click on :Twitter
+ INFO | 2016-07-01 16:26:02,368 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:02,373 | Common.java | 85 | Parsing : Twitter#xpath=//ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:26:02,373 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:02,373 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:26:02,373 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 16:26:02,697 | Common.java | 85 | Total Elements found for Twitter: 5
+ INFO | 2016-07-01 16:26:02,697 | Common.java | 85 | Total Links Present on Twitter--5
+ INFO | 2016-07-01 16:26:02,698 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:02,704 | Common.java | 85 | Parsing : Twitter#xpath=//ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:26:02,704 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:02,705 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 16:26:02,705 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 16:26:02,843 | Common.java | 85 | Sucessfully got the text 'Dinner In The Sky Dangles Diners 150 Feet Over Los Angeles'
+ INFO | 2016-07-01 16:26:02,844 | Common.java | 85 | Dinner In The Sky Dangles Diners 150 Feet Over Los Angeles
+ INFO | 2016-07-01 16:26:02,844 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:02,849 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 16:26:02,850 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:02,850 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 16:26:02,850 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:26:03,139 | Common.java | 85 | Click on :Facebook
+ INFO | 2016-07-01 16:26:03,140 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:03,146 | Common.java | 85 | Parsing : Facebook#xpath=//ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:26:03,146 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:03,146 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:26:03,146 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:26:03,358 | Common.java | 85 | Total Elements found for Facebook: 5
+ INFO | 2016-07-01 16:26:03,358 | Common.java | 85 | Total Links Present on Facebook--5
+ INFO | 2016-07-01 16:26:03,359 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:03,364 | Common.java | 85 | Parsing : Facebook#xpath=//ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:26:03,364 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:03,364 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='facebook']//li//a
+ INFO | 2016-07-01 16:26:03,364 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:26:03,504 | Common.java | 85 | Sucessfully got the text 'AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price'
+ INFO | 2016-07-01 16:26:03,504 | Common.java | 85 | AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price
+ INFO | 2016-07-01 16:26:03,505 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:03,513 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 16:26:03,513 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:03,513 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 16:26:03,513 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 16:26:03,780 | Common.java | 85 | Click on :LinkedIn
+ INFO | 2016-07-01 16:26:03,781 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:03,786 | Common.java | 85 | Parsing : LinkedIn#xpath=//ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:26:03,787 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:03,787 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:26:03,787 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 16:26:04,038 | Common.java | 85 | Total Elements found for LinkedIn: 5
+ INFO | 2016-07-01 16:26:04,038 | Common.java | 85 | Total Links Present on LinkedIn--5
+ INFO | 2016-07-01 16:26:04,039 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:04,045 | Common.java | 85 | Parsing : LinkedIn#xpath=//ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:26:04,045 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:04,046 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 16:26:04,046 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 16:26:04,242 | Common.java | 85 | Sucessfully got the text 'Never Work In An Office Again: 20 Insider Tips From A 33-Year-Old Who Is Traveling The World'
+ INFO | 2016-07-01 16:26:04,243 | Common.java | 85 | Never Work In An Office Again: 20 Insider Tips From A 33-Year-Old Who Is Traveling The World
+ INFO | 2016-07-01 16:26:04,243 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:04,244 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:26:07,244 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:07,245 | Common.java | 85 | Top Ads is present
+ INFO | 2016-07-01 16:26:07,245 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:07,245 | Common.java | 85 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-07-01 16:26:07,245 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:07,245 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='top']//div
+ INFO | 2016-07-01 16:26:07,246 | Common.java | 85 | Desktop_1_2Locator Description : Home Page Top Ads
+ INFO | 2016-07-01 16:26:07,615 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:07,615 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:07,616 | Common.java | 85 | Rec Ads is present
+ INFO | 2016-07-01 16:26:07,616 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:07,617 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 16:26:07,617 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:07,617 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='rec']
+ INFO | 2016-07-01 16:26:07,617 | Common.java | 85 | Desktop_1_2Locator Description : Rec Ads
+ INFO | 2016-07-01 16:26:07,670 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 16:26:07,671 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:07,671 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='rec']
+ INFO | 2016-07-01 16:26:07,671 | Common.java | 85 | Desktop_1_2Locator Description : Rec Ads
+ INFO | 2016-07-01 16:26:07,802 | Common.java | 85 | Scroll to Rec Ads
+ INFO | 2016-07-01 16:26:07,914 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:26:07,914 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:26:11,216 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:11,216 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:11,217 | Common.java | 85 |  Rail Rec Ads is present
+ INFO | 2016-07-01 16:26:11,217 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:11,217 | Common.java | 85 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-07-01 16:26:11,217 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:11,217 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='railrec']
+ INFO | 2016-07-01 16:26:11,218 | Common.java | 85 | Desktop_1_2Locator Description : RailRec ads
+ INFO | 2016-07-01 16:26:11,281 | Common.java | 85 | Parsing : RailRec ads#xpath=//div[@id='railrec']
+ INFO | 2016-07-01 16:26:11,281 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:11,281 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='railrec']
+ INFO | 2016-07-01 16:26:11,281 | Common.java | 85 | Desktop_1_2Locator Description : RailRec ads
+ INFO | 2016-07-01 16:26:11,372 | Common.java | 85 | Scroll to RailRec ads
+ INFO | 2016-07-01 16:26:11,382 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:26:11,382 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:26:14,603 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:14,604 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:14,604 | Common.java | 85 |  Text Ads is present
+ INFO | 2016-07-01 16:26:14,604 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:14,605 | Common.java | 85 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-07-01 16:26:14,605 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:14,605 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='text']
+ INFO | 2016-07-01 16:26:14,605 | Common.java | 85 | Desktop_1_2Locator Description : Blocker ads
+ INFO | 2016-07-01 16:26:14,647 | Common.java | 85 | Parsing : Blocker ads#xpath=//div[@id='text']
+ INFO | 2016-07-01 16:26:14,647 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:14,647 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='text']
+ INFO | 2016-07-01 16:26:14,647 | Common.java | 85 | Desktop_1_2Locator Description : Blocker ads
+ INFO | 2016-07-01 16:26:14,755 | Common.java | 85 | Scroll to Blocker ads
+ INFO | 2016-07-01 16:26:14,823 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:26:14,823 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:26:18,067 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:18,068 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:18,068 | Common.java | 85 |  Loge Ads is present
+ INFO | 2016-07-01 16:26:18,068 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:18,069 | Common.java | 85 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-07-01 16:26:18,069 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:18,069 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='loge']
+ INFO | 2016-07-01 16:26:18,069 | Common.java | 85 | Desktop_1_2Locator Description : Loge ads
+ INFO | 2016-07-01 16:26:18,124 | Common.java | 85 | Parsing : Loge ads#xpath=//div[@id='loge']
+ INFO | 2016-07-01 16:26:18,124 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:18,124 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='loge']
+ INFO | 2016-07-01 16:26:18,124 | Common.java | 85 | Desktop_1_2Locator Description : Loge ads
+ INFO | 2016-07-01 16:26:18,248 | Common.java | 85 | Scroll to Loge ads
+ INFO | 2016-07-01 16:26:18,390 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:26:18,390 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 16:26:21,695 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:21,696 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:21,696 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:21,696 | Common.java | 85 | Waiting for 5 seconds...
+ INFO | 2016-07-01 16:26:26,703 | Common.java | 85 | Parsing : Most Popular Link#xpath=//div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,703 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:26,703 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,704 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular Link
+ INFO | 2016-07-01 16:26:26,819 | Common.java | 85 | Scroll to Most Popular Link
+ INFO | 2016-07-01 16:26:26,877 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:26:26,884 | Common.java | 85 | Parsing : Most Popular Link#xpath=//div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,884 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:26,884 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,885 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular Link
+ INFO | 2016-07-01 16:26:26,971 | Common.java | 85 | Parsing : Most Popular Link#xpath=//div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,971 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:26,971 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:26,971 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular Link
+ INFO | 2016-07-01 16:26:27,065 | Common.java | 85 | Parsing : Most Popular Link#xpath=//div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:27,066 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:27,066 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:27,066 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular Link
+ INFO | 2016-07-01 16:26:27,194 | Common.java | 85 | Sucessfully got the text 'AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price'
+ INFO | 2016-07-01 16:26:27,194 | Common.java | 85 | AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price
+ INFO | 2016-07-01 16:26:27,195 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:27,195 | Common.java | 85 | Recently posted Most Popular are displayed
+ INFO | 2016-07-01 16:26:27,196 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:27,202 | Common.java | 85 | Parsing : Most Popular Link#xpath=//div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:27,202 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:27,202 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='stories_wrapper']//ol[@class='all']/li[1]//a
+ INFO | 2016-07-01 16:26:27,202 | Common.java | 85 | Desktop_1_2Locator Description : Most Popular Link
+ INFO | 2016-07-01 16:26:47,049 | Common.java | 85 | Click on :Most Popular Link
+ INFO | 2016-07-01 16:26:47,050 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:26:47,059 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:47,059 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:47,060 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:47,060 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:48,342 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:49,344 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:49,344 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:49,344 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:49,344 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:49,943 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:50,943 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:50,943 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:50,943 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:50,943 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:51,548 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:52,549 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:52,549 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:52,549 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:52,549 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:53,116 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:54,117 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:54,117 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:54,117 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:54,117 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:54,652 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:55,652 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:55,652 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:55,652 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:55,652 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:56,239 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:57,240 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:57,240 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:57,241 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:57,241 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:57,814 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:26:58,815 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:58,815 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:26:58,815 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:26:58,815 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:26:59,382 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:00,385 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:00,386 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:00,386 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:00,386 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:00,993 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:01,993 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:01,993 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:01,993 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:01,993 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:02,573 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:03,573 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:03,573 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:03,573 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:03,573 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:04,123 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:05,123 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:05,123 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:05,123 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:05,124 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:05,690 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:06,691 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:06,691 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:06,691 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:06,691 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:07,259 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:08,260 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:08,260 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:08,260 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:08,260 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:08,818 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:09,819 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:09,819 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:09,819 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:09,819 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:10,370 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:11,370 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:11,370 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:11,370 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:11,370 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:11,910 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:12,911 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:12,911 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:12,911 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:12,911 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:13,535 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:14,536 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:14,536 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:14,536 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:14,536 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:15,107 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:16,107 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:16,107 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:16,108 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:16,108 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:16,656 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:17,656 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:17,656 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:17,656 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:17,656 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:18,212 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:19,213 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:19,213 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:19,213 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:19,213 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:19,812 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:20,813 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:20,813 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:20,813 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:20,813 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:21,354 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:22,355 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:22,355 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:22,355 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:22,356 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:22,931 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:23,933 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:23,933 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:23,933 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:23,933 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:24,514 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:25,515 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:25,515 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:25,515 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:25,515 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:26,081 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:27,081 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:27,081 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:27,081 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:27,081 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:27,633 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:28,633 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:28,633 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:28,633 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:28,633 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:29,200 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:30,201 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:30,201 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:30,201 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:30,201 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:30,756 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:31,756 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:31,756 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:31,756 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:31,756 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:32,342 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:33,342 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:33,342 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:33,342 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:33,342 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:33,920 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:27:34,920 | Common.java | 93 | Gallery element not found in '30' seconds timeout 
+ INFO | 2016-07-01 16:27:34,920 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:35,286 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:35,288 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:35,289 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:27:35,289 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:35,289 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:35,290 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:35,290 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:35,290 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:27:35,868 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:27:36,882 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:36,882 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:36,882 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:36,882 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:37,569 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:38,577 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:38,577 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:38,577 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:38,577 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:39,178 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:40,178 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:40,178 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:40,178 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:40,178 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:40,738 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:41,740 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:41,740 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:41,740 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:41,740 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:42,286 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:43,287 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:43,287 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:43,287 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:43,287 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:43,882 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:27:44,883 | Common.java | 93 | Gallery element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:27:44,884 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:45,216 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:45,218 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:45,219 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:27:45,220 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:45,220 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:45,220 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:45,220 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:45,221 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:27:45,798 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:27:46,804 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:46,804 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:46,804 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:46,804 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:47,411 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:48,412 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:48,412 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:48,412 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:48,412 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:48,990 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:49,990 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:49,990 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:49,990 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:49,990 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:50,583 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:51,584 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:51,584 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:51,584 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:51,584 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:52,121 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:53,121 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:53,121 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:53,121 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:53,121 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:53,659 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:27:54,660 | Common.java | 93 | Gallery element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:27:54,661 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:55,016 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:55,017 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:27:55,017 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:27:55,018 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:55,018 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:55,018 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:55,018 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:27:55,019 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:27:55,603 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:27:56,610 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:56,610 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:56,610 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:56,611 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:57,195 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:58,195 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:58,195 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:58,195 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:58,195 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:27:58,783 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:27:59,783 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:59,783 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:27:59,783 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:27:59,783 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:00,334 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:01,334 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:01,334 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:01,334 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:01,334 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:01,866 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:02,866 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:02,866 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:02,866 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:02,866 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:03,454 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:28:04,454 | Common.java | 93 | Gallery element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:28:04,454 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:04,810 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:04,811 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:04,811 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:28:04,811 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:04,812 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:04,812 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:04,812 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:04,812 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:28:05,370 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ INFO | 2016-07-01 16:28:06,376 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:06,376 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:06,376 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:06,376 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:06,995 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:07,995 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:07,995 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:07,995 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:07,995 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:08,563 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:09,563 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:09,563 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:09,563 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:09,563 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:10,168 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:11,168 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:11,168 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:11,168 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:11,168 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:11,737 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:12,738 | Common.java | 85 | Parsing : Gallery#xpath=//div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:12,738 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:12,738 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='article-gallery-embedded']//header
+ INFO | 2016-07-01 16:28:12,738 | Common.java | 85 | Desktop_1_2Locator Description : Gallery
+ INFO | 2016-07-01 16:28:13,307 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:28:14,307 | Common.java | 93 | Gallery element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:28:14,308 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:14,711 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:14,712 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:14,713 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:28:14,713 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:14,713 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:14,713 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:14,714 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:14,714 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:28:15,282 | Common.java | 85 | StaleElementReferenceException occured. Retrying..............
+ERROR | 2016-07-01 16:28:16,283 | Common.java | 93 | Gallery element found but its not in editable/clickable state within 5 timeouts
+ INFO | 2016-07-01 16:28:16,283 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:16,611 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:16,612 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:16,613 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:28:16,613 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:16,613 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:16,613 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:16,614 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:16,614 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:28:16,615 | Common.java | 85 | Gallery is not present
+ INFO | 2016-07-01 16:28:16,616 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:16,616 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 16:28:37,195 | Common.java | 85 | Sucessfully Refreshed browser
+ INFO | 2016-07-01 16:28:37,201 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:37,202 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:37,202 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:37,202 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:38,303 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:39,304 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:39,304 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:39,304 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:39,304 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:40,015 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:41,015 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:41,015 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:41,015 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:41,015 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:41,545 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:42,546 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:42,547 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:42,547 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:42,548 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:43,122 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:44,122 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:44,122 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:44,122 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:44,122 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:44,708 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:28:45,708 | Common.java | 93 | Facebook element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:28:45,709 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:46,059 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:46,060 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:46,060 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:28:46,060 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:46,061 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:46,061 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:46,061 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:46,061 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:28:46,075 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:46,076 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:46,076 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:46,076 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:46,669 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:47,669 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:47,669 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:47,669 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:47,669 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:48,249 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:49,249 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:49,249 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:49,249 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:49,249 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:49,817 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:50,817 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:50,817 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:50,818 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:50,818 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:51,381 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:52,382 | Common.java | 85 | Parsing : Facebook#xpath=//table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:52,382 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:52,382 | Common.java | 85 | Desktop_1_2-Locator : //table[@id='gigyalogindiv_p0']/tbody/tr/td/table/tbody/tr/td[1]/center/div/div/div
+ INFO | 2016-07-01 16:28:52,382 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 16:28:53,188 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:28:54,189 | Common.java | 93 | Facebook element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:28:54,189 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:54,665 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:54,666 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:54,667 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:28:54,667 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:54,667 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:54,668 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:54,668 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:28:54,668 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ERROR | 2016-07-01 16:28:55,296 | Common.java | 93 | Exception: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=51.0.2704.103)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 64 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'ISILWLT156', ip: '192.168.1.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\WINTEC~1\AppData\Local\Temp\scoped_dir4780_27286}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=51.0.2704.103, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cfbf4117f7a9056afab931fb9a0ce943
+Command duration or timeout: 611 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'ISILWLT156', ip: '192.168.1.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\WINTEC~1\AppData\Local\Temp\scoped_dir4780_27286}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=51.0.2704.103, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, webdriver.remote.sessionid=ebcf1bf5-3aa5-4d42-b78f-cac0e173b578, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ebcf1bf5-3aa5-4d42-b78f-cac0e173b578
+ INFO | 2016-07-01 16:28:55,299 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:28:55,307 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:55,308 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:55,308 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:55,308 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:28:56,006 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:57,006 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:57,006 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:57,007 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:57,007 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:28:57,550 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:28:58,551 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:58,551 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:28:58,551 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:28:58,551 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:28:59,063 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:29:00,064 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:00,064 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:29:00,064 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:00,064 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:29:00,602 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ INFO | 2016-07-01 16:29:01,602 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:01,602 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:29:01,602 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:01,602 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:29:02,135 | Common.java | 85 | NoSuchElementException occured. Retrying..............
+ERROR | 2016-07-01 16:29:03,136 | Common.java | 93 | Most Read element not found in '5' seconds timeout 
+ INFO | 2016-07-01 16:29:03,136 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:03,464 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:03,465 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:03,465 | Common.java | 85 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:03,466 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:29:03,466 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:29:03,466 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:29:03,466 | Common.java | 85 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 5
+ INFO | 2016-07-01 16:29:03,467 | Common.java | 85 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 10
+ INFO | 2016-07-01 16:29:03,497 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 16:29:03,497 | Common.java | 85 | Parsing : Most Read#xpath=//section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:03,497 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 16:29:03,497 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='most_read']//ol//li//a
+ INFO | 2016-07-01 16:29:03,497 | Common.java | 85 | Desktop_1_2Locator Description : Most Read
+ INFO | 2016-07-01 16:29:09,127 | Common.java | 85 | Most Read is not displayed
+ INFO | 2016-07-01 16:29:09,128 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:09,129 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 16:29:10,130 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 16:29:10,130 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 16:29:10,130 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:10,131 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:10,132 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:29:10,132 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:10,132 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:11,007 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,008 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,008 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:11,008 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:11,009 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,010 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,010 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:11,010 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:11,011 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,011 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,012 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:11,012 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:11,013 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,013 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,013 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 16:29:11,013 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | Cleanup activites...
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | Cleanup activities - Done...
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | Getting value of SendMailOnFailure from Test Configuration file : No
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | ###################################
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | Script Execution Complete
+ INFO | 2016-07-01 16:29:11,193 | Common.java | 85 | ####################################

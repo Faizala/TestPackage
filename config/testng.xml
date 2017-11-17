@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="Suite" parallel="tests" thread-count="20">
+  <test id="1" name="Desktop_1_1">
+    <parameter name="selenium.machinename" value="Desktop_1_1"/>
+    <parameter name="selenium.host" value="192.168.1.164"/>
+    <parameter name="selenium.port" value="1111"/>
+    <parameter name="selenium.browser" value="Chrome"/>
+    <parameter id="1" name="selenium.url" value="http://www.forbes.com/"/>
+    <parameter id="1" name="selenium.os" value="Windows"/>
+    <parameter id="1" name="selenium.browserVersion" value="48"/>
+    <parameter id="1" name="selenium.osVersion" value="7"/>
+    <parameter id="1" name="TestData.SheetNumber" value="1"/>
+    <classes name="1">
+      <class id="1" name="TestCases.TestCases"/>
+      <methods id="1">
+        <include name="TC001_MR_WelcomePage"/>
+        <include name="TC002_MR_HomePage"/>
+        <include name="TC003_MR_ArticlePage"/>
+        <include name="TC004_MR_MostPopularPage"/>
+        <exclude name="TC005_MR_NewPostPage"/>
+        <exclude name="TC006_MR_ContributorPage"/>
+        <exclude name="TC007_MR_VideoPage"/>
+        <exclude name="TC008_MR_ListsPage"/>
+        <exclude name="TC4_BVPageTest"/>
+        <exclude name="TC6_AngularGalleryCheck"/>
+        <exclude name="TC7_CSFPageCheck"/>
+        <exclude name="TC8_CSRPageCheck"/>
+        <exclude name="TC9_Mob_BVPageTest"/>
+        <exclude name="TC10_MobileGalleryCheck"/>
+        <exclude name="TC11_MobileCSFPageCheck"/>
+        <exclude name="TC12_Mobile_CSRPageCheck"/>
+      </methods>
+    </classes>
+  </test>
+  <test id="2" name="Desktop_1_2">
+    <parameter name="selenium.machinename" value="Desktop_1_2"/>
+    <parameter name="selenium.host" value="192.168.1.164"/>
+    <parameter name="selenium.port" value="1111"/>
+    <parameter name="selenium.browser" value="Chrome"/>
+    <parameter id="2" name="selenium.url" value="http://www.forbes.com/"/>
+    <parameter id="2" name="selenium.os" value="Windows"/>
+    <parameter id="2" name="selenium.browserVersion" value="42"/>
+    <parameter id="2" name="selenium.osVersion" value="7"/>
+    <parameter id="2" name="TestData.SheetNumber" value="1"/>
+    <classes name="2">
+      <class id="2" name="TestCases.TestCases"/>
+      <methods id="2">
+        <include name="TC001_MR_WelcomePage"/>
+        <include name="TC002_MR_HomePage"/>
+        <include name="TC003_MR_ArticlePage"/>
+        <include name="TC004_MR_MostPopularPage"/>
+        <exclude name="TC005_MR_NewPostPage"/>
+        <exclude name="TC006_MR_ContributorPage"/>
+        <exclude name="TC007_MR_VideoPage"/>
+        <exclude name="TC008_MR_ListsPage"/>
+        <exclude name="TC4_BVPageTest"/>
+        <exclude name="TC6_AngularGalleryCheck"/>
+        <exclude name="TC7_CSFPageCheck"/>
+        <exclude name="TC8_CSRPageCheck"/>
+        <exclude name="TC9_Mob_BVPageTest"/>
+        <exclude name="TC10_MobileGalleryCheck"/>
+        <exclude name="TC11_MobileCSFPageCheck"/>
+        <exclude name="TC12_Mobile_CSRPageCheck"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

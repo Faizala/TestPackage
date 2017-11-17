@@ -1,0 +1,558 @@
+ INFO | 2016-07-01 12:28:22,484 | Common.java | 85 | Startup activites...
+ INFO | 2016-07-01 12:28:22,489 | Common.java | 85 | Test Output Directory creation successful :D:\Data\official\Project\Forbes\iSafe_3.0_Forbes_Morning_Report\TestResults\2016_07_01_00_28_22_PM
+ INFO | 2016-07-01 12:28:22,490 | Common.java | 85 | Log File creation successful : LogFile.log
+ INFO | 2016-07-01 12:28:22,494 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:22,500 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:22,744 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:22,832 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:22,833 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 12:28:22,900 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:22,900 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:22,901 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:22,902 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:22,902 | Common.java | 85 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-07-01 12:28:22,937 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:22,937 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:22,938 | Common.java | 85 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2016-07-01 12:28:23,440 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,440 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,440 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:23,441 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 12:28:23,442 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 12:28:23,444 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 12:28:23,444 | Common.java | 85 | Opening Chrome Browser...
+ INFO | 2016-07-01 12:28:23,445 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 12:28:23,445 | Common.java | 85 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2016-07-01 12:28:23,473 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:23,473 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:23,474 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:23,474 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:27,121 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 12:28:27,121 | Common.java | 85 | Successfully Maximised Browser Window
+ INFO | 2016-07-01 12:28:27,133 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 12:28:27,136 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 12:28:27,136 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:27,136 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:27,140 | Common.java | 85 | Browser: Open Successful : chrome
+ INFO | 2016-07-01 12:28:27,141 | Common.java | 85 | Open Browser : chrome
+ INFO | 2016-07-01 12:28:27,142 | Common.java | 85 | Getting value of AppURL from Test Configuration file : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:27,142 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:37,693 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:37,694 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:37,697 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:37,699 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:37,699 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:37,700 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:37,719 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:37,720 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:37,720 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 12:28:37,721 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:37,721 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 12:28:37,721 | Common.java | 85 | ##### Start of Test Case : Welcome Page Validations #####
+ INFO | 2016-07-01 12:28:37,722 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:37,723 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 12:28:37,915 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:37,916 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:37,925 | Common.java | 85 | Parsing : Quote of the day#xpath=//div[@class='content-inner']
+ INFO | 2016-07-01 12:28:37,925 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 12:28:37,926 | Common.java | 85 | Desktop_1_1-Locator : //div[@class='content-inner']
+ INFO | 2016-07-01 12:28:37,926 | Common.java | 85 | Desktop_1_1Locator Description : Quote of the day
+ INFO | 2016-07-01 12:28:38,039 | Common.java | 85 | Sucessfully got the text 'QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers'
+ INFO | 2016-07-01 12:28:38,039 | Common.java | 85 | Forbes Quote of the Day-QUOTE OF
+THE DAY
+"Be so good that when you look up, you see no limits."
+Zerina Akers
+ INFO | 2016-07-01 12:28:38,040 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,041 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,042 | Common.java | 85 | Parsing : Welcome Page Ads#xpath=//div[@id='ads']
+ INFO | 2016-07-01 12:28:38,042 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 12:28:38,042 | Common.java | 85 | Desktop_1_1-Locator : //div[@id='ads']
+ INFO | 2016-07-01 12:28:38,042 | Common.java | 85 | Desktop_1_1Locator Description : Welcome Page Ads
+ INFO | 2016-07-01 12:28:38,081 | Common.java | 85 | Screenshot of Welcome Ads
+ INFO | 2016-07-01 12:28:38,082 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,222 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:38,223 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:38,224 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,225 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:38,226 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:38,226 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:38,227 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:38,228 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:38,229 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:38,229 | Common.java | 85 | Getting value of indium_logo_path from Test Configuration file : .\\Logos\\Indium-Software-Logo.jpg
+ INFO | 2016-07-01 12:28:38,230 | Common.java | 85 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-07-01 12:28:38,240 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 12:28:38,240 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 12:28:38,242 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,244 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,246 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:28:38,247 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:38,248 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,250 | Common.java | 85 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:38,251 | Common.java | 85 | Getting value of TextLoadWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:38,252 | Common.java | 85 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2016-07-01 12:28:38,252 | Common.java | 85 | Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2016-07-01 12:28:38,252 | Common.java | 85 | Element time out set
+ INFO | 2016-07-01 12:28:38,253 | Common.java | 85 | ##### Start of Test Case : Home page Validations #####
+ INFO | 2016-07-01 12:28:38,254 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,254 | Common.java | 85 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-07-01 12:28:38,407 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,407 | Common.java | 85 | Navigating to URL : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:38,910 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,912 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:38,923 | Common.java | 85 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-07-01 12:28:38,923 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 12:28:38,923 | Common.java | 85 | Desktop_1_1-Locator : //a[@class='continue-button']
+ INFO | 2016-07-01 12:28:38,924 | Common.java | 85 | Desktop_1_1Locator Description : Continue to site
+ INFO | 2016-07-01 12:28:39,026 | Common.java | 85 | Sucessfully got the text 'CONTINUE TO SITE'
+ INFO | 2016-07-01 12:28:39,027 | Common.java | 85 | CONTINUE TO SITE-CONTINUE TO SITE
+ INFO | 2016-07-01 12:28:39,027 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:39,038 | Common.java | 85 | Parsing : Continue to site#xpath=//a[@class='continue-button']
+ INFO | 2016-07-01 12:28:39,039 | Common.java | 85 | Desktop_1_1-Identify By : xpath
+ INFO | 2016-07-01 12:28:39,039 | Common.java | 85 | Desktop_1_1-Locator : //a[@class='continue-button']
+ INFO | 2016-07-01 12:28:39,039 | Common.java | 85 | Desktop_1_1Locator Description : Continue to site
+ INFO | 2016-07-01 12:28:50,871 | Common.java | 85 | Navigation Successful : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:50,872 | Common.java | 85 | Navigate to : http://www.forbes.com/
+ INFO | 2016-07-01 12:28:50,873 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:50,874 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:50,874 | Common.java | 85 | Parsing : User zone #xpath=//li//a[text()='U.S.']
+ INFO | 2016-07-01 12:28:50,875 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:28:50,875 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='U.S.']
+ INFO | 2016-07-01 12:28:50,875 | Common.java | 85 | Desktop_1_2Locator Description : User zone 
+ INFO | 2016-07-01 12:28:51,020 | Common.java | 85 | Parsing : User zone #xpath=//li//a[text()='U.S.']
+ INFO | 2016-07-01 12:28:51,021 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:28:51,021 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='U.S.']
+ INFO | 2016-07-01 12:28:51,021 | Common.java | 85 | Desktop_1_2Locator Description : User zone 
+ INFO | 2016-07-01 12:28:53,212 | Common.java | 85 | Click on :Continue to site
+ INFO | 2016-07-01 12:28:53,214 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:53,359 | Common.java | 85 | Redirected to home page Forbes Asia
+ INFO | 2016-07-01 12:28:53,360 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:53,361 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 12:28:54,364 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 12:28:54,364 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 12:28:54,365 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:54,370 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:54,372 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:28:54,373 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:54,374 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:54,378 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 12:28:54,379 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 12:28:54,380 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:54,382 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:54,383 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:28:54,383 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:28:54,384 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:59,354 | Common.java | 85 | Click on :User zone 
+ INFO | 2016-07-01 12:28:59,356 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:59,357 | Common.java | 85 | US tab is displayed
+ INFO | 2016-07-01 12:28:59,358 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:28:59,359 | Common.java | 85 | Parsing : Europe#xpath=//li//a[text()='Europe']
+ INFO | 2016-07-01 12:28:59,360 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:28:59,360 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='Europe']
+ INFO | 2016-07-01 12:28:59,360 | Common.java | 85 | Desktop_1_2Locator Description : Europe
+ INFO | 2016-07-01 12:28:59,441 | Common.java | 85 | Parsing : Europe#xpath=//li//a[text()='Europe']
+ INFO | 2016-07-01 12:28:59,441 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:28:59,441 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='Europe']
+ INFO | 2016-07-01 12:28:59,441 | Common.java | 85 | Desktop_1_2Locator Description : Europe
+ INFO | 2016-07-01 12:29:05,805 | Common.java | 85 | Click on :Europe
+ INFO | 2016-07-01 12:29:05,806 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:05,807 | Common.java | 85 | Europe tab is displayed
+ INFO | 2016-07-01 12:29:05,808 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:05,808 | Common.java | 85 | Parsing : Asia#xpath=//li//a[text()='Asia']
+ INFO | 2016-07-01 12:29:05,808 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:05,808 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='Asia']
+ INFO | 2016-07-01 12:29:05,809 | Common.java | 85 | Desktop_1_2Locator Description : Asia
+ INFO | 2016-07-01 12:29:05,858 | Common.java | 85 | Parsing : Asia#xpath=//li//a[text()='Asia']
+ INFO | 2016-07-01 12:29:05,859 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:05,859 | Common.java | 85 | Desktop_1_2-Locator : //li//a[text()='Asia']
+ INFO | 2016-07-01 12:29:05,859 | Common.java | 85 | Desktop_1_2Locator Description : Asia
+ INFO | 2016-07-01 12:29:12,104 | Common.java | 85 | Click on :Asia
+ INFO | 2016-07-01 12:29:12,105 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:12,106 | Common.java | 85 | Asia tab is displayed
+ INFO | 2016-07-01 12:29:12,107 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:12,107 | Common.java | 85 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-07-01 12:29:12,107 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:12,107 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='top']//div
+ INFO | 2016-07-01 12:29:12,108 | Common.java | 85 | Desktop_1_2Locator Description : Home Page Top Ads
+ INFO | 2016-07-01 12:29:12,183 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:12,190 | Common.java | 85 | Parsing : Home Page Top Ads#xpath=//div[@id='top']//div
+ INFO | 2016-07-01 12:29:12,190 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:12,190 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='top']//div
+ INFO | 2016-07-01 12:29:12,191 | Common.java | 85 | Desktop_1_2Locator Description : Home Page Top Ads
+ INFO | 2016-07-01 12:29:12,254 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:16,491 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:16,493 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:16,494 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 12:29:16,494 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:16,494 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='rec']
+ INFO | 2016-07-01 12:29:16,494 | Common.java | 85 | Desktop_1_2Locator Description : Rec Ads
+ INFO | 2016-07-01 12:29:16,567 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:16,579 | Common.java | 85 | Parsing : Rec Ads#xpath=//div[@id='rec']
+ INFO | 2016-07-01 12:29:16,579 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:16,580 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='rec']
+ INFO | 2016-07-01 12:29:16,580 | Common.java | 85 | Desktop_1_2Locator Description : Rec Ads
+ INFO | 2016-07-01 12:29:16,821 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:21,442 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:21,443 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:21,443 | Common.java | 85 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-07-01 12:29:21,443 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:21,443 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='topx']//div
+ INFO | 2016-07-01 12:29:21,444 | Common.java | 85 | Desktop_1_2Locator Description : Topx Ads
+ INFO | 2016-07-01 12:29:21,499 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:21,517 | Common.java | 85 | Parsing : Topx Ads#xpath=//div[@id='topx']//div
+ INFO | 2016-07-01 12:29:21,517 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:21,517 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='topx']//div
+ INFO | 2016-07-01 12:29:21,517 | Common.java | 85 | Desktop_1_2Locator Description : Topx Ads
+ INFO | 2016-07-01 12:29:21,626 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:24,949 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:24,950 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:24,951 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:24,964 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 12:29:24,965 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:24,965 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 12:29:24,965 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,153 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 12:29:25,153 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 12:29:25,153 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,153 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[1]
+ INFO | 2016-07-01 12:29:25,153 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,257 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 12:29:25,259 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:25,272 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 12:29:25,272 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,272 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 12:29:25,273 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,439 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 12:29:25,440 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 12:29:25,440 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,440 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[2]
+ INFO | 2016-07-01 12:29:25,440 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,500 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 12:29:25,501 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:25,508 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 12:29:25,508 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,508 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 12:29:25,508 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,689 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 12:29:25,689 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 12:29:25,689 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,689 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[3]
+ INFO | 2016-07-01 12:29:25,689 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,735 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 12:29:25,736 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:25,749 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 12:29:25,749 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,749 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 12:29:25,749 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,878 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 12:29:25,878 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 12:29:25,879 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,879 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[4]
+ INFO | 2016-07-01 12:29:25,879 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:25,928 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 12:29:25,929 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:25,936 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 12:29:25,937 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:25,937 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 12:29:25,937 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:26,071 | Common.java | 85 | Sucessfully got the text ''
+ INFO | 2016-07-01 12:29:26,071 | Common.java | 85 | Parsing : Follow Forbes#xpath=//div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 12:29:26,071 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:26,071 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='follow_links']//ul//li[5]
+ INFO | 2016-07-01 12:29:26,071 | Common.java | 85 | Desktop_1_2Locator Description : Follow Forbes
+ INFO | 2016-07-01 12:29:26,126 | Common.java | 85 | Follow On Forbes Avataras are present
+ INFO | 2016-07-01 12:29:26,126 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:26,127 | Common.java | 85 | Parsing : Todays top stories1#xpath=//div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 12:29:26,127 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:26,127 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 12:29:26,127 | Common.java | 85 | Desktop_1_2Locator Description : Todays top stories1
+ INFO | 2016-07-01 12:29:26,224 | Common.java | 85 | Parsing : Todays top stories1#xpath=//div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 12:29:26,224 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:26,224 | Common.java | 85 | Desktop_1_2-Locator : //div[@id='list_headline_hp']//li[@class='promostory promostory-2 ']//h4//a
+ INFO | 2016-07-01 12:29:26,224 | Common.java | 85 | Desktop_1_2Locator Description : Todays top stories1
+ INFO | 2016-07-01 12:29:26,423 | Common.java | 85 | Sucessfully got the text 'Does China Face A Looming 'Japan Syndrome'?'
+ INFO | 2016-07-01 12:29:26,423 | Common.java | 85 | First Link of Top Stories ---Does China Face A Looming 'Japan Syndrome'?
+ INFO | 2016-07-01 12:29:26,424 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:26,425 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:26,426 | Common.java | 85 | Before Video plays
+ INFO | 2016-07-01 12:29:26,427 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:26,436 | Common.java | 85 | Parsing : Video #xpath=//video
+ INFO | 2016-07-01 12:29:26,436 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:26,436 | Common.java | 85 | Desktop_1_2-Locator : //video
+ INFO | 2016-07-01 12:29:26,436 | Common.java | 85 | Desktop_1_2Locator Description : Video 
+ INFO | 2016-07-01 12:29:26,545 | Common.java | 85 | Scroll to Video 
+ INFO | 2016-07-01 12:29:26,651 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:26,652 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:30,277 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:30,278 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:30,279 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:33,279 | Common.java | 85 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-07-01 12:29:33,279 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:33,280 | Common.java | 85 | Desktop_1_2-Locator : //button
+ INFO | 2016-07-01 12:29:33,280 | Common.java | 85 | Desktop_1_2Locator Description : Video Play button
+ INFO | 2016-07-01 12:29:33,335 | Common.java | 85 | Parsing : Video Play button#xpath=//button
+ INFO | 2016-07-01 12:29:33,336 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:33,336 | Common.java | 85 | Desktop_1_2-Locator : //button
+ INFO | 2016-07-01 12:29:33,336 | Common.java | 85 | Desktop_1_2Locator Description : Video Play button
+ INFO | 2016-07-01 12:29:33,497 | Common.java | 85 | Click on :Video Play button
+ INFO | 2016-07-01 12:29:33,498 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:33,498 | Common.java | 85 | Waiting for 6 seconds...
+ INFO | 2016-07-01 12:29:39,500 | Common.java | 85 | Video Played for 6 seconds
+ INFO | 2016-07-01 12:29:39,500 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:39,511 | Common.java | 85 | Parsing : Video #xpath=//video
+ INFO | 2016-07-01 12:29:39,512 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:39,512 | Common.java | 85 | Desktop_1_2-Locator : //video
+ INFO | 2016-07-01 12:29:39,512 | Common.java | 85 | Desktop_1_2Locator Description : Video 
+ INFO | 2016-07-01 12:29:39,629 | Common.java | 85 | Scroll to Video 
+ INFO | 2016-07-01 12:29:39,678 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:39,679 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:43,300 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,301 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,302 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,476 | Common.java | 85 | Most Popular (Top Stories - 01)10 Things To Never Apologize For Again
+ INFO | 2016-07-01 12:29:43,477 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,563 | Common.java | 85 | Most Popular (Top Stories - 11)Fear: Good For Fighting Wooly Mammoths, Bad For Investment Strategy
+ INFO | 2016-07-01 12:29:43,564 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,633 | Common.java | 85 | Most Popular (Top Stories - 21)iPhone 7 Double Leak Reveals Significant Design Change
+ INFO | 2016-07-01 12:29:43,635 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,690 | Common.java | 85 | Most Popular (Top Stories - 31)The Hero's Journey: How To Tell Your Company's Story And Make It Interesting
+ INFO | 2016-07-01 12:29:43,691 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,770 | Common.java | 85 | Most Popular (Top Stories - 41)Want To Retire In Your 30s And Travel The World? This Woman Did
+ INFO | 2016-07-01 12:29:43,771 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,772 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:43,825 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:43,826 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 12:29:45,840 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:45,840 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:45,840 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:45,840 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 12:29:45,940 | Common.java | 85 | Scroll to Twitter
+ INFO | 2016-07-01 12:29:46,104 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:46,104 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:49,386 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:49,389 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:49,389 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:49,390 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:49,390 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:49,390 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 12:29:49,464 | Common.java | 85 | Parsing : Twitter#xpath=//span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:49,465 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:49,465 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon twitter active']
+ INFO | 2016-07-01 12:29:49,465 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 12:29:49,697 | Common.java | 85 | Click on :Twitter
+ INFO | 2016-07-01 12:29:49,698 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:49,707 | Common.java | 85 | Parsing : Twitter#xpath=//ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 12:29:49,708 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:49,708 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='twitter active']//li//a
+ INFO | 2016-07-01 12:29:49,708 | Common.java | 85 | Desktop_1_2Locator Description : Twitter
+ INFO | 2016-07-01 12:29:49,870 | Common.java | 85 | Sucessfully got the text 'Why Creators Should Think Twice Before Jumping To Facebook Live'
+ INFO | 2016-07-01 12:29:49,870 | Common.java | 85 | First Link of Twitter is --Why Creators Should Think Twice Before Jumping To Facebook Live
+ INFO | 2016-07-01 12:29:49,871 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:49,951 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:49,951 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 12:29:51,973 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:51,974 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:51,974 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:51,974 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 12:29:52,072 | Common.java | 85 | Scroll to Facebook
+ INFO | 2016-07-01 12:29:52,121 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:52,121 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:29:55,466 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:55,467 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:55,467 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:55,467 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:55,467 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:55,468 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 12:29:55,523 | Common.java | 85 | Parsing : Facebook#xpath=//span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:55,524 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:55,524 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon facebook']
+ INFO | 2016-07-01 12:29:55,524 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 12:29:55,700 | Common.java | 85 | Click on :Facebook
+ INFO | 2016-07-01 12:29:55,700 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:55,709 | Common.java | 85 | Parsing : Facebook#xpath=//ol[@class='facebook']//li//a
+ INFO | 2016-07-01 12:29:55,709 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:55,709 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='facebook']//li//a
+ INFO | 2016-07-01 12:29:55,709 | Common.java | 85 | Desktop_1_2Locator Description : Facebook
+ INFO | 2016-07-01 12:29:55,871 | Common.java | 85 | Sucessfully got the text 'AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price'
+ INFO | 2016-07-01 12:29:55,871 | Common.java | 85 | First Link of Facebook is --AMD Radeon RX 480 Delivers High Quality VR At An Affordable Price
+ INFO | 2016-07-01 12:29:55,873 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:29:55,921 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:55,921 | Common.java | 85 | Waiting for 2 seconds...
+ INFO | 2016-07-01 12:29:57,928 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 12:29:57,929 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:29:57,929 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 12:29:57,929 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 12:29:58,040 | Common.java | 85 | Scroll to LinkedIn
+ INFO | 2016-07-01 12:29:58,079 | Common.java | 85 | Scroll to location: 
+ INFO | 2016-07-01 12:29:58,080 | Common.java | 85 | Waiting for 3 seconds...
+ INFO | 2016-07-01 12:30:01,321 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,322 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,322 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 12:30:01,322 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,322 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 12:30:01,322 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 12:30:01,378 | Common.java | 85 | Parsing : LinkedIn#xpath=//span[@class='icon linked_in']
+ INFO | 2016-07-01 12:30:01,378 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,378 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='icon linked_in']
+ INFO | 2016-07-01 12:30:01,378 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 12:30:01,517 | Common.java | 85 | Click on :LinkedIn
+ INFO | 2016-07-01 12:30:01,518 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,527 | Common.java | 85 | Parsing : LinkedIn#xpath=//ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 12:30:01,527 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,527 | Common.java | 85 | Desktop_1_2-Locator : //ol[@class='linked_in']//li//a
+ INFO | 2016-07-01 12:30:01,527 | Common.java | 85 | Desktop_1_2Locator Description : LinkedIn
+ INFO | 2016-07-01 12:30:01,672 | Common.java | 85 | Sucessfully got the text 'Spotify Wants You To Add A Playlist To Your Out Of Office Message'
+ INFO | 2016-07-01 12:30:01,672 | Common.java | 85 | First Link of LinkedIn is --Spotify Wants You To Add A Playlist To Your Out Of Office Message
+ INFO | 2016-07-01 12:30:01,673 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,674 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,674 | Common.java | 85 | Parsing : Previous#xpath=//div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 12:30:01,674 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,674 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 12:30:01,675 | Common.java | 85 | Desktop_1_2Locator Description : Previous
+ INFO | 2016-07-01 12:30:01,734 | Common.java | 85 | Parsing : Forbes Lsit#xpath=//h2[text()='Forbes Lists']
+ INFO | 2016-07-01 12:30:01,735 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,735 | Common.java | 85 | Desktop_1_2-Locator : //h2[text()='Forbes Lists']
+ INFO | 2016-07-01 12:30:01,735 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Lsit
+ INFO | 2016-07-01 12:30:01,792 | Common.java | 85 | Verified the Forbes list is displayedtrue
+ INFO | 2016-07-01 12:30:01,793 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:01,802 | Common.java | 85 | Parsing : Previous#xpath=//div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 12:30:01,802 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:01,803 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='prev']//a[@class='bx-prev']
+ INFO | 2016-07-01 12:30:01,803 | Common.java | 85 | Desktop_1_2Locator Description : Previous
+ INFO | 2016-07-01 12:30:02,028 | Common.java | 85 | Click on :Previous
+ INFO | 2016-07-01 12:30:02,029 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,152 | Common.java | 85 | Total List of Forbes lists is--64
+ INFO | 2016-07-01 12:30:02,155 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,165 | Common.java | 85 | Parsing : Next#xpath=//div[@class='next']//a[@class='bx-next']
+ INFO | 2016-07-01 12:30:02,165 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,165 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='next']//a[@class='bx-next']
+ INFO | 2016-07-01 12:30:02,165 | Common.java | 85 | Desktop_1_2Locator Description : Next
+ INFO | 2016-07-01 12:30:02,393 | Common.java | 85 | Click on :Next
+ INFO | 2016-07-01 12:30:02,394 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,394 | Common.java | 85 | Parsing : Forbes Lists Name#xpath=//span[@class='name']
+ INFO | 2016-07-01 12:30:02,395 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,395 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='name']
+ INFO | 2016-07-01 12:30:02,395 | Common.java | 85 | Desktop_1_2Locator Description : Forbes Lists Name
+ INFO | 2016-07-01 12:30:02,452 | Common.java | 85 | Forbes Lists ticker is working
+ INFO | 2016-07-01 12:30:02,452 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,453 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,491 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[1]
+ INFO | 2016-07-01 12:30:02,491 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,491 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[1]
+ INFO | 2016-07-01 12:30:02,492 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:02,620 | Common.java | 85 | Sucessfully got the text 'FORBES'
+ INFO | 2016-07-01 12:30:02,621 | Common.java | 85 | Footer Channels are FORBES
+ INFO | 2016-07-01 12:30:02,621 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,629 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[2]
+ INFO | 2016-07-01 12:30:02,629 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,629 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[2]
+ INFO | 2016-07-01 12:30:02,629 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:02,742 | Common.java | 85 | Sucessfully got the text 'BUSINESS'
+ INFO | 2016-07-01 12:30:02,743 | Common.java | 85 | Footer Channels are BUSINESS
+ INFO | 2016-07-01 12:30:02,744 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,751 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[3]
+ INFO | 2016-07-01 12:30:02,751 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,751 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[3]
+ INFO | 2016-07-01 12:30:02,752 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:02,873 | Common.java | 85 | Sucessfully got the text 'INVESTING'
+ INFO | 2016-07-01 12:30:02,873 | Common.java | 85 | Footer Channels are INVESTING
+ INFO | 2016-07-01 12:30:02,874 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:02,881 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[4]
+ INFO | 2016-07-01 12:30:02,881 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:02,881 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[4]
+ INFO | 2016-07-01 12:30:02,881 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,036 | Common.java | 85 | Sucessfully got the text 'TECHNOLOGY'
+ INFO | 2016-07-01 12:30:03,036 | Common.java | 85 | Footer Channels are TECHNOLOGY
+ INFO | 2016-07-01 12:30:03,037 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,044 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[5]
+ INFO | 2016-07-01 12:30:03,045 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,045 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[5]
+ INFO | 2016-07-01 12:30:03,045 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,181 | Common.java | 85 | Sucessfully got the text 'ENTREPRENEURS'
+ INFO | 2016-07-01 12:30:03,182 | Common.java | 85 | Footer Channels are ENTREPRENEURS
+ INFO | 2016-07-01 12:30:03,182 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,191 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[6]
+ INFO | 2016-07-01 12:30:03,192 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,192 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[6]
+ INFO | 2016-07-01 12:30:03,192 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,319 | Common.java | 85 | Sucessfully got the text 'OP/ED'
+ INFO | 2016-07-01 12:30:03,319 | Common.java | 85 | Footer Channels are OP/ED
+ INFO | 2016-07-01 12:30:03,320 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,327 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[7]
+ INFO | 2016-07-01 12:30:03,327 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,327 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[7]
+ INFO | 2016-07-01 12:30:03,327 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,472 | Common.java | 85 | Sucessfully got the text 'LEADERSHIP'
+ INFO | 2016-07-01 12:30:03,473 | Common.java | 85 | Footer Channels are LEADERSHIP
+ INFO | 2016-07-01 12:30:03,473 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,481 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[8]
+ INFO | 2016-07-01 12:30:03,481 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,481 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[8]
+ INFO | 2016-07-01 12:30:03,481 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,618 | Common.java | 85 | Sucessfully got the text 'LIFESTYLE'
+ INFO | 2016-07-01 12:30:03,618 | Common.java | 85 | Footer Channels are LIFESTYLE
+ INFO | 2016-07-01 12:30:03,619 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,627 | Common.java | 85 | Parsing : Channels#xpath=//div[@class='channels']//ul[@class='edittools-list']//li[9]
+ INFO | 2016-07-01 12:30:03,627 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,627 | Common.java | 85 | Desktop_1_2-Locator : //div[@class='channels']//ul[@class='edittools-list']//li[9]
+ INFO | 2016-07-01 12:30:03,627 | Common.java | 85 | Desktop_1_2Locator Description : Channels
+ INFO | 2016-07-01 12:30:03,743 | Common.java | 85 | Sucessfully got the text 'LISTS'
+ INFO | 2016-07-01 12:30:03,743 | Common.java | 85 | Footer Channels are LISTS
+ INFO | 2016-07-01 12:30:03,744 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,752 | Common.java | 85 | Parsing : Media Forbes#xpath=//section[@class='legalese clearfix']//small
+ INFO | 2016-07-01 12:30:03,752 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,752 | Common.java | 85 | Desktop_1_2-Locator : //section[@class='legalese clearfix']//small
+ INFO | 2016-07-01 12:30:03,752 | Common.java | 85 | Desktop_1_2Locator Description : Media Forbes
+ INFO | 2016-07-01 12:30:03,869 | Common.java | 85 | Sucessfully got the text '©  2016 Forbes Media LLC. All Rights Reserved.'
+ INFO | 2016-07-01 12:30:03,870 | Common.java | 85 | ©  2016 Forbes Media LLC. All Rights Reserved.
+ INFO | 2016-07-01 12:30:03,871 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,871 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:03,882 | Common.java | 85 | Parsing : Login button #xpath=//a[@class='button account ga_tracked']
+ INFO | 2016-07-01 12:30:03,883 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:03,883 | Common.java | 85 | Desktop_1_2-Locator : //a[@class='button account ga_tracked']
+ INFO | 2016-07-01 12:30:03,883 | Common.java | 85 | Desktop_1_2Locator Description : Login button 
+ INFO | 2016-07-01 12:30:10,350 | Common.java | 85 | Click on :Login button 
+ INFO | 2016-07-01 12:30:10,350 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:10,351 | Common.java | 85 | Parsing : Login Button#xpath=//span[@class='outer']
+ INFO | 2016-07-01 12:30:10,351 | Common.java | 85 | Desktop_1_2-Identify By : xpath
+ INFO | 2016-07-01 12:30:10,351 | Common.java | 85 | Desktop_1_2-Locator : //span[@class='outer']
+ INFO | 2016-07-01 12:30:10,351 | Common.java | 85 | Desktop_1_2Locator Description : Login Button
+ INFO | 2016-07-01 12:30:10,382 | Common.java | 85 | Login form is available
+ INFO | 2016-07-01 12:30:10,383 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:10,383 | Common.java | 85 | Waiting for 1 seconds...
+ INFO | 2016-07-01 12:30:11,383 | Common.java | 85 | Getting value of Version_Name from Test Configuration file : 2
+ INFO | 2016-07-01 12:30:11,384 | Common.java | 85 | Getting value of Project_Name from Test Configuration file : DEMO
+ INFO | 2016-07-01 12:30:11,385 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:11,386 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:11,387 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:30:11,388 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:30:11,388 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:12,162 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,163 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,163 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:30:12,164 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:12,165 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,165 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,165 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:30:12,166 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:12,166 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,166 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,167 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:30:12,167 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:12,167 | Common.java | 85 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,168 | Common.java | 85 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2016-07-01 12:30:12,168 | Common.java | 85 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2016-07-01 12:30:12,168 | Common.java | 85 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2016-07-01 12:30:12,315 | Common.java | 85 | Cleanup activites...
+ INFO | 2016-07-01 12:30:12,315 | Common.java | 85 | Cleanup activities - Done...
+ INFO | 2016-07-01 12:30:12,316 | Common.java | 85 | ###################################
+ INFO | 2016-07-01 12:30:12,316 | Common.java | 85 | Script Execution Complete
+ INFO | 2016-07-01 12:30:12,316 | Common.java | 85 | ####################################
